@@ -63,8 +63,8 @@
   * [🌌 Borderlands](frogland/neighborhoods/borderlands.md)
   * [🪄 Frog Worts](frogland/neighborhoods/frog-worts.md)
 * [🐸 Characters](frogland/characters/README.md)
-  * [Suave Motherfroggers](frogland/characters/suave-motherfroggers.md)
-  * [Femme Fatale](frogland/characters/femme-fatale.md)
+  * [Suave Mudderfroggers](frogland/characters/suave-mudderfroggers.md)
+  * [Femme Fatales](frogland/characters/femme-fatales.md)
 * [🏆 Quests](frogland/quests/README.md)
   * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
 
