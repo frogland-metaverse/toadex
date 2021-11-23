@@ -38,7 +38,7 @@ Where NewPangea's pillars will be fleshed out by and for the Gutter Gang communi
 
 ### Island of Osseous
 
-Where NewPangea's pillars will be fleshed out by and for the Gutter Gang community to make Gutterville a home like no other for the cats, rats, dogs, and pigeons.
+The home district to the Wicked Craniums
 
 ### Architecture
 
