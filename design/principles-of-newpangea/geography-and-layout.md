@@ -45,19 +45,12 @@ NewPangea is the overall metaverse, consisting of five zones with each zone havi
 * To the east of Frogland's Plateau
 * General theme is "Mud and Flood – Lakes and Creeks"
 * Not populated yet
-* A Swamp District is reserved for BAYC for now. It's not clear if there can be other 'Swamps' in the Lowlands, or if they would want to reserve the word 'Swamp'
+* A Swamp District is reserved for some of our favorite higher primates for now.
 * The City of Black Water (provisional)
 
 ### The Exposition Zone
 
 * To the north of Frogland's Plateau
 * General theme is: "a laboratory/playground/workshop for the world's creative future"
-* Unclear whether it's Districts differ from the NFT-Collectibles Districts
-* TBD - Are the Districts themed by creative venues eg galleries, performance spaces, stages, etc.?
-
-OR
-
-* Are there cities named for a general type of creative exhibition with Districts that can be split by sub-types? Examples:
-  * Art City has districts based on different styles of art.
-  * Stage City has districts based on type of performances (trad theater, musical theater, stand-up, improv, mime)
-  * Music City has districts based on musical genres.
+* It's Districts differ from the NFT-Collectibles Districts in unique ways
+* The Districts are themed by creative venues and galleries, performance spaces, stages&#x20;
