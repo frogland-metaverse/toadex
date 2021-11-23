@@ -11,7 +11,7 @@ description: >-
 
 ### Lore and Content
 
-In some projects, fanfiction can eventually gather enough response and momentum that it becomes cannon. In Frogland, we want to flip the script and help all community creators write their own ideas and inspiration into Frogland's lore and gameplay. Similarly, we want the same for our partner projects - to be able to create a space that is absolutely dripping with proof of both individual's and community's ideas, aesthetics, and history.
+In some projects, fan fiction can eventually gather enough response and momentum that it becomes canon. In Frogland, we want to flip the script and help all community creators write their own ideas and inspiration into Frogland's lore and gameplay. Similarly, we want the same for our partner projects - to be able to create a space that is absolutely dripping with proof of both individual's and community's ideas, aesthetics, and history.
 
 ### Creative Spaces
 
