@@ -8,7 +8,7 @@ description: Welcome, frens!
 
 If you've made it here, you're interested in finding out what the frog is hoppening with the Notorious Frogs of Frogland, NewPangea!&#x20;
 
-Consider this Frogland's White Paper. Except...how can a simple 'white paper' encompass all that the Notorious Frogs, Frogland, and NewPangea strive for and represent? More importantly, frogs aren't white...they're _green._
+Consider this Frogland's White Paper. Except...how can a simple 'white paper' encompass all that the Notorious Frogs, Frogland, and NewPangea strive for and represent? More importantly, frogs aren't white...they're _multicolored._
 
 ![Art from Dream Reality Interactive.](<.gitbook/assets/Untitled-1 (1).png>)
 
