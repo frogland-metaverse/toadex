@@ -40,15 +40,15 @@
 * [👕 Wearables](gameplay/wearables.md)
 * [♟ Mini Games](gameplay/mini-games.md)
 
-## MULTIVERSE
+## Frogland News Network (FNN)
 
-* [📰 The Daily Splat (tabloid)](multiverse/the-daily-splat-tabloid.md)
-* [📻 KHOP Radio](multiverse/khop-radio.md)
-* [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
-  * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
-  * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
+* [📰 The Daily Splat (tabloid)](frogland-news-network-fnn/the-daily-splat-tabloid.md)
+* [📻 KHOP Radio](frogland-news-network-fnn/khop-radio.md)
+* [📕 Frogland Glossary](frogland-news-network-fnn/frogland-glossary/README.md)
+  * [Froxford Froglish Dictionary](frogland-news-network-fnn/frogland-glossary/froxford-froglish-dictionary.md)
+  * [Hard Boiled Slang](frogland-news-network-fnn/frogland-glossary/hard-boiled-slang.md)
 
-## FROGLAND
+## 🐸 FROGLAND
 
 * [📜 Lore](frogland/lore/README.md)
   * [Concept Art](frogland/lore/concept-art.md)
@@ -68,13 +68,17 @@
 * [🏆 Quests](frogland/quests/README.md)
   * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
 
-## GUTTERVILLE
+## 😼 GUTTERVILLE
 
 * [📜 Lore](gutterville/lore.md)
 
-## Osseous
+## ☠ Osseous
 
 * [📜 Lore](osseous/lore.md)
+
+## 👺 ETHEREAL ENCLAVE
+
+* [📜 Lore](ethereal-enclave/lore.md)
 
 ## ARCHITECTURE
 

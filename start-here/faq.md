@@ -10,7 +10,7 @@ coverY: 0
 
 NewPangea is the new metaverse, home to The Notorious Frogs of Frogland, as well as other profile picture projects, artists, and creators alike.&#x20;
 
-### _What is Frogland? _
+### _What is Frogland?_&#x20;
 
 Frogland is a district on a plateau in the center of NewPangea where the Notorious Frogs reside.
 
@@ -24,7 +24,15 @@ The three other founding pfp districts in NewPangea are: Gutterville, home of th
 
 ### _What does #BuyFrogGetLand mean?_
 
-Each Notorious Frog NFT is directly tied to a plot of land in NewPangea. When you purchase a Notorious Frog, you are also purchasing land in the metaverse.
+Each Notorious Frog NFT has a home in NewPangea called a LilyPAD (Personal Access Domain). When you purchase a Notorious Frog, you are also purchasing land in the metaverse.
+
+### _**So I'm buying a frog AND land?**_
+
+Yes, for the price of one NFT! We will take a snapshot of wallet addresses when we are ready to release the land, at which time every wallet with a Notorious Frog in it will be dropped or be able to claim their plot of land (LilyPAD). The Notorious Frogs will NOT be tied to their land after the snapshot is taken.
+
+### _What do with Notorious Frog after land drop?_
+
+The ownership of land is not the only utility with the Notorious Frogs NFTs - even after the land is distributed, the frogs will represent the characters/avatars their hodlrs can play and utilize in the metaverse. Make sure you take a look at your frogs stats, boosts, and non-visual traits when you buy - all of that will be incorporated into the gameplay.
 
 ### _Where can I buy a Notorious Frog?_
 
@@ -36,7 +44,7 @@ NewPangea, Frogland, and the other districts are all being individually curated 
 
 ### _Wen metaverse? Wen land?_
 
-NewPangea is already under development with Dream Reality Interactive (DRI), a top tier game development studio founded by Sony's flagship London Studio management. Check them out [here](https://www.dreamrealityinteractive.com).&#x20;
+NewPangea is already under development with Dream Reality Interactive (DRI), a top tier game development studio founded by Sony's flagship London Studio team. Check them out [here](https://www.dreamrealityinteractive.com). As of 12/26/21, we launched a multiplayer demo for our community members after less than 90 days of development!
 
 ### _When can I get involved?_
 
@@ -44,4 +52,4 @@ Right now!! Frogland's discord is being pushed to it's limits for community memb
 
 ### _Wen play?!_
 
-We are aiming to have demonstrable progress by the end of 2021/start of 2022, and have a playable demo for community members in the first half of 2022. Join our community to stay up to date on the latest hoppenings!&#x20;
+For community members, right now!! The demo of Frogland will remain live for our community to explore as we continue to iterate and build out NewPangea at scale behind the scenes.&#x20;

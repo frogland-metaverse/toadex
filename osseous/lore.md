@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: ../.gitbook/assets/wc.jpg
 ---
 
 # 📜 Lore

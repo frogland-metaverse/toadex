@@ -14,7 +14,7 @@ description: >-
   * (n) Woman
   * (v) To walk&#x20;
 
-### **B **
+### **B**&#x20;
 
 * Babe: Woman&#x20;
 * Baby: A person, can be said to either a man or a woman&#x20;
