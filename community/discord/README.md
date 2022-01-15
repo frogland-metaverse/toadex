@@ -41,19 +41,19 @@ Description: Frog social media, any project shills, and hodlr status private cha
 
 ### CREATIVE
 
-Channels**: #🧠︱ideas, #"Froxford Froglish Dictionary", #🌐︱newpangea-architects,                  #🌐︱developers, #🎶︱frogland-mixtape, #🎨︱nf-art-assets, #🐸︱deribbitives**
+Channels**: #🧠︱ideas, #"Froxford Froglish Dictionary", #🌐︱newpangea-architects, #🌐︱developers, #🎶︱frogland-mixtape, #🎨︱nf-art-assets, #🐸︱deribbitives**
 
 Description: All ideas, suggestions, collabs, and discussion of the "how" for Frogland and NewPangea.
 
 ### FROGLAND NEWS NETWORK (FNN)
 
-Channels**: #📜︱lore, #📰︱the-daily-splat, #📻︱khop-radio, #🗄︱fbi-flyls,                                #📝︱message-board**
+Channels**: #📜︱lore, #📰︱the-daily-splat, #📻︱khop-radio, #🗄︱fbi-flyls, #📝︱message-board**
 
 Description: Concept art repository and feedback, alongside community collaboration of cannon and externally facing media for the hoppenings in the metaverse. Also all fillable forms for NewPangea or other Notorious deeds.
 
 ### MAIN STREET
 
-Channels: **#🦋︱the-dragonfly, #🏛︱town-square, #💐︱the-gardens, #🎷︱zooz-bar**
+Channels: **#🦋︱the-dragonfly, #🏛︱town-square, #💐︱the-gardens,** # **👑︱kings-avenue,  #🎷︱zooz-bar**
 
 Description: The main drag in Frogland with some typical central venues. Best for chatting with fellow frogs, or enjoying a Hoptini or two!
 
