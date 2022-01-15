@@ -24,7 +24,7 @@ There is something for everyone in NewPangea - whether you are a creator or buil
 
 This is where all of the pieces and parts currently bridging the gap between discord beta testing and real NewPangea playability reside.&#x20;
 
-### Multiverse&#x20;
+### Frogland News Network (FNN)
 
 Official Frogland news sources and documentation.&#x20;
 
@@ -38,7 +38,11 @@ Where NewPangea's pillars will be fleshed out by and for the Gutter Gang communi
 
 ### Island of Osseous
 
-The home district to the Wicked Craniums
+The home district to the Wicked Craniums.
+
+### Ethereal Enclave
+
+Where the 0N1 Force has receded to in their attempt to beat the clock as it ticks down their final 7,777 hours, and try to escape D34TH.
 
 ### Architecture
 

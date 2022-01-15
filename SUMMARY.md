@@ -22,6 +22,9 @@
 
 ## COMMUNITY
 
+* [🎮 Discord](community/discord/README.md)
+  * [💰 Notable Discord Functions](community/discord/notable-discord-functions.md)
+* [🐲 FRPG](community/frpg.md)
 * [🎨 For Artists](community/for-artists.md)
 * [⌨ For Designers/Engineers](community/for-designers-engineers.md)
 * [🕹 For Gamers](community/for-gamers.md)
@@ -42,11 +45,11 @@
 
 ## Frogland News Network (FNN)
 
-* [📰 The Daily Splat (tabloid)](frogland-news-network-fnn/the-daily-splat-tabloid.md)
-* [📻 KHOP Radio](frogland-news-network-fnn/khop-radio.md)
-* [📕 Frogland Glossary](frogland-news-network-fnn/frogland-glossary/README.md)
-  * [Froxford Froglish Dictionary](frogland-news-network-fnn/frogland-glossary/froxford-froglish-dictionary.md)
-  * [Hard Boiled Slang](frogland-news-network-fnn/frogland-glossary/hard-boiled-slang.md)
+* [📰 The Daily Splat (tabloid)](multiverse/the-daily-splat-tabloid.md)
+* [📻 KHOP Radio](multiverse/khop-radio.md)
+* [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
+  * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
+  * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
 
 ## 🐸 FROGLAND
 
