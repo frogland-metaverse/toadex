@@ -8,11 +8,11 @@ coverY: 0
 
 ### Nazar Frogs
 
-A collective of seven frogs in the community with their own goals and ideas of how to make their run of good karma in a casino into much, much more.&#x20;
+A collective of seven frogs in the community with their own goals and ideas of how to make their run of good karma in a casino into much, much more. Running the Aquatica Casino in Frogland, these frogs are known to have many fingers in many fly pies throughout the government.&#x20;
 
 ### Nude Frog Club
 
-A group of frogs centered around their lack of clothing and their origin story in the hot springs in the Frogland plateau, all recorded in _The Book of the Naked Frog_, written by their own.&#x20;
+A group of frogs centered around their lack of clothing and their origin story in the hot springs in the Frogland plateau, all recorded in _The Book of the Naked Frog_ - a text written by their own.&#x20;
 
 ### Real PADwives of Frogland
 
