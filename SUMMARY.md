@@ -24,6 +24,7 @@
 
 * [🎮 Discord](community/discord/README.md)
   * [💰 Notable Discord Functions](community/discord/notable-discord-functions.md)
+  * [🧙 Roles](community/discord/roles.md)
 * [🐲 FRPG](community/frpg.md)
 * [🎨 For Artists](community/for-artists.md)
 * [⌨ For Designers/Engineers](community/for-designers-engineers.md)
