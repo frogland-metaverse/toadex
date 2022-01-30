@@ -6,6 +6,7 @@
 
 * [🐸 Introduction](start-here/introduction.md)
 * [❓ FAQ](start-here/faq.md)
+* [💚 The Frog Team](start-here/the-frog-team.md)
 * [🗺 Toadmap](start-here/toadmap.md)
 * [📅 Froggy Events](start-here/froggy-events.md)
 * [🎥 Frogs in the News](start-here/frogs-in-the-news.md)
