@@ -73,6 +73,7 @@
   * [Femme Fatales](frogland/characters/femme-fatales.md)
 * [🏆 Quests](frogland/quests/README.md)
   * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
+* [🐸 Notorious Frog Bios](frogland/notorious-frog-bios.md)
 
 ## 😼 GUTTERVILLE
 
