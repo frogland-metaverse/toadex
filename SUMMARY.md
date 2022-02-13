@@ -36,7 +36,8 @@
 
 ## GAMEPLAY
 
-* [👾 Character Development](gameplay/character-development.md)
+* [👾 Character Development](gameplay/character-development/README.md)
+  * [🐸 Notorious Frog Bios](gameplay/character-development/notorious-frog-bios.md)
 * [🏝 Land](gameplay/land.md)
 * [💎 Economy](gameplay/economy.md)
 * [🏛 Collectives](gameplay/collectives.md)
@@ -73,7 +74,6 @@
   * [Femme Fatales](frogland/characters/femme-fatales.md)
 * [🏆 Quests](frogland/quests/README.md)
   * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
-* [🐸 Notorious Frog Bios](frogland/notorious-frog-bios.md)
 
 ## 😼 GUTTERVILLE
 
