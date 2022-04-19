@@ -59,6 +59,7 @@
 * [📜 Lore](frogland/lore/README.md)
   * [Concept Art](frogland/lore/concept-art.md)
   * [FBI Flyles](frogland/lore/fbi-flyles.md)
+  * [Legends](frogland/lore/legends.md)
 * [🏢 Organizations](frogland/organizations/README.md)
   * [🚓 The Fuzz](frogland/organizations/the-fuzz.md)
   * [🛖 Gangs, Guilds, & Groups](frogland/organizations/gangs-guilds-and-groups.md)
