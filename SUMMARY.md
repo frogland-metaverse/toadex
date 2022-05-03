@@ -57,6 +57,13 @@
 ## 🐸 FROGLAND
 
 * [📜 Lore](frogland/lore/README.md)
+  * [Jimmy The Knee's Murder!](frogland/lore/jimmy-the-knees-murder/README.md)
+    * [Chapter 1](frogland/lore/jimmy-the-knees-murder/chapter-1.md)
+    * [Chapter 2](frogland/lore/jimmy-the-knees-murder/chapter-2.md)
+    * [Chapter 3](frogland/lore/jimmy-the-knees-murder/chapter-3.md)
+    * [Chapter 4](frogland/lore/jimmy-the-knees-murder/chapter-4.md)
+    * [Chapter 5](frogland/lore/jimmy-the-knees-murder/chapter-5.md)
+    * [Chapter 6](frogland/lore/jimmy-the-knees-murder/chapter-6.md)
   * [Concept Art](frogland/lore/concept-art.md)
   * [FBI Flyles](frogland/lore/fbi-flyles.md)
   * [Legends](frogland/lore/legends.md)
