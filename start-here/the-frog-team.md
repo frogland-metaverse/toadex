@@ -6,6 +6,8 @@ description: >-
 
 # 💚 The Frog Team
 
+## The Frogland Founders
+
 ### Snoop Frogg, CEF (Chief Executive Frog)
 
 A Silicon Valley CEO with a track record developing innovative technologies, Snoop developed partnerships with Nvidia and built products and prototypes for Samsung and Mattel. A Judge at the Bermuda International Film Festival, Snoop recently presented NFTs and Frogland and the NewPangea metaverse to the United Nations.&#x20;
@@ -33,3 +35,9 @@ A Weapon of Mass Construction, building software anywhere code runs. This frog i
 ### Lollihops, CPCF (Chief Production & Community Frog)
 
 Coming from a work background dealing in the importance of human connection and communication through more than just spoken word, Lollihops made the leap into full time crypto and NFTs shortly after the launch of Frogland. Fondly known as the Chief Cat Herder, she is the touch point between all internal and external branches of the project, including the members of the community, partner projects, and game dev studio. She ensures the fluid blending of community vision with creative and narrative direction in the testbed of the discord, then integrated into the gameplay and aesthetic of the metaverse.
+
+## Full Time Staff
+
+### Flycatcher, **Production Manager / Producer / Project Manager**
+
+A Production Professional, Flycatcher is a producer/production manager, project manager, problem solver and team builder. He has worked across the spectrum in film including: animation, stereo conversion (3D), AR/VR, video games, simulations, asset development tools, breakdown tracking, and budgeting. He's also very familiar with the film process from concept through to final delivery (post production). He's worked on Disney Features - usually tied to various studio big tent pole productions. He really enjoys establishing and maintaining effective pipelines and workflows. He tries (and succeeds!) to keep our Frogland internal team in line and on schedule.
