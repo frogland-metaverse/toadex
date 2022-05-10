@@ -69,7 +69,7 @@
   * [Legends](frogland/lore/legends.md)
 * [🏢 Organizations](frogland/organizations/README.md)
   * [🚓 The Fuzz](frogland/organizations/the-fuzz.md)
-  * [😎 Gangs](frogland/organizations/gangs/README.md)
+  * [😎 Gangs](frogland/organizations/gangs-guilds-and-groups.md)
     * [The Nazar Frogs](frogland/organizations/gangs/the-nazar-frogs.md)
     * [Webbed Pete Gang](frogland/organizations/gangs/webbed-pete-gang.md)
     * [Magic Guild](frogland/organizations/gangs/magic-guild.md)
