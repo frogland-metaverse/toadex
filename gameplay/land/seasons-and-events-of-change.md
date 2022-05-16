@@ -1,0 +1,15 @@
+# Seasons & Events of Change
+
+## Seasonal Shifts in Resource Allocation <a href="#264e" id="264e"></a>
+
+Each plot of land is unique, but there are common characteristics among parcels in any given zone. For example, plots in the grassland are bigger in acreage than in the urban zones, but those more rural areas also lack the convenience of being close to trade and commerce.
+
+Some items in Frogland are only available as a resource harvested from occupied private property. Resource allocations are finite for a specific piece of land and can be depleted over time, making planning and strategic decision making important so as to not exhaust your resources.
+
+Further, each season leads to changes in resource availability in each zone. There is a time to reap, a time to sow, a time of replenishment, and periods of depletion. These variances are driven by cyclical weather and climate change in addition to rarer cosmic events across the eons. Earth, Wind, Fire, and Water (and dare we say, the Ethereal plane) will play important roles — although this metaverse is yet unexplored, so these events aren’t necessarily familiar, and could have very unusual impacts. The strangeness of the atmosphere and ecosystem combined with extraterrestrial, surreal events are what makes NewPangea an extraordinary world.
+
+Land zones are distributed throughout Frogland according to the climate, and because of that association, the sizes and shapes of zones may change over time. The ecology of the landscape changes based on cycles that may not be familiar and as predictable as seasons based on our understanding of “annual” travel around a central source of light and energy. As in real life, such events may seem random when they are actually based on dynamics that exist in the surrounding cosmos. There is a sky above Frogland, and above all of NewPangea. There are stars and comets in different shapes than what we see on Earth, giving the inhabitants of NewPangea every reason to believe that there are forces such as magic, astrology, supreme beings, or straight up mystery — should they choose. Social forces can alter economies as much as the climate in some cases, adding yet another turn to this rabbit hole.
+
+Initially, each land zone will have more land area dedicated to it than all land deeds issued to that zone. This feature not only simplifies the initial play mechanics, but allows for enough room to enable landowners the opportunity to move around once they are ensconced in the world. This design also enables migratory movements as people move from zone to zone within the NewPangea supercontinent, or enter it for the first time.
+
+The property dynamics of NewPangea are designed specifically to enable social bonds to form and evolve, or even fracture when conflicts arise. Over time, every manner of the social construct should be allowed to exist and maybe, just maybe, the right bribe to the right Frog whose in-laws are on the right Planning Commission may allow a land deed to change its type.

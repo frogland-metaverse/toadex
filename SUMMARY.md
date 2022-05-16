@@ -13,6 +13,7 @@
 
 ## DESIGN
 
+* [👑 Frogland Manifesto](design/frogland-manifesto.md)
 * [⚖ Principles of NewPangea](design/principles-of-newpangea/README.md)
   * [Geography and Layout](design/principles-of-newpangea/geography-and-layout.md)
   * [The Pillars of the Metaverse](design/principles-of-newpangea/the-pillars-of-the-metaverse.md)
@@ -49,7 +50,27 @@
 * [🕹 For Gamers](community/for-gamers.md)
 * [🎸 For Musicians](community/for-musicians.md)
 * [💃 For Socialites](community/for-socialites.md)
-* [🧠 Ideas to Reality](community/ideas-to-reality.md)
+
+## Community Projects
+
+* [🧠 Ideas to Reality](community-projects/ideas-to-reality.md)
+* [🎶 Sapo Studios](community-projects/sapo-studios.md)
+* [🌳 Seed Trees](community-projects/seed-trees.md)
+
+## ARCHITECTURE
+
+* [🖼 Non-Fungible Tokens](architecture/non-fungible-tokens/README.md)
+  * [The Notorious Frogs](architecture/non-fungible-tokens/the-notorious-frogs/README.md)
+    * [Traits](architecture/non-fungible-tokens/the-notorious-frogs/traits.md)
+    * [Levels & Affiliations](architecture/non-fungible-tokens/the-notorious-frogs/levels-and-affiliations.md)
+    * [Boosts](architecture/non-fungible-tokens/the-notorious-frogs/boosts.md)
+    * [Frog Value Post Land Claim](architecture/non-fungible-tokens/the-notorious-frogs/frog-value-post-land-claim.md)
+    * [What If I Don't Want To Play?](architecture/non-fungible-tokens/the-notorious-frogs/what-if-i-dont-want-to-play.md)
+  * [Land Deeds](architecture/non-fungible-tokens/land-deeds.md)
+  * [LilyPADs](architecture/non-fungible-tokens/lilypads.md)
+  * [Permits](architecture/non-fungible-tokens/permits.md)
+* [💾 Contracts](architecture/contracts.md)
+* [⛓ Blockchain](architecture/blockchain.md)
 
 ## GAMEPLAY
 
@@ -57,6 +78,12 @@
   * [🐸 Notorious Frog Bios](gameplay/character-development/notorious-frog-bios.md)
 * [🏝 Land](gameplay/land/README.md)
   * [Ecological Zones in Frogland](gameplay/land/ecological-zones-in-frogland.md)
+  * [Seasons & Events of Change](gameplay/land/seasons-and-events-of-change.md)
+  * [Land Mechanics](gameplay/land/land-mechanics.md)
+  * [Land Deeds](gameplay/land/land-deeds.md)
+  * [Permitting and Building Improvements](gameplay/land/permitting-and-building-improvements.md)
+  * [The Planning Commission](gameplay/land/the-planning-commission.md)
+  * [Page 3](gameplay/land/page-3.md)
 * [💎 Economy](gameplay/economy.md)
 * [🏛 Collectives](gameplay/collectives.md)
 * [⚗ Alchemy & Magic](gameplay/alchemy-and-magic.md)
@@ -133,9 +160,3 @@
 ## 👺 ETHEREAL ENCLAVE
 
 * [📜 Lore](ethereal-enclave/lore.md)
-
-## ARCHITECTURE
-
-* [⛓ Blockchain](architecture/blockchain.md)
-* [💾 Contracts](architecture/contracts.md)
-* [🖼 Non-Fungible Tokens](architecture/non-fungible-tokens.md)

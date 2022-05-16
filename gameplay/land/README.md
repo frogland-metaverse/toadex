@@ -6,6 +6,8 @@ coverY: 0
 
 # 🏝 Land
 
+We recognize that explanations of this material can be complex and dense. As the technical details become inseparable from the buildout of the world, we’re writing this and future informational articles to be as clearly described as possible. We also will be as transparent as possible, so it’s essential we acknowledge that the core foundational code and related interactive experiences are under intense and active development. That means as we explain the design while building the world it will construct, some details may need to change as the layers are established, implemented, and tested. As always, our commitment is to design Frogland as experiences that are playable, fun, filled with compelling mysteries and answers, and that is sustainable over the long term as time and space expand forward, outward, and inward.\
+\
 There are several different types of land in NewPangea. The world is full of vibrant scenes, vistas, ecosystems, and climates. Each area is different but there are some core concepts that are applicable to all areas.
 
 ### Public Land

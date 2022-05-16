@@ -1,0 +1,13 @@
+---
+description: LilyPADs and their Land Deeds
+---
+
+# Land Deeds
+
+The primary unit of land ownership in Frogland is the land deed itself. Land deeds do not have a fixed map coordinate associated with them. Each deed can be used to claim an unowned land plot and each deed can be moved to a different plot through the Planning Commission. The Planning Commission is an in-game construct that is responsible for managing different factors of property dynamics in the game world. Each ecological zone has its own Planning Commission.
+
+The land deed can be transferred to another land plot by submitting a request to the appropriate Planning Commission for that zone. When a land deed is used to claim a plot of land within the zone where it was issued, that deed receives a bonus modifier that affects gameplay in various ways. For example, a land deed issued by the Forest Commission that is used by the deed owner to claim a land plot in a forest zone could result in ownership of a plot that has enhanced resource gathering related to that location — wood, for instance. Other benefits may also accompany that forest deed when used to obtain a plot in the forest zone. More details will be shared about the structure and operation of these Planning Commissions in the future.
+
+All land deeds share the same traits, but not all land deeds are equal. Each land deed includes characteristics that make it suitable to associate with certain parcels of land. It is up to the player to weigh different strategies to determine if a deed should be associated with a particular parcel. Each land deed has an _affinity_ for a specific zone, determined by the planning commission that issues the deed. Each land deed includes a trait that indicates its physical _size_, which can mean different things in different zones. For instance, land in the grassland is objectively larger than in the urban district, but size isn’t everything.
+
+Land deeds also indicate _efficiency_, which impacts the time it takes to create improvements. Some folks are just lucky, so each deed also includes a _luck_ trait that can affect the probability of certain outcomes, such as the likelihood of discovering artifacts or legendary items on that property (or possibly across that specific zone). Each land deed also comes with _prestige_, a value describing its lineage, provenance, or history. The prestige value can influence a planning commission’s actions.
