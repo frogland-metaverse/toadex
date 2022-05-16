@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
 description: >-
   Welcome to the Toadex! Here you will find a starting point for exploration
   through our philosophy.
+cover: ../.gitbook/assets/ObsessionBoard - v3.png
+coverY: 0
 ---
 
 # 🐸 Introduction
@@ -46,4 +46,4 @@ Where the 0N1 Force has receded to in their attempt to beat the clock as it tick
 
 ### Architecture
 
-The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, etc.&#x20;
+The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, and more.&#x20;

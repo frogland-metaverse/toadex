@@ -22,7 +22,12 @@ coverY: 0
 
 **1/14/22** - Scavenger Hunt Collab with Degenz Den NFT
 
-**3/28 - 3/30/22** - NFT LA
+**3/20 - 3/28/22** - Game Developers Conference 2022
+
+**3/28 - 4/2/22** - NFT LA
+
+**3/31/22 -** Frogland x PASS x Nomad BLVD x Metanoise x NftyTunes party
+
+**First half of June** - Froghodlr land claim
 
 **6/22 - 6/26/22** - NFT NYC
-

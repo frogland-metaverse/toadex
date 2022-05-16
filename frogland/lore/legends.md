@@ -11,3 +11,7 @@ Legend has it...the tiaras have been stolen by other inhabitants of Frogland and
 If one goes to investigate into the boosts of the Notorious Frogs especially with their relevance to the Essence token that the Frogs emit (read [this article](https://frogland.medium.com/notorious-frogs-the-essence-of-frogland-afbf7c64781f) if you are unfamiliar), you may notice that some frogs have an 'Unkown' boost. Everything has a reason in Frogland, and Unkown makes appearances time and time again: as the name of the 'Unkown Magicks' bot in charge of all things mystical in the discord, in writings of lore from the community and the team, and in the future.&#x20;
 
 Legend has it...the mystery of the Unkown and all it represents will not only be of importance to the Frogs themselves, but also in the history of NewPangea and how the Others came to discover it, long before the Frogs found that curved device hidden in the woods...
+
+### Missing Mini-Crowns
+
+Some say that the missing mini-crowns are actually just tiaras

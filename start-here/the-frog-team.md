@@ -8,7 +8,7 @@ description: >-
 
 ## The Frogland Founders
 
-### Snoop Frogg, CEF (Chief Executive Frog)
+### Snoop Frog, CEF (Chief Executive Frog)
 
 A Silicon Valley CEO with a track record developing innovative technologies, Snoop developed partnerships with Nvidia and built products and prototypes for Samsung and Mattel. A Judge at the Bermuda International Film Festival, Snoop recently presented NFTs and Frogland and the NewPangea metaverse to the United Nations.&#x20;
 
