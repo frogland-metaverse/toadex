@@ -2,7 +2,7 @@
 description: AKA Personal Access Domain (PAD), AKA Land Plots.
 ---
 
-# LilyPADs
+# 🏝 LilyPADs
 
 The Land plots will have their own sets of traits, stats, and rarity. A plot of land can be on one of several ecological zones, such as coastal, grassland, wetland, mountains, forest, desert, metropolitan. The land’s zone type implies a dominant resource based on the ecology of its zone, but resources from other zones may also be present.
 

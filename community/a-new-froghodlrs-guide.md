@@ -2,6 +2,7 @@
 description: >-
   Created by another amazing mod, Donkey Frog, this guide has a little bit of
   everything to get a new Froghodlr started in the discord and community!
+coverY: 0
 ---
 
 # 🐸 A New Froghodlr's Guide

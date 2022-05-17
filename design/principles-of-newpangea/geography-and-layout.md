@@ -2,7 +2,7 @@
 description: The general map of NewPangea and where zones and districts are.
 ---
 
-# Geography and Layout
+# 🗺 Geography and Layout
 
 ### Original Map of NewPangea
 

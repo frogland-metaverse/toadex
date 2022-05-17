@@ -15,12 +15,12 @@
 
 * [👑 Frogland Manifesto](design/frogland-manifesto.md)
 * [⚖ Principles of NewPangea](design/principles-of-newpangea/README.md)
-  * [Geography and Layout](design/principles-of-newpangea/geography-and-layout.md)
-  * [The Pillars of the Metaverse](design/principles-of-newpangea/the-pillars-of-the-metaverse.md)
+  * [🗺 Geography and Layout](design/principles-of-newpangea/geography-and-layout.md)
+  * [🏛 The Pillars of the Metaverse](design/principles-of-newpangea/the-pillars-of-the-metaverse.md)
 * [🌐 Themes of Frogland](design/themes-of-frogland/README.md)
-  * [Aesthetics](design/themes-of-frogland/aesthetics.md)
-  * [Economy](design/themes-of-frogland/economy.md)
-  * [Entertainment](design/themes-of-frogland/entertainment.md)
+  * [🔍 Aesthetics](design/themes-of-frogland/aesthetics.md)
+  * [💰 Economy](design/themes-of-frogland/economy.md)
+  * [🔮 Entertainment](design/themes-of-frogland/entertainment.md)
 
 ## COMMUNITY
 
@@ -44,7 +44,7 @@
     * [Just For Fun...](community/discord/bot-commands/just-for-fun....md)
     * [Utility Commands](community/discord/bot-commands/utility-commands.md)
 * [🐲 FRPG](community/frpg/README.md)
-  * [FRPG FAQ](community/frpg/frpg-faq.md)
+  * [❓ FRPG FAQ](community/frpg/frpg-faq.md)
 * [🎨 For Artists](community/for-artists.md)
 * [⌨ For Designers/Engineers](community/for-designers-engineers.md)
 * [🕹 For Gamers](community/for-gamers.md)
@@ -60,15 +60,15 @@
 ## ARCHITECTURE
 
 * [🖼 Non-Fungible Tokens](architecture/non-fungible-tokens/README.md)
-  * [The Notorious Frogs](architecture/non-fungible-tokens/the-notorious-frogs/README.md)
+  * [🐸 The Notorious Frogs](architecture/non-fungible-tokens/the-notorious-frogs/README.md)
     * [Traits](architecture/non-fungible-tokens/the-notorious-frogs/traits.md)
     * [Levels & Affiliations](architecture/non-fungible-tokens/the-notorious-frogs/levels-and-affiliations.md)
     * [Boosts](architecture/non-fungible-tokens/the-notorious-frogs/boosts.md)
     * [Frog Value Post Land Claim](architecture/non-fungible-tokens/the-notorious-frogs/frog-value-post-land-claim.md)
     * [What If I Don't Want To Play?](architecture/non-fungible-tokens/the-notorious-frogs/what-if-i-dont-want-to-play.md)
-  * [Land Deeds](architecture/non-fungible-tokens/land-deeds.md)
-  * [LilyPADs](architecture/non-fungible-tokens/lilypads.md)
-  * [Permits](architecture/non-fungible-tokens/permits.md)
+  * [📻 Land Deeds](architecture/non-fungible-tokens/land-deeds.md)
+  * [🏝 LilyPADs](architecture/non-fungible-tokens/lilypads.md)
+  * [📄 Permits](architecture/non-fungible-tokens/permits.md)
 * [💾 Contracts](architecture/contracts.md)
 * [⛓ Blockchain](architecture/blockchain.md)
 
@@ -82,8 +82,12 @@
   * [Land Mechanics](gameplay/land/land-mechanics.md)
   * [Land Deeds](gameplay/land/land-deeds.md)
   * [Permitting and Building Improvements](gameplay/land/permitting-and-building-improvements.md)
-  * [The Planning Commission](gameplay/land/the-planning-commission.md)
-  * [Page 3](gameplay/land/page-3.md)
+  * [🏢 The Planning Commission](gameplay/land/the-planning-commission/README.md)
+    * [What Is The Planning Commission?](gameplay/land/the-planning-commission/what-is-the-planning-commission.md)
+    * [What Does The Planning Commission Do In Game?](gameplay/land/the-planning-commission/what-does-the-planning-commission-do-in-game.md)
+    * [What Does It Do For The Economy?](gameplay/land/the-planning-commission/what-does-it-do-for-the-economy.md)
+    * [Bribing The Planning Commission](gameplay/land/the-planning-commission/bribing-the-planning-commission.md)
+    * [Syndicate Bribes For The Planning Commission](gameplay/land/the-planning-commission/syndicate-bribes-for-the-planning-commission.md)
 * [💎 Economy](gameplay/economy.md)
 * [🏛 Collectives](gameplay/collectives.md)
 * [⚗ Alchemy & Magic](gameplay/alchemy-and-magic.md)
@@ -138,7 +142,6 @@
   * [🥸 Syndicates](frogland/organizations/syndicates.md)
   * [🎩 Organized Crime](frogland/organizations/organized-crime.md)
 * [🌆 Neighborhoods](frogland/neighborhoods/README.md)
-  * [Page 1](frogland/neighborhoods/page-1.md)
   * [🏪 Main Street](frogland/neighborhoods/main-street.md)
   * [👯 Green Light District](frogland/neighborhoods/green-light-district.md)
   * [🌌 Borderlands](frogland/neighborhoods/borderlands.md)
@@ -148,6 +151,7 @@
   * [Femme Fatales](frogland/characters/femme-fatales.md)
 * [🏆 Quests](frogland/quests/README.md)
   * [🦋 Murder at the Dragonfly](frogland/quests/murder-at-the-dragonfly.md)
+  * [🗺 Frogland Map Quest](frogland/quests/frogland-map-quest.md)
 
 ## 😼 GUTTERVILLE
 

@@ -1,5 +1,7 @@
 ---
 description: A Frog of a Different Ribbit
+cover: ../.gitbook/assets/green night — Oct 26.png
+coverY: 0
 ---
 
 # 👑 Frogland Manifesto

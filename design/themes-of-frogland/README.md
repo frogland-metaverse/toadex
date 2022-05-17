@@ -2,7 +2,7 @@
 description: >-
   A beautiful aesthetic with dangerous adventures, linked by innovative tech and
   tokenomics.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../../.gitbook/assets/green night — Oct 26.png
 coverY: 0
 ---
 

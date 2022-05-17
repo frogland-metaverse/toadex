@@ -2,6 +2,8 @@
 description: >-
   These seven founders comprise the founding team of Frogland, NewPangea and
   Good Ribbit Productions, LLC.
+cover: ../.gitbook/assets/ObsessionBoard - v3 (1).png
+coverY: 0
 ---
 
 # 💚 The Frog Team

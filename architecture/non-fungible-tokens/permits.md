@@ -2,7 +2,7 @@
 description: How to maximize your resource harvesting.
 ---
 
-# Permits
+# 📄 Permits
 
 While the Land does emit tokens based on the random assignment that happens at a change of season, the land might not yield its resources to their maximum if the land stays in its original state. The rate and yield of token emissions can be improved by utilizing a Frog to build a resource-harvesting structure on the land. That structure requires a _Permit._
 

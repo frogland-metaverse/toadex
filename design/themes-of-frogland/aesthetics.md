@@ -1,10 +1,10 @@
 ---
 description: Frogland; Beautiful, but Dangerous
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../../.gitbook/assets/green night — Oct 26.png
 coverY: 0
 ---
 
-# Aesthetics
+# 🔍 Aesthetics
 
 What is scarier than a blank canvas and a lone artist's search for inspiration? Using the hive mind of our community to bounce ideas, reference images, and concept art off of each other and our team, we've directed DRI to create Frogland with the phrase "beautiful, but dangerous" as the theme. This is evident in the noire, gangster, roaring 20s style of showy and flagrant wealth thinly masking the marred decay of society in all aspects. This leads to the perpetuation of furtive crimes, backhanded deals, and a desperation to do whatever it takes to maintain the frenetic speed of how to live fast and die young, but - as the Notorious Frogs entered the metaverse in an immortal form, their expectation is that there is no limit to danger, that they are invulnerable. They are free from death, or so they think...
 

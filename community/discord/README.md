@@ -1,5 +1,6 @@
 ---
 description: https://discord.gg/frogland
+cover: ../../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
 

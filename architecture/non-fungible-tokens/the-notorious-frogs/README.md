@@ -2,7 +2,7 @@
 description: The 10k generative and genesis collection of the NewPangea metaverse.
 ---
 
-# The Notorious Frogs
+# 🐸 The Notorious Frogs
 
 ## What Does It All Mean?&#x20;
 

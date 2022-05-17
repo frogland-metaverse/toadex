@@ -2,11 +2,11 @@
 description: >-
   Utilizing crypto, NFTs, and the blockchain to help build a new economic system
   for NewPangea.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../../.gitbook/assets/green night — Oct 26.png
 coverY: 0
 ---
 
-# Economy
+# 💰 Economy
 
 The concept of digital scarcity is central to the economy of NewPangea. Each item has a purpose and each item is designed specifically to facilitate collaboration between players while ensuring that the world retains balance.
 

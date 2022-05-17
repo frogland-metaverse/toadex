@@ -1,10 +1,10 @@
 ---
 description: Escape. Challenge. Opportunity.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../../.gitbook/assets/green night — Oct 26.png
 coverY: 0
 ---
 
-# Entertainment
+# 🔮 Entertainment
 
 Metaverses offer a multidimensional emotional experience. Part of the Frogland Team's approach is to use the discord server as a platform to test the ideas that form the pillars of Frogland Zone of the NewPangea metaverse. What we learned is that there are many folks out there who not only want a place to go with things to do, but who enjoy the process of developing Frogland's stories, culture, mood, and activity. Although most people may not have the time or the inclination to contribute to the blueprint we are continuously presenting to our game development studio partner, those who do are finding that Frogland isn't just an NFT project, but an opportunity to exercise creative muscles and to influence what the metaverse experience will be by to a true family whose ideas have heavily influenced the entire project and how creativity is discovered and utilized.
 

@@ -5,7 +5,7 @@ description: >-
   themes.
 ---
 
-# The Pillars of the Metaverse
+# 🏛 The Pillars of the Metaverse
 
 ## Community and Socially Driven
 

@@ -1,6 +1,6 @@
 ---
 description: NewPangea's philosophy.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../../.gitbook/assets/green night — Oct 26.png
 coverY: 0
 ---
 
