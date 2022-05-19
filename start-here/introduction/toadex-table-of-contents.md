@@ -2,11 +2,9 @@
 description: >-
   Welcome to the Toadex! Here you will find a starting point for exploration
   through our philosophy.
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
 ---
 
-# 🐸 Introduction
+# Toadex Table of Contents
 
 ### Start Here
 
@@ -19,6 +17,14 @@ This encompasses and explains our broadest philosophies of both NewPangea and Fr
 ### Community
 
 There is something for everyone in NewPangea - whether you are a creator or builder, a thinker or a player, anyone and everyone is welcome to play, explore, and contribute.
+
+### Community Projects
+
+With the help of the Frog Team, several community members or Syndicates have already begun the process of bringing their dreams into reality, launching their projects and platforms with unique integrations into the NewPangea metaverse.&#x20;
+
+### Architecture
+
+The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, and more.&#x20;
 
 ### Gameplay
 
@@ -44,6 +50,4 @@ The home district to the Wicked Craniums.
 
 Where the 0N1 Force has receded to in their attempt to beat the clock as it ticks down their final 7,777 hours, and try to escape D34TH.
 
-### Architecture
-
-The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, and more.&#x20;
+###

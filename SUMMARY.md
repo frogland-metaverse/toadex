@@ -4,7 +4,8 @@
 
 ## START HERE
 
-* [🐸 Introduction](start-here/introduction.md)
+* [🐸 Introduction](start-here/introduction/README.md)
+  * [Toadex Table of Contents](start-here/introduction/toadex-table-of-contents.md)
 * [❓ FAQ](start-here/faq.md)
 * [💚 The Frog Team](start-here/the-frog-team.md)
 * [🗺 Toadmap](start-here/toadmap.md)
@@ -54,8 +55,10 @@
 ## Community Projects
 
 * [🧠 Ideas to Reality](community-projects/ideas-to-reality.md)
+* [🎵 Frogland Mixtape](community-projects/frogland-mixtape.md)
 * [🎶 Sapo Studios](community-projects/sapo-studios.md)
-* [🌳 Seed Trees](community-projects/seed-trees.md)
+* [🌳 Seed Trees](community-projects/seed-trees/README.md)
+  * [Official Links](community-projects/seed-trees/official-links.md)
 
 ## ARCHITECTURE
 
@@ -82,11 +85,11 @@
   * [Land Mechanics](gameplay/land/land-mechanics.md)
   * [Land Deeds](gameplay/land/land-deeds.md)
   * [Permitting and Building Improvements](gameplay/land/permitting-and-building-improvements.md)
-  * [🏢 The Planning Commission](gameplay/land/the-planning-commission/README.md)
+  * [🏢 The Planning Commission](gameplay/land/the-planning-commission.md)
     * [What Is The Planning Commission?](gameplay/land/the-planning-commission/what-is-the-planning-commission.md)
     * [What Does The Planning Commission Do In Game?](gameplay/land/the-planning-commission/what-does-the-planning-commission-do-in-game.md)
     * [What Does It Do For The Economy?](gameplay/land/the-planning-commission/what-does-it-do-for-the-economy.md)
-    * [Bribing The Planning Commission](gameplay/land/the-planning-commission/bribing-the-planning-commission.md)
+    * [Bribing The Planning Commission](gameplay/land/page-3.md)
     * [Syndicate Bribes For The Planning Commission](gameplay/land/the-planning-commission/syndicate-bribes-for-the-planning-commission.md)
 * [💎 Economy](gameplay/economy.md)
 * [🏛 Collectives](gameplay/collectives.md)
@@ -97,7 +100,7 @@
 
 ## Frogland News Network (FNN)
 
-* [📰 The Daily Splat (tabloid)](multiverse/the-daily-splat-tabloid.md)
+* [📰 The Daily Splat](frogland-news-network-fnn/the-daily-splat.md)
 * [📻 KHOP Radio](frogland-news-network-fnn/khop-radio/README.md)
   * [Frog Team Recordings](frogland-news-network-fnn/khop-radio/frog-team-recordings.md)
   * [FRPG Serial Drama](frogland-news-network-fnn/khop-radio/frpg-serial-drama.md)
