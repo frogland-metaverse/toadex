@@ -10,6 +10,8 @@ description: All of the official Frogland links.
 
 **Twitter -** [https://twitter.com/frogland\_io/](https://twitter.com/frogland\_io/)
 
+**Discord -** [https://discord.gg/frogland ](https://discord.gg/frogland)
+
 **Instagram -** [https://www.instagram.com/frogland.io/](https://www.instagram.com/frogland.io/)
 
 **Linktree -** [https://linktr.ee/Frogland](https://linktr.ee/Frogland)
