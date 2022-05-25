@@ -7,13 +7,29 @@ description: >-
 
 # Chicken Fighting
 
-### **$buy-chicken**
+<details>
+
+<summary>$buy-chicken</summary>
 
 Purchase a chicken for the notorious cock fighting rings in Frogland.
 
-### **$chicken-fight \[bet amount]** _OR_ **$cf \[bet amount]**
+#### Command Variations
 
-As your cock wins matches, it increases in strength and win chance percentage, potentially getting to Legendary Cock status at 85% and then ready for a PPV style fight! Best done in #The-Gardens.&#x20;
+* **$buy-chi** - shorthand
+
+</details>
+
+<details>
+
+<summary><strong>$chicken-fight</strong></summary>
+
+As your cock wins matches, it increases in strength and win chance percentage, potentially getting to Legendary Cock status at 85% and then ready for a PPV style fight! Follow the command with the bet **amount.** Best done in #The-Gardens.&#x20;
+
+#### Command Variations
+
+* **$cf -** shorthand
+
+</details>
 
 ### PVP Chicken Fights
 

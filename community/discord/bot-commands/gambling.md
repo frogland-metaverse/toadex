@@ -4,18 +4,44 @@ description: What's more notorious than losing your life savings gambling?
 
 # Gambling
 
-### **$roulette \[bet amount]** _OR_ **$rr \[bet amount]**
+<details>
 
-What are the chances? Only playable in the #Casino.
+<summary><strong>$roulette</strong></summary>
 
-### **$blackjack \[bet amount]** _OR_ **$bj \[bet amount]**
+What are the chances? Follow the command with your bet **amount**. Only playable in the #Casino.
 
-Try your hand at beating the dealer to 21! Only playable in the #Casino.
+#### **Command Variations**
 
-### **$slots** **\[bet amount]**&#x20;
+* **$rr -** shorthand
 
-A slot machine! Easy enough, right? Only playable in the #Casino.
+</details>
 
-### /roll \[# of die]d \[# of sides]
+<details>
 
-Example: /roll 1d20 (roll one 20 sided dice). Used for the FRPG to roll for moves and damage.&#x20;
+<summary><strong>$blackjack</strong> </summary>
+
+Try your hand at beating the dealer to 21! Follow the command with your bet **amount**. Only playable in the #Casino.
+
+#### **Command Variations**
+
+* **$bj -** shorthand
+
+</details>
+
+<details>
+
+<summary><strong>$slots</strong></summary>
+
+A slot machine! Easy enough, right? Follow the command with your bet **amount**. Only playable in the #Casino.
+
+</details>
+
+<details>
+
+<summary>/roll</summary>
+
+A command to roll any number of any sided dice. Used for the FRPG to roll for moves and damage. Follow the command with the number of die you want to roll, the letter 'd', then the number of sides on the dice.&#x20;
+
+**Example**: /roll 1d20 (roll one 20 sided dice).
+
+</details>

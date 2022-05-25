@@ -6,17 +6,33 @@ description: Using the powers of the bots for notoriety, not nefariousness.
 
 There are some bots and bot commands that are purely utility driven and there to help.&#x20;
 
-### Translator Bot
+## Translator Bot
 
-#### **/translate:** \[What you want to say goes here] **to:** \[choice of language]
+<details>
+
+<summary>/translate: </summary>
 
 This is a massively helpful tool for communicating with those outside of your native language. While we do have at least one mod that speaks at least one of the languages in our International Frogs section, this tool is massively helpful all the way around.&#x20;
 
-#### Emoji Flag Reactions to Messages
+#### Example
+
+**/translate:** \[What you want to say goes here] **to:** \[choice of language]
+
+</details>
+
+<details>
+
+<summary>Translate via Emoji Reactions</summary>
 
 If you would like to request a translation into a different language, react to the message with the flag of the country who's language you wold like the message translated into. The bot will translate and reply to you in the same channel for ease of communication.&#x20;
 
-### Music Bots
+#### Example
+
+If there is a message written in English and I would like to see it in French, click on the :flag\_fr: emoji, which will prompt the bot to put out a translation of that message into that channel.&#x20;
+
+</details>
+
+## Music Bots
 
 #### Too Many Zooz DJ (Tempo)
 
@@ -26,23 +42,82 @@ This bot is playing Too Many Zooz 24/7 in the **#Zooz-Main-Stage** voice channel
 
 This bot can be used in the **#Speakeasy**, **#Lilypad-Lounge**, or any other voice channels except for **#Zooz-Main-Stage.** To interact with the bot, join a voice channel, then use the commands listed below.&#x20;
 
-**$play \[song, artist, album, or URL]** - plays a song if nothing is on, otherwise adds to the queue
+<details>
 
-**$radio \[station name]** - stream a radio station
+<summary><strong>$play</strong></summary>
 
-**$pause** - pauses the music
+Follow the command with a **song title**, **artist name**, **album**, or **UR**L. Plays a song if nothing is on, otherwise adds to the queue.
 
-**$stop** - stops the music and the bot will exit the channel
+</details>
 
-**$skip** - skips to the next song
+<details>
 
-**$loop** - adds the songs back to the queue when finished
+<summary><strong>$radio</strong></summary>
 
-**$queue** - view songs in the queue
+Follow the command with the **radio station name.** Stream a radio station.&#x20;
 
-**$shuffle** - shuffles the queue
+</details>
 
-**$autoplay** - will play similar songs once the queue is over
+<details>
 
-**$clear queue** - clears all songs from the queue
+<summary><strong>$pause</strong></summary>
 
+Pauses the music
+
+</details>
+
+<details>
+
+<summary><strong>$stop</strong></summary>
+
+Stops the music and the bot will exit the channel
+
+</details>
+
+<details>
+
+<summary><strong>$skip</strong></summary>
+
+Skips to the next song.
+
+</details>
+
+<details>
+
+<summary><strong>$loop</strong></summary>
+
+Adds the songs back to the queue when finished.
+
+</details>
+
+<details>
+
+<summary><strong>$queue</strong> </summary>
+
+View songs in the queue**.**
+
+</details>
+
+<details>
+
+<summary><strong>$shuffle</strong></summary>
+
+Shuffles the queue.
+
+</details>
+
+<details>
+
+<summary><strong>$autoplay</strong></summary>
+
+Will play similar songs once the queue is over.
+
+</details>
+
+<details>
+
+<summary><strong>$clear queue</strong></summary>
+
+Clears all songs from the queue.
+
+</details>

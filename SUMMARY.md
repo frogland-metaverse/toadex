@@ -75,6 +75,7 @@
   * [📄 Permits](architecture/non-fungible-tokens/permits.md)
 * [💾 Contracts](architecture/contracts.md)
 * [⛓ Blockchain](architecture/blockchain.md)
+* [🎮 Metaverse Iterations](architecture/metaverse-iterations.md)
 
 ## GAMEPLAY
 
@@ -106,8 +107,7 @@
   * [Frog Team Recordings](frogland-news-network-fnn/khop-radio/frog-team-recordings.md)
   * [FRPG Serial Drama](frogland-news-network-fnn/khop-radio/frpg-serial-drama.md)
   * [Scratch Track Saturdays](frogland-news-network-fnn/khop-radio/scratch-track-saturdays.md)
-  * [All Chill No Shill](frogland-news-network-fnn/khop-radio/all-chill-no-shill.md)
-  * [Page 2](frogland-news-network-fnn/khop-radio/page-2.md)
+  * [All Chill, No Shill](frogland-news-network-fnn/khop-radio/all-chill-no-shill.md)
 * [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
   * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
   * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
@@ -164,7 +164,3 @@
 ## ☠ Osseous
 
 * [📜 Lore](osseous/lore.md)
-
-## 👺 ETHEREAL ENCLAVE
-
-* [📜 Lore](ethereal-enclave/lore.md)
