@@ -24,14 +24,16 @@ NewPangea Metaverse Demo - [https://youtu.be/FKql3XW1dGM](https://youtu.be/FKql3
 
 Twitch Stream of Demo - [https://www.twitch.tv/videos/1254299168](https://www.twitch.tv/videos/1254299168)
 
-Sandstorm podcast with Snoop Frog, Lollihops, and Gamabunta - [https://www.twitch.tv/videos/1406532725](https://www.twitch.tv/videos/1406532725)
+Sandstorm with Snoop Frog, Lollihops, & Gamabunta - [https://www.twitch.tv/videos/1406532725](https://www.twitch.tv/videos/1406532725)
 
-Fireside chat with Snoop Frog, Lollihops, and Gamabunta - [https://youtu.be/huYtyVsLWoU](https://youtu.be/huYtyVsLWoU)
+Fireside chat with Snoop Frog, Lollihops, & Gamabunta - [https://youtu.be/huYtyVsLWoU](https://youtu.be/huYtyVsLWoU)
 
 Creative UK presentation with Lollihops - [https://vimeo.com/687125249](https://vimeo.com/687125249)
 
 GDC Expo Interview about Curve - [https://youtu.be/NipOuR0d2f0](https://youtu.be/NipOuR0d2f0)
 
-DIY Investor YouTube review in demo - [https://youtu.be/dcZL\_2wmCnc](https://youtu.be/dcZL\_2wmCnc)
+DIY Investing YouTube review in demo - [https://youtu.be/dcZL\_2wmCnc](https://youtu.be/dcZL\_2wmCnc)
 
 To Mint Or Not To Mint with Snoop Frog - [https://youtu.be/U6gNjpdQLkY](https://youtu.be/U6gNjpdQLkY)
+
+The Defiant with Snoop, Froggy Digital, & Gamabunta - [https://youtu.be/BwNiXCRvaIA](https://youtu.be/BwNiXCRvaIA)
