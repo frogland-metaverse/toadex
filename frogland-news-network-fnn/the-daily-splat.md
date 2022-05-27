@@ -1,6 +1,6 @@
 ---
 description: The Daily Splat is Frogland's own sensationalist tabloid news source.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../.gitbook/assets/ObsessionBoard - v3.png
 coverY: 0
 ---
 
