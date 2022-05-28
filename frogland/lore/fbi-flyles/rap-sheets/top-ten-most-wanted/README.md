@@ -22,13 +22,26 @@ description: >-
 [hypnotoad.md](hypnotoad.md)
 {% endcontent-ref %}
 
+{% content-ref url="mr.-pepe.md" %}
+[mr.-pepe.md](mr.-pepe.md)
+{% endcontent-ref %}
 
+{% content-ref url="ribbit.md" %}
+[ribbit.md](ribbit.md)
+{% endcontent-ref %}
 
+{% content-ref url="sammy-the-bullfrog.md" %}
+[sammy-the-bullfrog.md](sammy-the-bullfrog.md)
+{% endcontent-ref %}
 
+{% content-ref url="the-frog-prince.md" %}
+[the-frog-prince.md](the-frog-prince.md)
+{% endcontent-ref %}
 
+{% content-ref url="the-mad-frogger.md" %}
+[the-mad-frogger.md](the-mad-frogger.md)
+{% endcontent-ref %}
 
-
-
-
-
-
+{% content-ref url="jack-the-ribbit.md" %}
+[jack-the-ribbit.md](jack-the-ribbit.md)
+{% endcontent-ref %}
