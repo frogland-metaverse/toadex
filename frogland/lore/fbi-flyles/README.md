@@ -2,6 +2,6 @@
 description: Rap sheets and other leaked flyles from the Frogland Bureau of Instigations.
 ---
 
-# FBI Flyles
+# 🗄 FBI Flyles
 
-More info coming soon (tm).&#x20;
+Public record of some of the most notorious of all Notorious Frogs, shown in their Rap Sheets, Wanted posters, and more!

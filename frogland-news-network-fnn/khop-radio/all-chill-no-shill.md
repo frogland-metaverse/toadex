@@ -1,10 +1,12 @@
 ---
-description: Created, hosted, and produced by Hazer, aka Spot, this
+description: >-
+  Created, hosted, and produced by Hazer, aka Spot, this community generated
+  podcast dives deeper than the surface.
 ---
 
 # All Chill, No Shill
 
-#### Calling all: Builders - Misfits - Geeks - Creatives - Artists - Developers
+## Calling All: Builders - Misfits - Geeks - Creatives - Artists - Developers
 
 We seek to be interesting without hype, to be passionate but not polarizing. We do it for those who want to go deeper - no shilling, no elevator pitches. Just conversations from unexpected places with an emphasis on creativity and the passion behind web3.
 

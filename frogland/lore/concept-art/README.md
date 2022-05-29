@@ -4,6 +4,5 @@ description: >-
   show the progression and evolution following community feedback.
 ---
 
-# Concept Art
+# 🎨 Concept Art
 
-More info coming soon (tm).&#x20;
