@@ -53,7 +53,7 @@
 * [🎸 For Musicians](community/for-musicians.md)
 * [💃 For Socialites](community/for-socialites.md)
 
-## Community Projects
+## COMMUNITY PROJECTS
 
 * [🧠 Ideas to Reality](community-projects/ideas-to-reality.md)
 * [🎵 Frogland Mixtape](community-projects/frogland-mixtape.md)
@@ -100,7 +100,7 @@
 * [👕 Wearables](gameplay/wearables.md)
 * [♟ Mini Games](gameplay/mini-games.md)
 
-## Frogland News Network (FNN)
+## FROGLAND NEWS NETWORK (FNN)
 
 * [📰 The Daily Splat](frogland-news-network-fnn/the-daily-splat.md)
   * [2022](frogland-news-network-fnn/the-daily-splat/2022/README.md)
@@ -223,6 +223,6 @@
 
 * [📜 Lore](gutterville/lore.md)
 
-## ☠ Osseous
+## ☠ ISLAND OF OSSEOUS
 
-* [📜 Lore](osseous/lore.md)
+* [📜 Lore](island-of-osseous/lore.md)
