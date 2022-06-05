@@ -6,6 +6,6 @@ coverY: 0
 
 # 🕹 For Gamers
 
-NewPangea is revolutionary for many reasons, and our focus on game design, development, and tech are not to be underestimated. Working with our top tier game dev studio, Dream Reality Interactive (DRI), we are building something out of this world and are planning to have it accessible through many different platforms, including desktop, mobile, and VR technologies_._
+NewPangea is revolutionary for many reasons, and our focus on game design, development, and tech are not to be underestimated. Working with our top tier game dev studio, Dream Reality Interactive (DRI), we are building something out of this world and are planning to have it accessible through many different platforms, including desktop, mobile, and VR technologies\_.\_
 
-> #### _Want to contribute? Hop into our_ [_discord_](https://discord.gg/frogland) _and ask for Lollihops!!_
+> _**Want to contribute? Hop into our**_** ** [_**discord**_](https://discord.gg/frogland) ** **_**and ask for Lollihops!!**_

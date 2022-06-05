@@ -12,41 +12,41 @@ coverY: 0
 
 <summary>WELCOME</summary>
 
-### **Channels**
+#### **Channels**
 
-**#step1-verify** - Complete the CAPTCHA to prove you're not a bot.&#x20;
+**#step1-verify** - Complete the CAPTCHA to prove you're not a bot.
 
-**#step2-rules** - Read and accept the rules of the Frogland community and discord.&#x20;
+**#step2-rules** - Read and accept the rules of the Frogland community and discord.
 
-**#step3-security -** Read and accept our security recommendations and liability waiver.&#x20;
+**#step3-security -** Read and accept our security recommendations and liability waiver.
 
 **#collabland-join -** Connect your wallet to verify your Froghodlr status.
 
-### **Purpose**
+#### **Purpose**
 
-Granting entry into the discord with proof you're not a bot or a troll, and that you either are a frog, have a frog, or want frogs.&#x20;
+Granting entry into the discord with proof you're not a bot or a troll, and that you either are a frog, have a frog, or want frogs.
 
 </details>
 
 {% hint style="danger" %}
-IF YOU JOIN AND DO NOT **IMMEDIATELY VERIFY**, YOU **WILL** BE KICKED.&#x20;
+IF YOU JOIN AND DO NOT **IMMEDIATELY VERIFY**, YOU **WILL** BE KICKED.
 
-DM Lollihops on discord or twitter, or the Frogland twitter account if you're having trouble.&#x20;
+DM Lollihops on discord or twitter, or the Frogland twitter account if you're having trouble.
 {% endhint %}
 
 <details>
 
 <summary>NFT BUY/SELL/INFO</summary>
 
-### **Channels**
+#### **Channels**
 
-_**#**_**frog-nft-market** - A twitter sales bot, listing bot, a sales bot, and sales discussion.&#x20;
+_**#**_**frog-nft-market** - A twitter sales bot, listing bot, a sales bot, and sales discussion.
 
-**#frog-rarity -** A rarity checker bot lives here.&#x20;
+**#frog-rarity -** A rarity checker bot lives here.
 
-### Purpose
+#### Purpose
 
-Notorious Frog NFT buying, selling, trading, floor prices, and rarity.&#x20;
+Notorious Frog NFT buying, selling, trading, floor prices, and rarity.
 
 </details>
 
@@ -54,7 +54,7 @@ Notorious Frog NFT buying, selling, trading, floor prices, and rarity.&#x20;
 
 <summary>IMPORTANT</summary>
 
-### **Channels**
+#### **Channels**
 
 **#announcements -** All official Frogland and Team announcements
 
@@ -62,7 +62,7 @@ Notorious Frog NFT buying, selling, trading, floor prices, and rarity.&#x20;
 
 **#team-and-faq** - Founder and team bios, contact info, and FAQ
 
-**#official-links** -  All official and verified links
+**#official-links** - All official and verified links
 
 **#events-calendar** - The IRL and digital calendar of events in Frogland
 
@@ -70,9 +70,9 @@ Notorious Frog NFT buying, selling, trading, floor prices, and rarity.&#x20;
 
 **#twitter-raid** - Twitter bot lives here, plus community posts for raids
 
-### **Purpose**
+#### **Purpose**
 
-All official news, links, and information about the Notorious Frogs and the Frog Team.&#x20;
+All official news, links, and information about the Notorious Frogs and the Frog Team.
 
 </details>
 
@@ -80,53 +80,53 @@ All official news, links, and information about the Notorious Frogs and the Frog
 
 <summary>GENERAL</summary>
 
-### **Channels**
+#### **Channels**
 
-**#pillars-of-newpangea** - the location of all opt in roles to open more channels.&#x20;
+**#pillars-of-newpangea** - the location of all opt in roles to open more channels.
 
-**#frogland-general** - the general chat for all curious about Frogland.&#x20;
+**#frogland-general** - the general chat for all curious about Frogland.
 
-**#gutterville** - the general chat for the Gutter Cat Gang and discussion of Gutterville.&#x20;
+**#gutterville** - the general chat for the Gutter Cat Gang and discussion of Gutterville.
 
-**#island-of-osseous** - the general chat for the Wicked Craniums and discussion of the Island of Osseous.&#x20;
+**#island-of-osseous** - the general chat for the Wicked Craniums and discussion of the Island of Osseous.
 
-### **Purpose**
+#### **Purpose**
 
-General community chat about each of the four original districts, opt in roles, and current events channels.&#x20;
+General community chat about each of the four original districts, opt in roles, and current events channels.
 
 </details>
 
 {% hint style="info" %}
-_Some subheadings/channels will not be visible to you if you do not have a certain role - **#collabland-join** is the first thing to do if you're a Froghodlr._&#x20;
+_Some subheadings/channels will not be visible to you if you do not have a certain role - **#collabland-join** is the first thing to do if you're a Froghodlr._
 
-_Anyone wishing to engage more, Froghodlr or not, should visit **#pillars-of-newpangea** to opt into roles and channels._&#x20;
+_Anyone wishing to engage more, Froghodlr or not, should visit **#pillars-of-newpangea** to opt into roles and channels._
 {% endhint %}
 
 <details>
 
 <summary>FROGHODLRS ONLY</summary>
 
-### **Channels**
+#### **Channels**
 
 **#sneak-peek** - NewPangea and Frogland metaverse sneak peeks
 
 **#voting-and-polls** - Internal community votes
 
-**#AL-collab-opps** - Allow list or collab opportunities for hodlrs.&#x20;
+**#AL-collab-opps** - Allow list or collab opportunities for hodlrs.
 
 **#aaaaaaaaaa** - Verified Froghodlr chat. AAAAAAAAAAAAAAAA
 
-**#ringleader** - Verified Ringleader chat.&#x20;
+**#ringleader** - Verified Ringleader chat.
 
-**#boss** - Verified Boss chat.&#x20;
+**#boss** - Verified Boss chat.
 
-**#don** - Verified Don chat.&#x20;
+**#don** - Verified Don chat.
 
-**#guardians**- Verified Guardian chat.&#x20;
+**#guardians**- Verified Guardian chat.
 
-**#battlefly-frogs** - Verified Battlefly chat.&#x20;
+**#battlefly-frogs** - Verified Battlefly chat.
 
-### **Purpose**
+#### **Purpose**
 
 Hodlr private channels, released metaverse content and froghodlrs with Battleflies.
 
@@ -136,29 +136,29 @@ Hodlr private channels, released metaverse content and froghodlrs with Battlefli
 
 <summary>QUIRKY ADVENTURE</summary>
 
-### Channels
+#### Channels
 
-**#directory -** Channel descriptions for the 'in the metaverse' channels/locations.&#x20;
+**#directory -** Channel descriptions for the 'in the metaverse' channels/locations.
 
-**#FRPG-announcements -** Announcements pertaining to the FRPG.&#x20;
+**#FRPG-announcements -** Announcements pertaining to the FRPG.
 
-**#FRPG-gameplay -** Gameplay records and location for the FRPG.&#x20;
+**#FRPG-gameplay -** Gameplay records and location for the FRPG.
 
-**#FRPG-chat -** Chat pertaining to the FRPG.&#x20;
+**#FRPG-chat -** Chat pertaining to the FRPG.
 
-**#misc-ideas -** Any ideas that don't seem to have a home in other channels.&#x20;
+**#misc-ideas -** Any ideas that don't seem to have a home in other channels.
 
-**#newpangea-architects -** Calling all devs, coders, and 3D modelers! This is your channel.&#x20;
+**#newpangea-architects -** Calling all devs, coders, and 3D modelers! This is your channel.
 
-**#frogland-map -** All discussion, ideation, and creation pertaining to the Frogland map.&#x20;
+**#frogland-map -** All discussion, ideation, and creation pertaining to the Frogland map.
 
-**#gameplay -** All discussion, ideation, and creation pertaining to the metaverse gameplay mechanics.&#x20;
+**#gameplay -** All discussion, ideation, and creation pertaining to the metaverse gameplay mechanics.
 
-**#mini-games -**  All discussion, ideation, and creation pertaining to metaverse mini-games.&#x20;
+**#mini-games -** All discussion, ideation, and creation pertaining to metaverse mini-games.
 
-**#frog-beliefs -** All discussion, ideation, and creation pertaining to the many varied beliefs of the Notorious Frogs.&#x20;
+**#frog-beliefs -** All discussion, ideation, and creation pertaining to the many varied beliefs of the Notorious Frogs.
 
-### **Purpose**
+#### **Purpose**
 
 Everything pertaining to the _Adventure in a Quirky World_ pillar of the metaverse.
 
@@ -168,27 +168,27 @@ Everything pertaining to the _Adventure in a Quirky World_ pillar of the metaver
 
 <summary>TOKENOMICS AND CROAKENOMICS</summary>
 
-### Channels
+#### Channels
 
-**#developers -** Any developer, software engineer, or coder discussions or ideas.&#x20;
+**#developers -** Any developer, software engineer, or coder discussions or ideas.
 
-**#crypto-chat -** All discussions pertaining to cryptocurrencies.&#x20;
+**#crypto-chat -** All discussions pertaining to cryptocurrencies.
 
-**#croakenomics -** Ideas and discussions about the economy in Frogland.&#x20;
+**#croakenomics -** Ideas and discussions about the economy in Frogland.
 
-**#utility -** Discussions, ideas, and suggestions for potential utility.&#x20;
+**#utility -** Discussions, ideas, and suggestions for potential utility.
 
-**#in-game-items -** Ideation and discussion about in game items.&#x20;
+**#in-game-items -** Ideation and discussion about in game items.
 
-**#lilypads -** Ideas and chat about lilyPADs use, design, and layout go here.&#x20;
+**#lilypads -** Ideas and chat about lilyPADs use, design, and layout go here.
 
-**#non-pad-land -** Ideas and chat about non-PAD land go here.&#x20;
+**#non-pad-land -** Ideas and chat about non-PAD land go here.
 
-**#conservation -** A channel dedicated to the environment and what we can do better.&#x20;
+**#conservation -** A channel dedicated to the environment and what we can do better.
 
-**#planning-commission -** Ideas and suggestions on the Planning Commission game mechanic.&#x20;
+**#planning-commission -** Ideas and suggestions on the Planning Commission game mechanic.
 
-### Purpose
+#### Purpose
 
 Everything pertaining to the _Tokenomics_ pillar of the metaverse.
 
@@ -198,19 +198,19 @@ Everything pertaining to the _Tokenomics_ pillar of the metaverse.
 
 <summary>COMMUNITY FROGS</summary>
 
-### Channels
+#### Channels
 
-**#frog-follow-frog -** Connecting with other frogs on Twitter.&#x20;
+**#frog-follow-frog -** Connecting with other frogs on Twitter.
 
-**#shill-&-toad-ya-so -** The place to shill other projects.&#x20;
+**#shill-&-toad-ya-so -** The place to shill other projects.
 
-**#the-arts-district -** Individual artists or galleries display their work here.&#x20;
+**#the-arts-district -** Individual artists or galleries display their work here.
 
-**#deribbitives -** Notorious Frog deribbitives (both minted and unminted) are shown off here.&#x20;
+**#deribbitives -** Notorious Frog deribbitives (both minted and unminted) are shown off here.
 
 **#want-to-help -** Want to contribute? This is the place!
 
-### Purpose
+#### Purpose
 
 Everything pertaining to the _Community Generated and Driven_ pillar of the metaverse.
 
@@ -224,19 +224,19 @@ Make sure to check out the **pinned posts** (pushpin icon top R side on desktop,
 
 <summary>COMMUNITY PROJECTS</summary>
 
-### Channels&#x20;
+#### Channels
 
-**#alpha-investigations -** Role gaited (currently) channel for investigations into potential collabs.&#x20;
+**#alpha-investigations -** Role gaited (currently) channel for investigations into potential collabs.
 
-**#frogland-mixtape -** Channel for all discussions about the Frogland mixtape.&#x20;
+**#frogland-mixtape -** Channel for all discussions about the Frogland mixtape.
 
-**#sapo-studios-chat -** Text chat channel for all discussions about Sapo Studios.&#x20;
+**#sapo-studios-chat -** Text chat channel for all discussions about Sapo Studios.
 
-**#seed-trees -** Channel for all discussions about the Seed Trees NFT project.&#x20;
+**#seed-trees -** Channel for all discussions about the Seed Trees NFT project.
 
-### Purpose
+#### Purpose
 
-Projects that stem from Froghodlrs and using the launchpad of the Frogland environment and community.&#x20;
+Projects that stem from Froghodlrs and using the launchpad of the Frogland environment and community.
 
 </details>
 
@@ -244,13 +244,13 @@ Projects that stem from Froghodlrs and using the launchpad of the Frogland envir
 
 <summary>FROGLAND NEWS NETWORK (FNN)</summary>
 
-### Channels
+#### Channels
 
-**#message-board -** All fillable forms, both in game or out.&#x20;
+**#message-board -** All fillable forms, both in game or out.
 
 **#lore -** Official lore, concept art, and more!
 
-**#the-daily-splat -** The most notorious tabloid in town, this community written news source is where you'll find all the latest hoppenings.&#x20;
+**#the-daily-splat -** The most notorious tabloid in town, this community written news source is where you'll find all the latest hoppenings.
 
 **#khop-radio -** KHOP radio station: location of all recorded Frogland content, IRL, RPG, and music!
 
@@ -258,9 +258,9 @@ Projects that stem from Froghodlrs and using the launchpad of the Frogland envir
 
 **#hyype-minted-lore -** Linked to they Hyype platform, here you can keep up on all the community generated lore for each of their Notorious Frogs!!
 
-### Purpose
+#### Purpose
 
-Concept art repository and feedback, alongside community collaboration of cannon and externally facing media for the hoppenings in the metaverse. Also all fillable forms for NewPangea or other Notorious deeds and lore written onto the Notorious Frogs from the [Hyype](https://www.hyy.pe) platform.&#x20;
+Concept art repository and feedback, alongside community collaboration of cannon and externally facing media for the hoppenings in the metaverse. Also all fillable forms for NewPangea or other Notorious deeds and lore written onto the Notorious Frogs from the [Hyype](https://www.hyy.pe) platform.
 
 </details>
 
@@ -268,11 +268,11 @@ Concept art repository and feedback, alongside community collaboration of cannon
 
 <summary>MAIN STREET</summary>
 
-### Channels
+#### Channels
 
 **#the-dragonfly -** The DragonFly Social Club, the hottest, most fly-brow place in town.
 
-**#town-square -** A communal area in the center of Frogland where rumors fly and whispers grow.&#x20;
+**#town-square -** A communal area in the center of Frogland where rumors fly and whispers grow.
 
 **#the-gardens -** Botanical gardens located near the Town Square, said to house the local $cf ring.
 
@@ -280,9 +280,9 @@ Concept art repository and feedback, alongside community collaboration of cannon
 
 **#zooz-bar -** A bar on Main Street ran by and featuring the musical talent, Too Many Zooz.
 
-**#Zooz-Main-Stage -** Voice channel where the tunes of Too Many Zooz can be heard day or night.&#x20;
+**#Zooz-Main-Stage -** Voice channel where the tunes of Too Many Zooz can be heard day or night.
 
-### Purpose
+#### Purpose
 
 The main drag in Frogland with some typical central venues and a couple secret speakeasys. Best for chatting with fellow frogs, or enjoying a Hoptini or two!
 
@@ -292,7 +292,7 @@ The main drag in Frogland with some typical central venues and a couple secret s
 
 <summary>GREEN LIGHT DISTRICT</summary>
 
-### Channels
+#### Channels
 
 **#murky-waters -** The local dive bar…good food, good drinks, bad decor, disribbitutable types.
 
@@ -302,9 +302,9 @@ The main drag in Frogland with some typical central venues and a couple secret s
 
 **#rabbit-hole -** The infamous drug den in the heart of the Green Light district.
 
-**#speakeasy Voice Chat -** A local watering hole voice channel for community members to chat.&#x20;
+**#speakeasy Voice Chat -** A local watering hole voice channel for community members to chat.
 
-### Purpose
+#### Purpose
 
 The shadier side of town, this is where notorious activities happen with reckless abandon. Enjoy a game of black jack or a Stormy Waters at some of the seedier joints in Frogland.
 
@@ -314,17 +314,17 @@ The shadier side of town, this is where notorious activities happen with reckles
 
 <summary>BORDERLANDS</summary>
 
-### Channels
+#### Channels
 
-**#stash-house -** Where all the gangs of Frogland meet in their own private rooms.&#x20;
+**#stash-house -** Where all the gangs of Frogland meet in their own private rooms.
 
 **#openpond** - The location of all black market dealings within Frogland.
 
 **#stables -** A place to feed and care for the animals legally or illegally racing around Frogland.
 
-### Purpose
+#### Purpose
 
-The slums on the outskirts of Frogland before you get to Gutterville where gangs meet up, the black (secondary) market runs rampant, and animal racing takes place.&#x20;
+The slums on the outskirts of Frogland before you get to Gutterville where gangs meet up, the black (secondary) market runs rampant, and animal racing takes place.
 
 </details>
 
@@ -332,7 +332,7 @@ The slums on the outskirts of Frogland before you get to Gutterville where gangs
 
 <summary>FROG WORTS</summary>
 
-### Channels
+#### Channels
 
 **#the-hexagon -** The main pub in Frog Worts for witches, warlocks, and all frogs interested in the arcane to gather and whisper about the mysterious workings of the world, and how it is so.
 
@@ -342,13 +342,13 @@ The slums on the outskirts of Frogland before you get to Gutterville where gangs
 
 **#the-armory -** The Armory is where the noble frogs interested in the magics of protection and offensive magic come to train and improve their skills in Abjuration and Evocation.
 
-**#the-crucible -** Where all those interested in the fascinating science of Alchemy come to study and learn more of their craft.&#x20;
+**#the-crucible -** Where all those interested in the fascinating science of Alchemy come to study and learn more of their craft.
 
 **#soothsayers-spire -** The Soothsayer's Spire is the highest point of the cathedral that the Alchemist Syndicate inhabits. They say an oracle resides here…
 
-**#crypt-of-spirits -** A location deep in the woods, rumored to be haunted by the dead...or mostly dead.&#x20;
+**#crypt-of-spirits -** A location deep in the woods, rumored to be haunted by the dead...or mostly dead.
 
-### Purpose
+#### Purpose
 
 Locations brimming with magic and arcane activities in Frogland.
 
@@ -358,21 +358,21 @@ Locations brimming with magic and arcane activities in Frogland.
 
 <summary>VOICE CHANNELS</summary>
 
-### Channels
+#### Channels
 
 **#lilypad-lounge-chat -** Text channel for discussions during talks in the Lilypad Lounge.
 
-**#Lilypad-Lounge Voice Chat -** Voice channel for general chats or with the Frog Team.&#x20;
+**#Lilypad-Lounge Voice Chat -** Voice channel for general chats or with the Frog Team.
 
-**#Sapo-Studios Stage -** Location of all Sapo Studio's Scratch Track Saturdays.&#x20;
+**#Sapo-Studios Stage -** Location of all Sapo Studio's Scratch Track Saturdays.
 
-**#Sapo-Studios-collabs -** Channel available for live collaborations in the background of the live broadcast.&#x20;
+**#Sapo-Studios-collabs -** Channel available for live collaborations in the background of the live broadcast.
 
-**#FTV Stage -** Location of Frog Tank and other community hosted shows or AMAs.&#x20;
+**#FTV Stage -** Location of Frog Tank and other community hosted shows or AMAs.
 
-### Purpose
+#### Purpose
 
-All of the stages and voice channels for audio events in the Frogland discord.&#x20;
+All of the stages and voice channels for audio events in the Frogland discord.
 
 </details>
 
@@ -380,7 +380,7 @@ All of the stages and voice channels for audio events in the Frogland discord.&#
 
 <summary>INTERNATIONAL FROGS</summary>
 
-### Channels
+#### Channels
 
 **#spanish-announcements -** Anuncios oficiales traducidos del Frog Team.
 
@@ -402,9 +402,9 @@ All of the stages and voice channels for audio events in the Frogland discord.&#
 
 **#german-frogs -** Der allgemeine Chat für Frogland-Diskussionen in dieser Sprache.
 
-### Purpose
+#### Purpose
 
-The announcements channels auto-populate with translated versions for each language from the main announcements channel. There is also a translator bot that lives in these and all channels for ease of international communications.&#x20;
+The announcements channels auto-populate with translated versions for each language from the main announcements channel. There is also a translator bot that lives in these and all channels for ease of international communications.
 
 </details>
 
@@ -416,17 +416,17 @@ On the right hand sidebar of the discord, you can see Frog Team members (in Owne
 
 <summary>HELP ME</summary>
 
-### Channels
+#### Channels
 
-**#report-scams -** A place to report current scams, scammers, or check safety information in the pinned messages.&#x20;
+**#report-scams -** A place to report current scams, scammers, or check safety information in the pinned messages.
 
-**#stolen-frogs -** Frogs that have been confirmed stolen by the Frog Team.&#x20;
+**#stolen-frogs -** Frogs that have been confirmed stolen by the Frog Team.
 
 **#help-and-questions -** Ask any questions you may have!
 
-**#unclaimed-names -** Name suggestions are found in the pinned posts.&#x20;
+**#unclaimed-names -** Name suggestions are found in the pinned posts.
 
-### Purpose
+#### Purpose
 
 Help and answers for Frogland and NewPangea in the discord or out!
 

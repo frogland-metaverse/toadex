@@ -15,7 +15,7 @@ description: >-
 
 <summary><strong>Soldiers</strong></summary>
 
-Foot soldiers on the ground floor of Frogland's crime syndicates. Can be obtained through the purchase and use of a _Revolver._&#x20;
+Foot soldiers on the ground floor of Frogland's crime syndicates. Can be obtained through the purchase and use of a _Revolver._
 
 **Pays:** 5,000 Frogdollars every 24 hours
 
@@ -25,7 +25,7 @@ Foot soldiers on the ground floor of Frogland's crime syndicates. Can be obtaine
 
 <summary><strong>Scribes</strong></summary>
 
-The writing historians of Frogland. Can be obtained with the purchase and use of a _Quill_.&#x20;
+The writing historians of Frogland. Can be obtained with the purchase and use of a _Quill_.
 
 **Pays:** 5,000 Frogdollars every 24 hours
 
@@ -49,7 +49,7 @@ The bread and butter of Frogland's food production system. Can be obtained with 
 
 Shop owners and sellers of Forgland. Can be obtained through the purchase and use of _Coffee and Spaghetti or Fertilizer._
 
-**Role Required**: _Scribes_ **** or **** _Farmer_.
+**Role Required**: _Scribes_ \*\*\*\* or \*\*\*\* _Farmer_.
 
 **Pays:** 15,000 Frogdollars every 24 hours
 
@@ -83,7 +83,7 @@ The rich and powerful of Frogland. Can be obtained with the purchase and use of 
 
 <summary><strong>Street Thug</strong></summary>
 
-Confidants and second hands of Frogland's crime syndicate, supporting the Gang Leaders. Can be obtained through the purchase and use of a _Froglex or Switch-Blade Knife_.&#x20;
+Confidants and second hands of Frogland's crime syndicate, supporting the Gang Leaders. Can be obtained through the purchase and use of a _Froglex or Switch-Blade Knife_.
 
 **Role required**: _Noble_ or _Farmers_
 
@@ -93,11 +93,11 @@ Confidants and second hands of Frogland's crime syndicate, supporting the Gang L
 
 <details>
 
-<summary><strong>Gang Leader</strong> </summary>
+<summary><strong>Gang Leader</strong></summary>
 
-Crime lords of New Pangea. Can be obtained with the purchase and use of a _Ledger._&#x20;
+Crime lords of New Pangea. Can be obtained with the purchase and use of a _Ledger._
 
-**Role **_****_** Required**: _Street Thug_
+**Role **_**\*\*\*\***_** Required**: _Street Thug_
 
 **Pays:** 20,000 Frogdollars every 24 hours
 
@@ -105,11 +105,11 @@ Crime lords of New Pangea. Can be obtained with the purchase and use of a _Ledge
 
 <details>
 
-<summary><strong>Government Official</strong> </summary>
+<summary><strong>Government Official</strong></summary>
 
-Head politicians of Frogland, can be obtained with the purchase and use of a _Telegram from Gutterville._&#x20;
+Head politicians of Frogland, can be obtained with the purchase and use of a _Telegram from Gutterville._
 
-**Role **_****_** Required**: _Noble_
+**Role **_**\*\*\*\***_** Required**: _Noble_
 
 **Pays:** 20,000 Frogdollars every 24 hours
 
@@ -125,7 +125,7 @@ Each of the **Gangs** also has their own role for ease of tagging, but no payout
 
 <summary><strong>AAAAAAfroghodlrAAAAAA</strong></summary>
 
-Denounces official ownership of a frog(s) through wallet connect.&#x20;
+Denounces official ownership of a frog(s) through wallet connect.
 
 **Pays:** 10,000 Frogdollars every 24 hours
 
@@ -135,7 +135,7 @@ Denounces official ownership of a frog(s) through wallet connect.&#x20;
 
 <summary><strong>Ringleader</strong></summary>
 
-Ownership of 7+ Notorious Frogs.&#x20;
+Ownership of 7+ Notorious Frogs.
 
 **Pays:** 15,000 Frogdollars every 24 hours
 
@@ -145,7 +145,7 @@ Ownership of 7+ Notorious Frogs.&#x20;
 
 <summary><strong>Boss</strong></summary>
 
-Ownership of 20+ Notorious Frogs.&#x20;
+Ownership of 20+ Notorious Frogs.
 
 **Pays:** 20,000 Frogdollars every 24 hours
 
@@ -155,7 +155,7 @@ Ownership of 20+ Notorious Frogs.&#x20;
 
 <summary><strong>Don</strong></summary>
 
-Ownership of 50+ Notorious Frogs.&#x20;
+Ownership of 50+ Notorious Frogs.
 
 **Pays:** 25,000 Frogdollars every 24 hours
 
@@ -165,7 +165,7 @@ Ownership of 50+ Notorious Frogs.&#x20;
 
 <summary><strong>Guardian</strong></summary>
 
-Ownership of 100+ Notorious Frogs.&#x20;
+Ownership of 100+ Notorious Frogs.
 
 **Pays:** 30,000 Frogdollars every 24 hours
 
@@ -177,7 +177,7 @@ Ownership of 100+ Notorious Frogs.&#x20;
 
 <summary><strong>Mod 1 - Frogspawn Moonboi</strong></summary>
 
-The first level of Mod Squad status.&#x20;
+The first level of Mod Squad status.
 
 **Pays:** 25,000 Frogdollars every 24 hours
 
@@ -187,7 +187,7 @@ The first level of Mod Squad status.&#x20;
 
 <summary><strong>Mod 2 - Lunar Tadpole</strong></summary>
 
-The second level of Mod Squad status.&#x20;
+The second level of Mod Squad status.
 
 **Pays:** 30,000 Frogdollars every 24 hours
 
@@ -197,7 +197,7 @@ The second level of Mod Squad status.&#x20;
 
 <summary><strong>Mod 3 - Astro Frogling</strong></summary>
 
-The third level of Mod Squad status.&#x20;
+The third level of Mod Squad status.
 
 **Pays:** 35,000 Frogdollars every 24 hours
 
@@ -207,7 +207,7 @@ The third level of Mod Squad status.&#x20;
 
 <summary><strong>Mod 4 - Notorious Maxi</strong></summary>
 
-The fourth level of Mod Squad status.&#x20;
+The fourth level of Mod Squad status.
 
 **Pays:** 40,000 Frogdollars every 24 hours
 
@@ -217,7 +217,7 @@ The fourth level of Mod Squad status.&#x20;
 
 <summary><strong>The Daily Splat Team</strong></summary>
 
-The frogs behind The Daily Splat tabloid news source, whether that's writing, editing, design, or other features.&#x20;
+The frogs behind The Daily Splat tabloid news source, whether that's writing, editing, design, or other features.
 
 **Pays:** 20,000 Frogdollars every 24 hour
 
@@ -227,7 +227,7 @@ The frogs behind The Daily Splat tabloid news source, whether that's writing, ed
 
 <summary><strong>Sapo Studios</strong></summary>
 
-The founders of HipHOP Anonymous who host Scratch Track Saturdays every Saturday at 12p PST in the discord.&#x20;
+The founders of HipHOP Anonymous who host Scratch Track Saturdays every Saturday at 12p PST in the discord.
 
 **Pays:** 20,000 Frogdollars every 24 hours
 
@@ -237,7 +237,7 @@ The founders of HipHOP Anonymous who host Scratch Track Saturdays every Saturday
 
 <summary><strong>The Alpha Detectives</strong></summary>
 
-The frogs responsible for researching into possible collab projects and hosting community AMAs with the potential collab's founding team in our discord.&#x20;
+The frogs responsible for researching into possible collab projects and hosting community AMAs with the potential collab's founding team in our discord.
 
 **Pays:** 10,000 Frogdollars every 24 hours
 
@@ -245,9 +245,9 @@ The frogs responsible for researching into possible collab projects and hosting 
 
 <details>
 
-<summary><strong>Frog Twitter Army</strong> </summary>
+<summary><strong>Frog Twitter Army</strong></summary>
 
-Frogs that help with the guerilla marketing with twitter raids.&#x20;
+Frogs that help with the guerilla marketing with twitter raids.
 
 **Pays:** 25,000 Frogdollars every 24 hours
 
@@ -267,7 +267,7 @@ Frogs who have gone above and beyond the call of duty representing Frogland or h
 
 <summary><strong>Floor Sweeper Extraordinaire</strong></summary>
 
-Frogs who use that floor sweeping broom with such impeccable technique, it needed to be recognized.&#x20;
+Frogs who use that floor sweeping broom with such impeccable technique, it needed to be recognized.
 
 **Pays:** 50,000 Frogdollars every 24 hours
 
