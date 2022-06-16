@@ -8,13 +8,13 @@ description: >-
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>START HERE</summary>
 
 This subheading has everything you need to learn things at a glance about NewPangea and Frogland.
 
 ### [.](./ "mention")
 
-Everything you need to know
+Everything you need to know to get started.&#x20;
 
 ### [official-links.md](../official-links.md "mention")
 
@@ -44,7 +44,7 @@ Video or audio content with the Frog Team or from the community about Frogland.
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>DESIGN</summary>
 
 **This encompasses and explains our broadest philosophies of both NewPangea and Frogland, as well as how we are implementing them using new technology and a new way of creating.**
 
@@ -79,7 +79,7 @@ The opportunity to create and be involved in any capacity and see that reflected
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>COMMUNITY</summary>
 
 There is something for everyone in NewPangea - whether you are a creator or builder, a thinker or a player, anyone and everyone is welcome to play, explore, and contribute.
 
@@ -131,7 +131,7 @@ What about socialites? What does the metaverse do for you?
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>COMMUNITY PROJECTS</summary>
 
 With the help of the Frog Team, several community members or Syndicates have already begun the process of bringing their dreams into reality, launching their projects and platforms with unique integrations into the NewPangea metaverse.
 
@@ -155,7 +155,7 @@ Engage to grow future ancient forests and repay some of our collective carbon de
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>ARCHITECTURE</summary>
 
 The mechanisms and coding behind the curtain: blockchain, NFTs, tokenomics, and more.
 
@@ -191,7 +191,7 @@ The platforms where different parts of the metaverse are as we move to full 3D w
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>GAMEPLAY</summary>
 
 This is where all of the pieces and parts currently bridging the gap between discord beta testing and real NewPangea playability reside.
 
@@ -271,7 +271,7 @@ Mini-games and how (and if) they impact the larger gameplay.
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>FROGLAND NEWS NETWORK (FNN)</summary>
 
 Official Frogland news sources and documentation.
 
@@ -313,13 +313,19 @@ Common phrases and jargon for noire style film and writing.
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>FROGLAND</summary>
 
 All things frog! From concept art to community creations, files and games, all things having to do with the Notorious Frogs, their home district, and where they go from here are located in this section.
 
 ### [lore](../../frogland/lore/ "mention")
 
 The Notorious Frogs' origin story, story arcs, and more!
+
+[the-notorious-frogs-origin-story.md](../../frogland/lore/canon/the-notorious-frogs-origin-story.md "mention")\
+The one and only.
+
+[the-land-synthesis-device-and-our-forgotten-past.md](../../frogland/lore/canon/the-land-synthesis-device-and-our-forgotten-past.md "mention")\
+Excerpts from several ancient books telling the many truths and half-truths of Frogland.&#x20;
 
 #### [large-story-arcs](../../frogland/lore/large-story-arcs/ "mention")
 
@@ -411,7 +417,7 @@ The Slimy Salamanders of the north stole the Frogland map and ripped it to shred
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>GUTTERVILLE</summary>
 
 Where NewPangea's pillars will be fleshed out by and for the Gutter Gang community to make Gutterville a home like no other for the cats, rats, dogs, and pigeons.
 
@@ -423,7 +429,7 @@ Gutter Cat Gang lore and how it weaves in with the Notorious Frog lore in Frogla
 
 <details>
 
-<summary><a data-mention href="broken-reference/">broken-reference</a></summary>
+<summary>ISLAND OF OSSEOUS</summary>
 
 The home district to the Wicked Craniums.
 

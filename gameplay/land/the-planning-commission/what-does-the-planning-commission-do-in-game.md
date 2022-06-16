@@ -11,7 +11,7 @@ description: >-
 
 The Planning Commission has multiple objectives for the gameplay and economic mechanics in Frogland. It introduces the means by which players may take certain actions, and gamifies those actions by introducing competitive elements.
 
-Interactions with the Planning Commission to move your Deed from one lilyPAD to another, to apply for a work permit, or other gameplay interactions all have a cost. You can wait in line and pay the standard fee, or dig deep and offer a bribe to jump the queue.
+Interactions with the Planning Commission to move your Device from one lilyPAD to another, to apply for a work permit, or other gameplay interactions all have a cost. You can wait in line and pay the standard fee, or dig deep and offer a bribe to jump the queue.
 
 The standard fee may change from time to time. The bribery amount is also variable, and will depend on the specific Planning Commission's peculiarities. Some want more money, some may want…other stuff you can offer, or tasks you might be able to complete. [Criss-Cross](https://youtu.be/lqqspC4Sf50). You scratch my back, I’ll scratch yours.
 
@@ -21,4 +21,4 @@ There is no fun in a game where initial winners dominate via a cascade effect ba
 
 The Planning Commission is a gameplay entity whose mechanics and rules will be designed such that “early entry” advantage is modulated by a randomness that enables each Land Holder a reasonable chance to succeed even on their first day in the world. Fresh meat can catch up, and the veterans may lose ground.
 
-Those who possess more Frogs or Deeds may appear to have a superior advantage at first glance. But that apparent advantage is balanced by the inherent difficulty they will have managing many characters and lilyPADs. Maximizing resource harvesting can be more complex and time consuming for a Don than for a citizen with only one to manage.
+Those who possess more Frogs or Device may appear to have a superior advantage at first glance. But that apparent advantage is balanced by the inherent difficulty they will have managing many characters and lilyPADs. Maximizing resource harvesting can be more complex and time consuming for a Don than for a citizen with only one to manage.

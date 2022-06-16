@@ -70,7 +70,7 @@
     * [Boosts](architecture/non-fungible-tokens/the-notorious-frogs/boosts.md)
     * [Frog Value Post Land Claim](architecture/non-fungible-tokens/the-notorious-frogs/frog-value-post-land-claim.md)
     * [What If I Don't Want To Play?](architecture/non-fungible-tokens/the-notorious-frogs/what-if-i-dont-want-to-play.md)
-  * [📻 Land Deeds](architecture/non-fungible-tokens/land-deeds.md)
+  * [📻 Land Devices](architecture/non-fungible-tokens/land-deeds.md)
   * [🏝 LilyPADs](architecture/non-fungible-tokens/lilypads.md)
   * [📄 Permits](architecture/non-fungible-tokens/permits.md)
 * [💾 Contracts](architecture/contracts.md)
@@ -85,7 +85,7 @@
   * [Ecological Zones in Frogland](gameplay/land/ecological-zones-in-frogland.md)
   * [Seasons & Events of Change](gameplay/land/seasons-and-events-of-change.md)
   * [Land Mechanics](gameplay/land/land-mechanics.md)
-  * [Land Deeds](gameplay/land/land-deeds.md)
+  * [Land Devices](gameplay/land/land-deeds.md)
   * [Permitting and Building Improvements](gameplay/land/permitting-and-building-improvements.md)
   * [🏢 The Planning Commission](gameplay/land/the-planning-commission.md)
     * [What Is The Planning Commission?](gameplay/land/the-planning-commission/what-is-the-planning-commission.md)
@@ -148,7 +148,10 @@
 
 ## 🐸 FROGLAND
 
-* [📜 Lore](frogland/lore/README.md)
+* [📜 Lore and Canon](frogland/lore/README.md)
+  * [📚 Canon](frogland/lore/canon/README.md)
+    * [The Notorious Frogs' Origin Story](frogland/lore/canon/the-notorious-frogs-origin-story.md)
+    * [The Land Synthesis Device and Our Forgotten Past](frogland/lore/canon/the-land-synthesis-device-and-our-forgotten-past.md)
   * [📖 Large Story Arcs](frogland/lore/large-story-arcs/README.md)
     * [Jimmy The Knee's Murder!](frogland/lore/large-story-arcs/jimmy-the-knees-murder.md)
     * [The Slimy Salamanders Stole the Frogland Map!](frogland/lore/large-story-arcs/the-slimy-salamanders-stole-the-frogland-map.md)

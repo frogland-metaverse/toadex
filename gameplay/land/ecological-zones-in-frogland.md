@@ -18,19 +18,18 @@ The Desert zones are dry and barren but with plenty of treasures to discover for
 
 The Forest zones are full of magic and mystery — and maybe even a little bit of danger. And mushrooms. Lots of mushrooms.
 
-### **Grassland**
+### **Tropical**
 
-The Grasslands sport sprawling meadows as far as the eye can see. Who knows what predators lurk in the switchgrass…
+The Tropical grasslands sport sprawling meadows as far as the eye can see. Who knows where predators may lurk…
 
-### **Mountain**
+### **Mountains**
 
 The Mountains are home to multitudes of magnificent minerals to discover.
 
-### **Swamp**
+### **Wetlands**
 
 The Swamp Lands are the natural habitat for Notorious Frogs, consisting of a murky yet teeming underbelly of unique life not found anywhere else.
 
 ### **Urban**
 
 The Urban concrete jungle appears devoid of a natural ecosystem at first, but if you look closely there are unique opportunities for enterprising creatures, no matter how many legs or eyes they may have.
-
