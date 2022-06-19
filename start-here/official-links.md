@@ -6,11 +6,11 @@ description: All of the official Frogland links.
 
 ### Socials
 
-**Website** **-** [www.frogland.io](https://www.frogland.io/)&#x20;
+**Website** **-** [https://frogland.io](https://frogland.io)
 
 **Twitter -** [https://twitter.com/frogland\_io/](https://twitter.com/frogland\_io/)
 
-**Discord -** [https://discord.gg/frogland ](https://discord.gg/frogland)
+**Discord -** [https://discord.gg/frogland](https://discord.gg/frogland)
 
 **Instagram -** [https://www.instagram.com/frogland.io/](https://www.instagram.com/frogland.io/)
 
