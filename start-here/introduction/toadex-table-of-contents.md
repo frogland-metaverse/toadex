@@ -206,7 +206,7 @@ Some of the finished bios for individual frogs involved in the community.
 
 Different aspects of the land, property mechanics, and gameplay related to land.
 
-[ecological-zones-in-frogland.md](../../gameplay/land/ecological-zones-in-frogland.md "mention")\
+[ecological-zones-in-frogland](../../gameplay/land/ecological-zones-in-frogland/ "mention")\
 The seven different biomes in Frogland and how they can be used in gameplay.
 
 [seasons-and-events-of-change.md](../../gameplay/land/seasons-and-events-of-change.md "mention")\
