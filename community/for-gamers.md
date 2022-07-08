@@ -1,7 +1,7 @@
 ---
 description: What can NewPangea do for you?
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+cover: ../.gitbook/assets/Soothsayer Tower.png
+coverY: 268.65671641791045
 ---
 
 # 🕹 For Gamers

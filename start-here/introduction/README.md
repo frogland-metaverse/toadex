@@ -1,7 +1,7 @@
 ---
 description: What we are here to achieve.
-cover: ../../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+cover: ../../.gitbook/assets/Header resized.png
+coverY: -94.78760045924224
 ---
 
 # 🐸 Introduction

@@ -1,7 +1,7 @@
 ---
 description: All audio and visuals to learn more about Frogland and NewPangea.
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+cover: ../.gitbook/assets/TiledLandingBanner3.png
+coverY: 365.09758897818597
 ---
 
 # 🎥 Frogs in the News

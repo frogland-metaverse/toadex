@@ -1,7 +1,7 @@
 ---
 description: What can NewPangea do for you?
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+cover: ../.gitbook/assets/TiledLandingBanner.png
+coverY: -621.699196326062
 ---
 
 # ⌨ For Designers/Engineers

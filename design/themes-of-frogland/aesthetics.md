@@ -1,7 +1,5 @@
 ---
 description: Frogland; Beautiful, but Dangerous
-cover: ../../.gitbook/assets/green night — Oct 26.png
-coverY: 0
 ---
 
 # 🔍 Aesthetics

@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/image_001_12420.png
+coverY: -88.17451205510908
+---
+
 # Wetlands
 
 ![A real estate billboard for the Wetlands biome in Frogland. ](https://imgur.com/iy70Yoz.jpg)

@@ -1,7 +1,5 @@
 ---
 description: Escape. Challenge. Opportunity.
-cover: ../../.gitbook/assets/green night — Oct 26.png
-coverY: 0
 ---
 
 # 🔮 Entertainment
@@ -10,7 +8,7 @@ Metaverses offer a multidimensional emotional experience. Part of the Frogland T
 
 ![Concept art for the gravesite of Wild Sam. This is the beginnings of a chicken cemetery in Frogland dedicated to those noble chickens who lost their lives to $chickenfight in the Frogland discord's early days.](<../../.gitbook/assets/Wild Sam Is Dead.png>)
 
-Our foremost aim has been to recognize and cultivate the kind of experience that arises from community interaction and activity. The gambling games programmed in our discord's casino were the direct cause of seven strangers forming a partnership. These magnificent seven began as internet friends and quickly became a collective influence on shaping the experience on the discord. &#x20;
+Our foremost aim has been to recognize and cultivate the kind of experience that arises from community interaction and activity. The gambling games programmed in our discord's casino were the direct cause of seven strangers forming a partnership. These magnificent seven began as internet friends and quickly became a collective influence on shaping the experience on the discord.
 
 The Nazar Frogs, a self-organized subgroup, believing the casino in the discord was for sale, became focused on amassing in-game money from gambling. In response, we quickly developed our second in-channel RPG with a quest for them to take the next step: obtaining the license from the Frogland Gaming Commissioner. This back and forth between us and our community became a rapidly evolving beta-test of working quickly with them to expand their experience beyond the simple but compelling grind of casino gambling. Our dungeon master architected the quest, we refined the narrative and when the Nazar had 10Million F\*Bucks, the game was ready. Everyone had a blast, and we generated more lore and utility concepts that are now being integrated into the construction of the Frogland zone of the NewPangea metaverse.
 

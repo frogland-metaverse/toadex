@@ -2,8 +2,6 @@
 description: >-
   Utilizing crypto, NFTs, and the blockchain to help build a new economic system
   for NewPangea.
-cover: ../../.gitbook/assets/green night — Oct 26.png
-coverY: 0
 ---
 
 # 💰 Economy

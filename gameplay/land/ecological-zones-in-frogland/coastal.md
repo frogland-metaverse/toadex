@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/beach_012_7521.png
+coverY: -52.904707233065444
+---
+
 # Coastal
 
 ![A real estate billboard for the Coastal biome in Frogland. ](https://imgur.com/5SCKcwU.jpg)

@@ -82,7 +82,7 @@
 * [👾 Character Development](gameplay/character-development/README.md)
   * [🐸 Notorious Frog Bios](gameplay/character-development/notorious-frog-bios.md)
 * [🏝 Land](gameplay/land/README.md)
-  * [Ecological Zones in Frogland](gameplay/land/ecological-zones-in-frogland/README.md)
+  * [Ecological Zones in Frogland](gameplay/land/ecological-zones-in-frogland.md)
     * [Wetlands](gameplay/land/ecological-zones-in-frogland/wetlands.md)
     * [Desert](gameplay/land/ecological-zones-in-frogland/desert.md)
     * [Forest](gameplay/land/ecological-zones-in-frogland/forest.md)

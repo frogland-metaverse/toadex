@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/hero_1_image_-_Forest_Env_-_cc.png
+coverY: -27.27898966704937
+---
+
 # Forest
 
 ![A real estate billboard for the Forest biome in Frogland. ](https://imgur.com/R2iV6Ho.jpg)

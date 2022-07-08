@@ -1,7 +1,7 @@
 ---
 description: The timeline of NewPangea's progress.
 cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+coverY: -1178.4202066590126
 ---
 
 # 🗺 Toadmap

@@ -1,6 +1,6 @@
 ---
 description: What can NewPangea do for you?
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../.gitbook/assets/Screen Shot 2022-04-28 at 8.42.29 PM.png
 coverY: 0
 ---
 

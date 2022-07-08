@@ -1,6 +1,6 @@
 ---
 description: Past and future events for the Notorious Frogs.
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../.gitbook/assets/TiledLandingBanner2.png
 coverY: 0
 ---
 
@@ -12,7 +12,7 @@ coverY: 0
 
 **11/10 - 11/12/21** - Crypto Miami
 
-**11/29 - 12/8/21** - Art Basel and NFT Miami&#x20;
+**11/29 - 12/8/21** - Art Basel and NFT Miami
 
 **12/2/21** - Frogland, EcoFi, and Lukso VIP yacht party
 

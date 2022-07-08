@@ -1,6 +1,6 @@
 ---
 description: What can NewPangea do for you?
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
+cover: ../.gitbook/assets/hero 3 image - HIPHOP_Sat.png
 coverY: 0
 ---
 

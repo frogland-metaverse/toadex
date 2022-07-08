@@ -2,6 +2,8 @@
 description: >-
   Welcome to the Toadex! Here you will find a starting point for exploration
   through our philosophy.
+cover: ../../.gitbook/assets/ObsessionBoard - v3 (1).png
+coverY: 1057.9977037887486
 ---
 
 # Toadex Table of Contents
@@ -206,7 +208,7 @@ Some of the finished bios for individual frogs involved in the community.
 
 Different aspects of the land, property mechanics, and gameplay related to land.
 
-[ecological-zones-in-frogland](../../gameplay/land/ecological-zones-in-frogland/ "mention")\
+[ecological-zones-in-frogland.md](../../gameplay/land/ecological-zones-in-frogland.md "mention")\
 The seven different biomes in Frogland and how they can be used in gameplay.
 
 [seasons-and-events-of-change.md](../../gameplay/land/seasons-and-events-of-change.md "mention")\

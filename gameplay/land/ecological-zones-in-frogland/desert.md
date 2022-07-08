@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/desert_012_9468.png
+coverY: 61.72215843857635
+---
+
 # Desert
 
 ![A real estate billboard for the Desert biome in Frogland. ](https://imgur.com/KqUVtT3.jpg)

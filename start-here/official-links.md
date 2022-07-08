@@ -1,5 +1,7 @@
 ---
 description: All of the official Frogland links.
+cover: ../.gitbook/assets/skyline-01.jpg
+coverY: 0
 ---
 
 # ⛓ Official Links

@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/IMG_1906.jpg
+coverY: -120.57175660160735
+---
+
 # Urban
 
 ![A real estate billboard for the Urban biome in Frogland. ](https://imgur.com/iYL09zL.jpg)

@@ -1,7 +1,7 @@
 ---
 description: What can NewPangea do for you?
-cover: ../.gitbook/assets/ObsessionBoard - v3.png
-coverY: 0
+cover: ../.gitbook/assets/Web3.png
+coverY: -174.13318025258323
 ---
 
 # 🎨 For Artists
