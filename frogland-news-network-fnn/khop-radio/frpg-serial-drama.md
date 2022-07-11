@@ -2,7 +2,7 @@
 description: Coming soon...
 ---
 
-# FRPG Serial Drama
+# 🎭 FRPG Serial Drama
 
 ### First FRPG Storyline Recap
 

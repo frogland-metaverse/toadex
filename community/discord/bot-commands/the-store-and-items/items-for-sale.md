@@ -4,6 +4,6 @@ description: >-
   Frogdollars.
 ---
 
-# Items For Sale
+# 💸 Items For Sale
 
 Coming soon...

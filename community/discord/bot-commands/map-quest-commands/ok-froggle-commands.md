@@ -2,7 +2,7 @@
 description: SPOILERS hidden amongst the decoy commands.
 ---
 
-# OK Froggle Commands
+# 🤖 OK Froggle Commands
 
 $ok-froggle
 

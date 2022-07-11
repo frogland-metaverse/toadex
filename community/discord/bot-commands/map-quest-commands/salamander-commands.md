@@ -2,7 +2,7 @@
 description: SPOILERS hidden amongst the decoy commands.
 ---
 
-# Salamander Commands
+# 🦎 Salamander Commands
 
 $shoot-salamander
 
@@ -28,7 +28,7 @@ $cf-salamander
 
 $bribe-salamander
 
-$inv-salamander&#x20;
+$inv-salamander
 
 $dress-up-as-a-salamander
 

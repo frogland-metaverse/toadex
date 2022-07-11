@@ -1,7 +1,7 @@
 ---
 description: >-
-  Below find an ever-updating list of subheadings, their channels, and their
-  purpose.
+  Below find an ever-updating list of Discord categories, their channels, and
+  their purpose.
 cover: ../../.gitbook/assets/1500x500.jpeg
 coverY: 0
 ---
@@ -125,6 +125,8 @@ _Anyone wishing to engage more, Froghodlr or not, should visit **#pillars-of-new
 **#guardians**- Verified Guardian chat.
 
 **#battlefly-frogs** - Verified Battlefly chat.
+
+**#lsd-hodlrs** - Land Synthesis Device holders chat.&#x20;
 
 #### **Purpose**
 
@@ -409,7 +411,7 @@ The announcements channels auto-populate with translated versions for each langu
 </details>
 
 {% hint style="success" %}
-On the right hand sidebar of the discord, you can see Frog Team members (in Owner pink) or members of the Mod Squad (in purple) who can help if you [borderlands.md](../../frogland/neighborhoods/borderlands.md "mention")[borderlands.md](../../frogland/neighborhoods/borderlands.md "mention") them!
+On the right hand sidebar of the discord, you can see Frog Team members (in pink) or members of the Mod Squad (in purple) who can help if you them!
 {% endhint %}
 
 <details>

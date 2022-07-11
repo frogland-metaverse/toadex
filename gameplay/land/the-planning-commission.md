@@ -1,5 +1,5 @@
 ---
-description: TL;DR
+description: The TL;DR for the Planning Commission.
 ---
 
 # 🏢 The Planning Commission

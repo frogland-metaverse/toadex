@@ -89,6 +89,10 @@ There is something for everyone in NewPangea - whether you are a creator or buil
 
 So you bought a frog - now what? This guide will get you pointed in the right direction.
 
+### [how-to-claim-land-mint-land-or-check-claim-status.md](../../community/how-to-claim-land-mint-land-or-check-claim-status.md "mention")
+
+Everything you need to know for how to claim or mint your land, as well as how to check and see if a frog for sale on the secondary has already been claimed or not!
+
 ### [discord](../../community/discord/ "mention")
 
 Our discord is complex and elaborate - but everything for a reason.

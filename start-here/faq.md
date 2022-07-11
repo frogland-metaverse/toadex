@@ -8,9 +8,9 @@ coverY: 0
 
 ### _What is NewPangea?_
 
-NewPangea is the new metaverse, home to The Notorious Frogs of Frogland, as well as other profile picture projects, artists, and creators alike.&#x20;
+NewPangea is the new metaverse, home to The Notorious Frogs of Frogland, as well as other profile picture projects, artists, and creators alike.
 
-### _What is Frogland?_&#x20;
+### _What is Frogland?_
 
 Frogland is a district on a plateau in the center of NewPangea where the Notorious Frogs reside.
 
@@ -20,7 +20,7 @@ The Notorious Frogs are 10,000 randomly generated humanoid frog NFTs that inhabi
 
 ### _What are the other districts in NewPangea?_
 
-The three other founding pfp districts in NewPangea are: Gutterville, home of the Gutter Cat Gang; the Island of Osseous, home to the Wicked Craniums; and the Art District, home to individual artists and NFT galleries.&#x20;
+The three other founding pfp districts in NewPangea are: Gutterville, home of the Gutter Cat Gang; the Island of Osseous, home to the Wicked Craniums; and the Art District, home to individual artists and NFT galleries.
 
 ### _What does #BuyFrogGetLand mean?_
 
@@ -29,6 +29,10 @@ Each Notorious Frog NFT has a home in NewPangea called a LilyPAD (Personal Acces
 ### _**So I'm buying a frog AND land?**_
 
 Yes, for the price of one NFT! We will take a snapshot of wallet addresses when we are ready to release the land, at which time every wallet with a Notorious Frog in it will be dropped or be able to claim their plot of land (LilyPAD). The Notorious Frogs will NOT be tied to their land after the land claim in June 2022.
+
+### _**How do I claim or mint my land?**_
+
+It's super easy!! We wrote up a medium article that you can reference [here](https://frogland.medium.com/the-promised-land-a8181e70dd08), or the same content is located in the Toadex here [how-to-claim-land-mint-land-or-check-claim-status.md](../community/how-to-claim-land-mint-land-or-check-claim-status.md "mention").&#x20;
 
 ### _What do with Notorious Frog after land drop?_
 
@@ -44,7 +48,7 @@ NewPangea, Frogland, and the other districts are all being individually curated 
 
 ### _Wen metaverse? Wen land?_
 
-NewPangea is already under development with Dream Reality Interactive (DRI), a top tier game development studio founded by Sony's flagship London Studio team. Check them out [here](https://www.dreamrealityinteractive.com/). As of 12/26/21, we launched a multiplayer demo for our community members after less than 90 days of development. Land claim will be hoppening in early June of 2022, with waves of public sale to follow after. Timing of sales, price, and amount of public land available subject to change.&#x20;
+NewPangea is already under development with Dream Reality Interactive (DRI), a top tier game development studio founded by Sony's flagship London Studio team. Check them out [here](https://www.dreamrealityinteractive.com/). As of 12/26/21, we launched a multiplayer demo for our community members after less than 90 days of development. Land claim will be hoppening in early June of 2022, with waves of public sale to follow after. Timing of sales, price, and amount of public land available subject to change.
 
 ### _When can I get involved?_
 
@@ -52,4 +56,4 @@ Right now!! Frogland's discord is being pushed to it's limits for community memb
 
 ### _Wen play?!_
 
-For community members, right now!! The demo of Frogland will remain live for our community to explore as we continue to iterate and build out NewPangea at scale behind the scenes. The discord is being stretched to it's limits for web2 style metaverse play, with new updates to come after land claim.&#x20;
+For community members, right now!! The demo of Frogland will remain live for our community to explore as we continue to iterate and build out NewPangea at scale behind the scenes. The discord is being stretched to it's limits for web2 style metaverse play, with new updates to come after land claim.

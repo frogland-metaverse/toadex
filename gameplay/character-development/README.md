@@ -8,13 +8,16 @@ coverY: 0
 
 # 👾 Character Development
 
-Filling out this google form is a good way to start your character development, as well as reading through the lore to get a sense of what others have created for their characters.
+There are many ways to both get more involved with your froggy character as well as explore the lore and IP that others have created, or prompts from the Frog Team into the Frogland community and metaverse.&#x20;
 
-{% embed url="https://forms.gle/L3bg8THbhBnAWNmC7" %}
+{% content-ref url="character-development-fillable-form.md" %}
+[character-development-fillable-form.md](character-development-fillable-form.md)
+{% endcontent-ref %}
 
-### The Hyype Platform&#x20;
+{% content-ref url="hyype.md" %}
+[hyype.md](hyype.md)
+{% endcontent-ref %}
 
-The Hyype platform that we partnered with gives a new way for you to connect your NFTs to the character that you create with them. When you connect your wallet to their platform, it reads the NFTs that you have and lets you write your character backstories, lore, or anything you want to be linked to that specific NFT. As we further this integration and partnership, the links in the _Notorious Frog Bios_ page will change to links to their Hyype profiles (which are also available and accessible within the Discord in the #hyype-minted-lore channel). \
-
-
-{% embed url="https://hyy.pe" %}
+{% content-ref url="notorious-frog-bios.md" %}
+[notorious-frog-bios.md](notorious-frog-bios.md)
+{% endcontent-ref %}

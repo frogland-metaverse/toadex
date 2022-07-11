@@ -2,7 +2,7 @@
 description: SPOILERS hidden amongst the decoy commands.
 ---
 
-# FBI Agent Commands
+# 🚔 FBI Agent Commands
 
 $bribe-fbi-agent
 

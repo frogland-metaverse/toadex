@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/ghibli_4_29_2022_1_43_41_pm.png
 coverY: 6.61308840413318
 ---
 
-# Tropical
+# 🌴 Tropical
 
 ![A real estate billboard for the Tropical biome in Frogland. ](https://imgur.com/6b138pS.jpg)
 

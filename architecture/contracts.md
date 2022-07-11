@@ -7,3 +7,5 @@ coverY: 0
 # 💾 Contracts
 
 **Notorious Frogs** - 0xA4d5fB4Ff0Fa1565fb7D8f5Db88E4c0f2f445046
+
+**Frogland Computational Toadex** - 0xE574DdD69079A87222f282AA40f2d3B05303e93B

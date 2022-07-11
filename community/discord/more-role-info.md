@@ -123,7 +123,7 @@ Each of the **Gangs** also has their own role for ease of tagging, but no payout
 
 <details>
 
-<summary><strong>AAAAAAfroghodlrAAAAAA</strong></summary>
+<summary><strong>aaaaaaFROGHODLRaaaaaa</strong></summary>
 
 Denounces official ownership of a frog(s) through wallet connect.
 
@@ -168,6 +168,26 @@ Ownership of 50+ Notorious Frogs.
 Ownership of 100+ Notorious Frogs.
 
 **Pays:** 30,000 Frogdollars every 24 hours
+
+</details>
+
+<details>
+
+<summary>frOG LSD Hodlr</summary>
+
+Ownership of a _claimed_ Land Synthesis Device - thus, an OG frog who was able to claim their free land (or purchased an OG device on the secondary) rather than minted.
+
+**Pays:** 12,000 Frogdollars every 24 hours
+
+</details>
+
+<details>
+
+<summary>LSD Hodlr</summary>
+
+Ownership of a _minted_ Land Synthesis Device.&#x20;
+
+**Pays:** 10,000 Frogdollars every 24 hours. &#x20;
 
 </details>
 

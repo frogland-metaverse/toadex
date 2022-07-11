@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/mountains_017_3965.png
 coverY: -41.14810562571756
 ---
 
-# Mountains
+# 🌄 Mountains
 
 ![A real estate billboard for the Mountains biome in Frogland. ](https://imgur.com/GSVIROV.jpg)
 
