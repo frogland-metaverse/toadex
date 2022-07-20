@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/desert_012_9468.png
-coverY: 61.72215843857635
+coverY: -0.9252275458507881
 ---
 
 # 🌵 Desert

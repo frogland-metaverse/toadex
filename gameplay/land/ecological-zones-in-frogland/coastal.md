@@ -1,6 +1,6 @@
 ---
 cover: ../../../.gitbook/assets/beach_012_7521.png
-coverY: -52.904707233065444
+coverY: -78.53318331760383
 ---
 
 # 🏖 Coastal
