@@ -2,6 +2,8 @@
 description: >-
   Frogland's upper class broadsheet, this paper was never destined to last in a
   notorious world.
+cover: https://imgur.com/ITGZkKR.jpg
+coverY: 732.3270300333704
 ---
 
 # 🗞 The Morning Reflections
