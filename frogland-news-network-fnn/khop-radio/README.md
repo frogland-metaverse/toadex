@@ -20,6 +20,6 @@ Voiced by members of the community, KHOP adds another dimension to the ways in w
 [scratch-track-saturdays.md](scratch-track-saturdays.md)
 {% endcontent-ref %}
 
-{% content-ref url="all-chill-no-shill.md" %}
-[all-chill-no-shill.md](all-chill-no-shill.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

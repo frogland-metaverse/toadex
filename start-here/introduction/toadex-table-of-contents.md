@@ -145,6 +145,10 @@ With the help of the Frog Team, several community members or Syndicates have alr
 
 How we implement community feedback, suggestions, and ideas and turn co-creation into more than just a buzz word and into reality.
 
+### [all-chill-no-shill-podcast.md](../../community-projects/all-chill-no-shill-podcast.md "mention")
+
+Founded, produced, and hosted by Hazer/Spot, this podcast digs into founders in web3.
+
 ### [frogland-mixtape.md](../../community-projects/frogland-mixtape.md "mention")
 
 Contribute to a mix tape of original content from musicians within our community.
@@ -302,11 +306,7 @@ Audio recordings from each FRPG session, dramatized and reproduced.
 [scratch-track-saturdays.md](../../frogland-news-network-fnn/khop-radio/scratch-track-saturdays.md "mention")\
 Sapo Studios community jam sesh where they interview artists and collaborate live.
 
-[all-chill-no-shill.md](../../frogland-news-network-fnn/khop-radio/all-chill-no-shill.md "mention")\
-Founded, produced, and hosted by Hazer/Spot, this podcast digs into founders in web3.
-
-#### [frogland-glossary](../../multiverse/frogland-glossary/ "mention")
-
+[frogland-glossary](../../multiverse/frogland-glossary/ "mention")\
 The official catalog of all jargon, slang, and terminology appropriate for 'Frog Noire'.
 
 [froxford-froglish-dictionary.md](../../multiverse/frogland-glossary/froxford-froglish-dictionary.md "mention")\

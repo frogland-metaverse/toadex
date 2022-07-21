@@ -4,7 +4,7 @@ description: >-
   podcast dives deeper than the surface.
 ---
 
-# 🧊 All Chill, No Shill
+# 🧊 All Chill, No Shill Podcast
 
 ## Calling All: Builders - Misfits - Geeks - Creatives - Artists - Developers
 
@@ -12,7 +12,7 @@ We seek to be interesting without hype, to be passionate but not polarizing. We 
 
 We discuss the origins, the philosophy, and the journey that brought these folks into the space. Interviewing the founders, builders, and creatives fueling this renaissance.
 
-_Embed player coming soon..._
+{% embed url="https://youtube.com/playlist?list=PLRnjV7d-TjJTm4UPH7ozGhNvDRCUx5swj" %}
 
 #### Thank you for listening! Subscribe!
 

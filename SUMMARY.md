@@ -58,6 +58,7 @@
 ## COMMUNITY PROJECTS
 
 * [🧠 Ideas to Reality](community-projects/ideas-to-reality.md)
+* [🧊 All Chill, No Shill Podcast](community-projects/all-chill-no-shill-podcast.md)
 * [🎵 Frogland Mixtape](community-projects/frogland-mixtape.md)
 * [🎶 Sapo Studios](community-projects/sapo-studios.md)
 * [🌳 Seed Trees](community-projects/seed-trees/README.md)
@@ -154,7 +155,6 @@
   * [💿 Frog Team Recordings](frogland-news-network-fnn/khop-radio/frog-team-recordings.md)
   * [🎭 FRPG Serial Drama](frogland-news-network-fnn/khop-radio/frpg-serial-drama.md)
   * [🎙 Scratch Track Saturdays](frogland-news-network-fnn/khop-radio/scratch-track-saturdays.md)
-  * [🧊 All Chill, No Shill](frogland-news-network-fnn/khop-radio/all-chill-no-shill.md)
 * [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
   * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
   * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
