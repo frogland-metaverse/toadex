@@ -157,7 +157,7 @@ Contribute to a mix tape of original content from musicians within our community
 
 Collaborate with our music studio and mint your own stems on our platform for sale.
 
-### [seed-trees](../../community-projects/seed-trees/ "mention")
+### [seed-trees.md](../../community-projects/seed-trees.md "mention")
 
 Engage to grow future ancient forests and repay some of our collective carbon debt.
 
