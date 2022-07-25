@@ -61,7 +61,7 @@
 * [🧊 All Chill, No Shill Podcast](community-projects/all-chill-no-shill-podcast.md)
 * [🎵 Frogland Mixtape](community-projects/frogland-mixtape.md)
 * [🎶 Sapo Studios](community-projects/sapo-studios.md)
-* [🌳 Seed Trees](community-projects/seed-trees.md)
+* [🌳 Seed Trees](community-projects/seed-trees/README.md)
 
 ## ARCHITECTURE
 

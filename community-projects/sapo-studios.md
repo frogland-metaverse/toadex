@@ -15,3 +15,27 @@ Read up on the lore of how the HipHOP Anonymous Gang was founded, and how Sapo S
 {% endcontent-ref %}
 
 More info coming soon...
+
+### Socials
+
+**Twitter (project)** - [https://twitter.com/sapo\_studios](https://twitter.com/sapo\_studios)
+
+**Twitter (founder)** - [https://twitter.com/BingusFrog](https://twitter.com/BingusFrog)
+
+**Twitter (founder)** - [https://twitter.com/d\_cryptogabe](https://twitter.com/d\_cryptogabe)
+
+**Twitter (founder)** - [https://twitter.com/MisterAbomb](https://twitter.com/MisterAbomb)
+
+**Instagram (project)** - [https://www.instagram.com/sapo.studios/](https://www.instagram.com/sapo.studios/)
+
+**Instagram (founder)** - [https://www.instagram.com/gungakia/](https://www.instagram.com/gungakia/)
+
+**Instagram (founder)** - [https://www.instagram.com/d\_gabe/](https://www.instagram.com/d\_gabe/)
+
+**Instagram (founder)** - [https://www.instagram.com/abomb.eth/](https://www.instagram.com/abomb.eth/)
+
+### Platforms
+
+**Zencast** - [https://scratch-track-saturdays.zencast.website](https://scratch-track-saturdays.zencast.website)
+
+**Twitter Recordings** - [https://twitter.com/sapo\_studios](https://twitter.com/sapo\_studios)
