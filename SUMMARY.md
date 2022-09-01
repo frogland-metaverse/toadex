@@ -118,6 +118,7 @@
 
 * [📰 The Daily Splat](frogland-news-network-fnn/the-daily-splat.md)
   * [2022](frogland-news-network-fnn/the-daily-splat/2022/README.md)
+    * [9/1 - Strange Shapes Sighted In Wetlands!](frogland-news-network-fnn/the-daily-splat/2022/9-1-strange-shapes-sighted-in-wetlands.md)
     * [7/31 - Raucous Ravens Pillage Pond!](frogland-news-network-fnn/the-daily-splat/2022/7-31-raucous-ravens-pillage-pond.md)
     * [7/11 - Casino Crashed!! Fear Fills Frogland](frogland-news-network-fnn/the-daily-splat/2022/7-11-casino-crashed-fear-fills-frogland.md)
     * [5/27 - Black Market Burgeoning With Essence Once Again](frogland-news-network-fnn/the-daily-splat/2022/5-27-black-market-burgeoning-with-essence-once-again.md)
