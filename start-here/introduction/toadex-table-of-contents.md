@@ -377,7 +377,7 @@ Between the useless toads at the FLPD and the Frogland Bureau of Instigations, t
 [gangs-guilds-and-groups.md](../../frogland/organizations/gangs-guilds-and-groups.md "mention")\
 Self-organized groups within the community, including their own lore and flavor.
 
-[syndicates](../../frogland/organizations/syndicates/ "mention")\
+[syndicates.md](../../frogland/organizations/syndicates.md "mention")\
 The next step up from gangs - traditionally known as guilds in other MMORPGs.
 
 [organized-crime](../../frogland/organizations/organized-crime/ "mention")\

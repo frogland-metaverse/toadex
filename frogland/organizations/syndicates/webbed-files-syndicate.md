@@ -2,7 +2,7 @@
 description: THE TRUTH IS OUT THERE
 ---
 
-# Webbed Files
+# Webbed Files Syndicate
 
 Where did this page come from?
 
