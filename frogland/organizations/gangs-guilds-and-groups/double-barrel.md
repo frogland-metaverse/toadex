@@ -4,4 +4,4 @@ The double barrel is a private speakeasy with a membership-only access. It is a 
 
 The speakeasy if just a front for our illegal moonshining and weapons/ammo sales that take place in the basement named “The Bottom of the Barrel” entrance to this area requires further clearance. We have a membership card NFT that one holds in their crypto wallet to gain access to the club.&#x20;
 
-Founding Members: Bullish Frog, Satoadshi, and Toadjam and Earl
+**Founding Members:** Bullish Frog, Satoadshi, and Toadjam and Earl
