@@ -2,15 +2,15 @@
 description: The lore and frogs behind this gang.
 ---
 
-# Magic Guild
+# Magik Guild
 
-### Magic Guild Founding Story
+### Magik Guild Founding Story
 
 Coming soon...
 
 ### ​​**The Eight** Schools of Magic
 
-#### **The School of Abjuration**&#x20;
+#### **The School of Abjuration**
 
 Abjurers tend to be magical protectors, they are found in the thick of battle using their powerful defensive spells to shield their allies as they hack and slash their way through their enemies. They are the macho men and empowered women of the magical world.
 
@@ -32,9 +32,9 @@ The Evoker is generally outward-looking, bristling for a fight, reveling in dest
 
 #### **The School of Illusion**
 
-The Illusionist is an enigma. Things are never what they seem and their ability to blend reality with illusion makes others question whether they can be trusted at all. They are generally found hiding in the shadows, often of their own making, acting mysterious and amused by those who take the world around them at face value.&#x20;
+The Illusionist is an enigma. Things are never what they seem and their ability to blend reality with illusion makes others question whether they can be trusted at all. They are generally found hiding in the shadows, often of their own making, acting mysterious and amused by those who take the world around them at face value.
 
-#### **The School of Necromancy**&#x20;
+#### **The School of Necromancy**
 
 Often shunned by regular folk, The Necromancer is solitary and secretive. But why endanger yourself when you can raise a contingent of undead beings to do your bidding? Life and death are just two parts of the same journey, just because you stand on the bridge between doesn’t mean that you are doing anything unnatural.
 
