@@ -125,6 +125,7 @@
     * [7/11 - Casino Crashed!! Fear Fills Frogland](frogland-news-network-fnn/the-daily-splat/2022/7-11-casino-crashed-fear-fills-frogland.md)
     * [7/31 - Raucous Ravens Pillage Pond!](frogland-news-network-fnn/the-daily-splat/2022/7-31-raucous-ravens-pillage-pond.md)
     * [9/1 - Strange Shapes Sighted In Wetlands!](frogland-news-network-fnn/the-daily-splat/2022/9-1-strange-shapes-sighted-in-wetlands.md)
+    * [11/1 - Alien Activity Above, Amphibious Activity Below](frogland-news-network-fnn/the-daily-splat/2022/11-1-alien-activity-above-amphibious-activity-below.md)
   * [2021](frogland-news-network-fnn/the-daily-splat/2021/README.md)
     * [12/13 - Frogland Foggy with Magic Mystery and Murder](frogland-news-network-fnn/the-daily-splat/2021/12-13-frogland-foggy-with-magic-mystery-and-murder.md)
     * [11/19 - Bad Belladonna Bested By Fearless Frogs](frogland-news-network-fnn/the-daily-splat/2021/11-19-bad-belladonna-bested-by-fearless-frogs.md)
