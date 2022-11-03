@@ -31,3 +31,5 @@ coverY: 0
 **First half of June** - Froghodlr land claim
 
 **6/22 - 6/26/22** - NFT NYC
+
+**10/7 - 10/14/22** - Devcon in Bogotá&#x20;

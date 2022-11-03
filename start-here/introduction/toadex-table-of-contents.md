@@ -93,17 +93,36 @@ So you bought a frog - now what? This guide will get you pointed in the right di
 
 Everything you need to know for how to claim or mint your land, as well as how to check and see if a frog for sale on the secondary has already been claimed or not!
 
-### [discord](../../community/discord/ "mention")
+### [web3-blockchain-and-crypto-tips-and-safety](../../community/web3-blockchain-and-crypto-tips-and-safety/ "mention")
 
+The Frog Teams security recommendations, tips, tricks, and latest info on how to stay safe in the wild west.
+
+[wallet-safety.md](../../community/web3-blockchain-and-crypto-tips-and-safety/wallet-safety.md "mention")\
+Crypto and blockchain safety and security.
+
+[different-kinds-of-attacks.md](../../community/web3-blockchain-and-crypto-tips-and-safety/different-kinds-of-attacks.md "mention")\
+Ways in which scammers try to gain access to your assets.
+
+[crypto-safety-faq.md](../../community/web3-blockchain-and-crypto-tips-and-safety/crypto-safety-faq.md "mention")\
+FAQ answered by the one and only Froggy Digital.&#x20;
+
+### [discord-101](../../community/discord-101/ "mention")
+
+What the hell is a discord and why is it so confusing?! Taking the fear factor out so we can put the fun back in.&#x20;
+
+[discord-tips-and-security.md](../../community/discord-101/discord-tips-and-security.md "mention")\
+Recommendations and best practices for discord safety.&#x20;
+
+[discord.md](../../community/discord-101/discord.md "mention")\
 Our discord is complex and elaborate - but everything for a reason.
 
-[opt-in-roles-and-channels.md](../../community/discord/opt-in-roles-and-channels.md "mention")\
+[opt-in-roles-and-channels.md](../../community/discord-101/opt-in-roles-and-channels.md "mention")\
 This directory will help you learn what role reveals what channel, and what goes where.
 
-[more-role-info.md](../../community/discord/more-role-info.md "mention")\
+[more-role-info.md](../../community/discord-101/more-role-info.md "mention")\
 Some of the roles are based on status or contribution, whereas others are for gameplay.
 
-[bot-commands](../../community/discord/bot-commands/ "mention")\
+[bot-commands](../../community/discord-101/bot-commands/ "mention")\
 AI will have a strong presence in our world in NPCs and in gameplay - this is the start.
 
 ### [frpg](../../community/frpg/ "mention")
