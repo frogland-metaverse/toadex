@@ -43,3 +43,7 @@ LooksRare - [https://looksrare.org/collections/0xE574DdD69079A87222f282AA40f2d3B
 ### Merch
 
 Maddies Frogland **-** [https://maddies.co/official/notorious-frogs/](https://maddies.co/official/notorious-frogs/)
+
+### Living Press Kit
+
+[https://www.dropbox.com/sh/les92ljh3sri2gk/AABA-QT-3gYv3lEXjnXdijnra?dl=0](https://www.dropbox.com/sh/les92ljh3sri2gk/AABA-QT-3gYv3lEXjnXdijnra?dl=0)
