@@ -37,7 +37,7 @@
   * [🗺 Channel Directory](community/discord-101/discord.md)
   * [✅ Opt-In Roles & Channels](community/discord-101/opt-in-roles-and-channels.md)
   * [🧙 More Role Info](community/discord-101/more-role-info.md)
-  * [💰 Bot Commands](community/discord-101/bot-commands/README.md)
+  * [💰 Bot Command Gameplay](community/discord-101/bot-commands/README.md)
     * [The Basics](community/discord-101/bot-commands/the-basics.md)
     * [Work, Slut, Crime, and Rob](community/discord-101/bot-commands/work-slut-crime-and-rob.md)
     * [The Store and Items](community/discord-101/bot-commands/the-store-and-items/README.md)
