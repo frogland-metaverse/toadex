@@ -37,3 +37,15 @@ DIY Investing YouTube review in demo - [https://youtu.be/dcZL\_2wmCnc](https://y
 To Mint Or Not To Mint with Snoop Frog - [https://youtu.be/U6gNjpdQLkY](https://youtu.be/U6gNjpdQLkY)
 
 The Defiant with Snoop, Froggy Digital, & Gamabunta - [https://youtu.be/BwNiXCRvaIA](https://youtu.be/BwNiXCRvaIA)
+
+Office Hours with Metaverse HQ & Frogland - [https://www.youtube.com/watch?v=rWZgAX\_qWQs](https://www.youtube.com/watch?v=rWZgAX\_qWQs)&#x20;
+
+Thibault (@Thibault) YouTube Review - [https://youtu.be/EqWEJhkXp\_w](https://youtu.be/EqWEJhkXp\_w)&#x20;
+
+Frogland Biomes Teaser Playlist - [https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8](https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8)&#x20;
+
+Strange Signals YouTube Shorts Playlist - [https://youtube.com/playlist?list=PLRnjV7d-TjJQO7AahAPsZmGGOxdNgXMin](https://youtube.com/playlist?list=PLRnjV7d-TjJQO7AahAPsZmGGOxdNgXMin)&#x20;
+
+Frogland 'Biomes' Trailer - [https://youtu.be/s1E1kT3B5go](https://youtu.be/s1E1kT3B5go)&#x20;
+
+Blockchain Gaming Alliance New Member Presentation - [https://twitter.com/BGameAlliance/status/1599781028557893634?s=20\&t=wcwVzEtfqYrWknpPFLBDXQ](https://twitter.com/BGameAlliance/status/1599781028557893634?s=20\&t=wcwVzEtfqYrWknpPFLBDXQ)
