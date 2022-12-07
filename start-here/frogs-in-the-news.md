@@ -48,4 +48,6 @@ Strange Signals YouTube Shorts Playlist - [https://youtube.com/playlist?list=PLR
 
 Frogland 'Biomes' Trailer - [https://youtu.be/s1E1kT3B5go](https://youtu.be/s1E1kT3B5go)&#x20;
 
-Blockchain Gaming Alliance New Member Presentation - [https://twitter.com/BGameAlliance/status/1599781028557893634?s=20\&t=wcwVzEtfqYrWknpPFLBDXQ](https://twitter.com/BGameAlliance/status/1599781028557893634?s=20\&t=wcwVzEtfqYrWknpPFLBDXQ)
+Blockchain Gaming Alliance New Member Presentation (Snoop Frog begins around the 31 minute mark) - [https://www.youtube.com/watch?v=eLo294ltoO4](https://www.youtube.com/watch?v=eLo294ltoO4)
+
+Blockchain Gaming Alliance Demo Day (Snoop Frog begins the presentation) - [https://www.youtube.com/watch?v=KKsgjyQcxsw](https://www.youtube.com/watch?v=KKsgjyQcxsw)
