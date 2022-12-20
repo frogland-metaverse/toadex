@@ -137,7 +137,7 @@
     * [9/1 - Strange Shapes Sighted In Wetlands!](frogland-news-network-fnn/the-daily-splat/2022/9-1-strange-shapes-sighted-in-wetlands.md)
     * [11/1 - Alien Activity Above, Amphibious Activity Below](frogland-news-network-fnn/the-daily-splat/2022/11-1-alien-activity-above-amphibious-activity-below.md)
     * [12/7 - Not Your LSDs, Not Your Frogdollars](frogland-news-network-fnn/the-daily-splat/2022/12-7-not-your-lsds-not-your-frogdollars.md)
-  * [2021](frogland-news-network-fnn/the-daily-splat/2021/README.md)
+  * [Town Halls in 2021](frogland-news-network-fnn/the-daily-splat/2021/README.md)
     * [12/13 - Frogland Foggy with Magic Mystery and Murder](frogland-news-network-fnn/the-daily-splat/2021/12-13-frogland-foggy-with-magic-mystery-and-murder.md)
     * [11/19 - Bad Belladonna Bested By Fearless Frogs](frogland-news-network-fnn/the-daily-splat/2021/11-19-bad-belladonna-bested-by-fearless-frogs.md)
     * [11/8 - Poisonous Belladonna Pushes Townsfrogs Beyond Terror](frogland-news-network-fnn/the-daily-splat/2021/11-8-poisonous-belladonna-pushes-townsfrogs-beyond-terror.md)
@@ -176,9 +176,9 @@
   * [Full Episodes](frogland-news-network-fnn/frogland-serial-drama/full-episodes/README.md)
     * [Murder at the Dragonfly: Chapter 1](frogland-news-network-fnn/frogland-serial-drama/full-episodes/murder-at-the-dragonfly-chapter-1.md)
 * [🐸 Frogland Town Halls](frogland-news-network-fnn/frogland-town-halls/README.md)
-  * [2021](frogland-news-network-fnn/frogland-town-halls/2021.md)
-  * [2022](frogland-news-network-fnn/frogland-town-halls/2022.md)
-  * [2023](frogland-news-network-fnn/frogland-town-halls/2023.md)
+  * [Town Halls in 2021](frogland-news-network-fnn/frogland-town-halls/town-halls-in-2021.md)
+  * [Town Halls in 2022](frogland-news-network-fnn/frogland-town-halls/town-halls-in-2022.md)
+  * [Town Halls in 2023](frogland-news-network-fnn/frogland-town-halls/town-halls-in-2023.md)
 
 ## 🐸 FROGLAND
 
