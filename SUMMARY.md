@@ -68,6 +68,10 @@
 * [🎵 Frogland Mixtape](community-projects/frogland-mixtape.md)
 * [🎶 Sapo Studios](community-projects/sapo-studios.md)
 * [🌳 Seed Trees](community-projects/seed-trees/README.md)
+* [😈 Horny Toad's $2 Thursdays](community-projects/horny-toads-usd2-thursdays/README.md)
+  * [💻 Coding, Tech, and Dev Work](community-projects/horny-toads-usd2-thursdays/coding-tech-and-dev-work.md)
+  * [🎮 Modeling, Rigging, and Animating Game Assets](community-projects/horny-toads-usd2-thursdays/modeling-rigging-and-animating-game-assets.md)
+  * [🤖 AI and Machine Learning Techniques](community-projects/horny-toads-usd2-thursdays/ai-and-machine-learning-techniques.md)
 
 ## ARCHITECTURE
 
@@ -167,6 +171,14 @@
 * [📕 Frogland Glossary](multiverse/frogland-glossary/README.md)
   * [Froxford Froglish Dictionary](multiverse/frogland-glossary/froxford-froglish-dictionary.md)
   * [Hard Boiled Slang](multiverse/frogland-glossary/hard-boiled-slang.md)
+* [📽 Frogland Serial Drama](frogland-news-network-fnn/frogland-serial-drama/README.md)
+  * [Teaser and Short Content](frogland-news-network-fnn/frogland-serial-drama/teaser-and-short-content.md)
+  * [Full Episodes](frogland-news-network-fnn/frogland-serial-drama/full-episodes/README.md)
+    * [Murder at the Dragonfly: Chapter 1](frogland-news-network-fnn/frogland-serial-drama/full-episodes/murder-at-the-dragonfly-chapter-1.md)
+* [🐸 Frogland Town Halls](frogland-news-network-fnn/frogland-town-halls/README.md)
+  * [2021](frogland-news-network-fnn/frogland-town-halls/2021.md)
+  * [2022](frogland-news-network-fnn/frogland-town-halls/2022.md)
+  * [2023](frogland-news-network-fnn/frogland-town-halls/2023.md)
 
 ## 🐸 FROGLAND
 
