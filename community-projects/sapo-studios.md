@@ -39,3 +39,5 @@ More info coming soon...
 **Zencast** - [https://scratch-track-saturdays.zencast.website](https://scratch-track-saturdays.zencast.website)
 
 **Twitter Recordings** - [https://twitter.com/sapo\_studios](https://twitter.com/sapo\_studios)
+
+**Google Podcasts** - [https://podcasts.google.com/feed/aHR0cHM6Ly9tZWRpYS56ZW5jYXN0LmZtL3NjcmF0Y2gtdHJhY2stc2F0dXJkYXlzL3Jzcw?sa=X\&ved=0CAcQrrcFahcKEwjAqtObkYn8AhUAAAAAHQAAAAAQCg](https://podcasts.google.com/feed/aHR0cHM6Ly9tZWRpYS56ZW5jYXN0LmZtL3NjcmF0Y2gtdHJhY2stc2F0dXJkYXlzL3Jzcw?sa=X\&ved=0CAcQrrcFahcKEwjAqtObkYn8AhUAAAAAHQAAAAAQCg)
