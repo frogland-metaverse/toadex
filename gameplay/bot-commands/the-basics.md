@@ -1,8 +1,10 @@
 ---
-description: The most important commands for any frogger to know.
+description: >-
+  The most important commands for any frogger to know to get started in
+  Frogland.
 ---
 
-# The Basics
+# 🔢 The Basics
 
 <details>
 
@@ -10,9 +12,9 @@ description: The most important commands for any frogger to know.
 
 Collect income from the roles you've gained! Best utilized in the #Town-Square, #The-Gardens, #Stash-House.
 
-#### **Command Variations**&#x20;
+**Command Variations**
 
-* **$collect \[role]** - collects income from a specific role&#x20;
+* **$collect \[role]** - collects income from a specific role
 * **$collect all** - collects income from all roles
 
 </details>
@@ -21,9 +23,9 @@ Collect income from the roles you've gained! Best utilized in the #Town-Square, 
 
 <summary>$balance</summary>
 
-Checks how much money you have in cash and in your bank account.&#x20;
+Checks how much money you have in cash and in your bank account.
 
-#### **Command Variations**&#x20;
+**Command Variations**
 
 * **$bal** - shorthand command
 * **$bal \[user]** - checks the balance of a specific user
@@ -36,10 +38,10 @@ Checks how much money you have in cash and in your bank account.&#x20;
 
 This will deposit your cash into your bank account, safe from pickpockets.
 
-#### **Command Variations**
+**Command Variations**
 
 * **$dep all -** deposit all your cash
-* **$dep \[amount]** - deposit a specific amount&#x20;
+* **$dep \[amount]** - deposit a specific amount
 
 </details>
 
@@ -47,9 +49,9 @@ This will deposit your cash into your bank account, safe from pickpockets.
 
 <summary>$withdraw</summary>
 
-This will withdraw cash from your bank account.&#x20;
+This will withdraw cash from your bank account.
 
-#### **Command Variations**
+**Command Variations**
 
 * **$with** - shorthand
 * **$with all** - withdraw all from bank to cash
@@ -61,9 +63,9 @@ This will withdraw cash from your bank account.&#x20;
 
 <summary>$give</summary>
 
-The command to give another user a select amount of your cash on hand.&#x20;
+The command to give another user a select amount of your cash on hand.
 
-#### **Command Variations**
+**Command Variations**
 
 * **$give @\[username]** - sends a ping to the user so they know they received funds
 * **$give \[username]** - does not send a ping, but does send the funds
@@ -78,7 +80,7 @@ The command to give another user a select amount of your cash on hand.&#x20;
 
 This will show the overall leaders in the economy in Frogdollars.
 
-#### **Command Variations**
+**Command Variations**
 
 * **$lb** - shorthand
 * **$lb cash** - shows the cash on hand leaderboard
@@ -86,5 +88,11 @@ This will show the overall leaders in the economy in Frogdollars.
 </details>
 
 {% hint style="success" %}
-_Pro tip: If you keep cash on hand, you're way more likely to be robbed! Always make sure to $dep all before leaving the discord._&#x20;
+_Pro tip: If you keep cash on hand, you're way more likely to be robbed! Always make sure to $dep all before leaving the discord._
 {% endhint %}
+
+## There are ways to earn more frog dollars, faster - but the risk is higher, too. Check out this page for more! :point\_down:
+
+{% content-ref url="work-slut-crime-and-rob/" %}
+[work-slut-crime-and-rob](work-slut-crime-and-rob/)
+{% endcontent-ref %}

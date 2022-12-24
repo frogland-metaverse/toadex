@@ -1,5 +1,7 @@
 ---
-description: SPOILERS hidden amongst the decoy commands.
+description: >-
+  Some commands may nab you a Slimy Salamander...some may leave you trapped and
+  flailing in the net, no Salamander in sight.
 ---
 
 # 🦎 Salamander Commands

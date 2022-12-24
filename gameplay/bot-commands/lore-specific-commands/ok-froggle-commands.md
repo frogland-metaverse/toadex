@@ -1,8 +1,11 @@
 ---
-description: SPOILERS hidden amongst the decoy commands.
+description: >-
+  Just like OK Google, but froggier. All the commands Froggle answers! Spelling,
+  punctuation, space vs hyphen, and letter case DO matter for proper use - OK
+  Froggle is not run by an AI...yet!
 ---
 
-# 🤖 OK Froggle Commands
+# 🤖 OK Froggle...
 
 $ok-froggle
 
@@ -71,3 +74,9 @@ $ok-froggle-where-can-i-locate-map-piece
 $ok-froggle-where-can-i-find-map-pieces
 
 $wen-map
+
+$ok-froggle-give-me-a-puzzle
+
+$ok-froggle-help
+
+$ok-froggle-what-is-a-nibbler

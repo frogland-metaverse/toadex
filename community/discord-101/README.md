@@ -46,6 +46,8 @@ Notifications can be customized - from turning a server's notifications on (or o
 [more-role-info.md](more-role-info.md)
 {% endcontent-ref %}
 
-{% content-ref url="bot-commands/" %}
-[bot-commands](bot-commands/)
+## And, down in the [Gameplay](broken-reference) category...
+
+{% content-ref url="../../gameplay/bot-commands/" %}
+[bot-commands](../../gameplay/bot-commands/)
 {% endcontent-ref %}

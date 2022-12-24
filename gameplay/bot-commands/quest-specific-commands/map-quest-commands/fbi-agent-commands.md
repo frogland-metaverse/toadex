@@ -1,5 +1,7 @@
 ---
-description: SPOILERS hidden amongst the decoy commands.
+description: >-
+  Some commands may reveal the rampant corruption within the Frogland Bureau of
+  Instigations, while others may land you in the slammer.
 ---
 
 # 🚔 FBI Agent Commands

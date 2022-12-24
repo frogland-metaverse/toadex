@@ -2,7 +2,7 @@
 description: Try it...see what happens ;)
 ---
 
-# Just For Fun...
+# 😂 Just For Fun...
 
 ### $underinvested
 
@@ -12,4 +12,4 @@ description: Try it...see what happens ;)
 
 ### $naked
 
-### $buy-taco
+### $wen

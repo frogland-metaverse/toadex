@@ -1,12 +1,10 @@
 ---
 description: >-
-  Created by another amazing mod, Donkey Frog, this guide has a little bit of
-  everything to get a new Froghodlr started in the discord and community!
-cover: ../.gitbook/assets/Web background NEW.png
-coverY: -403.39839265212396
+  The best TL;DR of our discord, written by one of the Frogland Mods, Donkey
+  Frog!
 ---
 
-# 🐸 A New Froghodlr's Guide
+# 👾 New Froghodlrs' Guide: Discord Edition
 
 ## :green\_heart: **Welcome to Frogland!** :green\_heart:
 
@@ -14,25 +12,31 @@ If you’re brand new here, the Discord might be a little overwhelming, so this 
 
 ### **Nickname**
 
-The first thing you might want to do is get a froggy nickname if you’re a Froghodlr. This is just a fun, frog-themed name that many users adopt for this Discord. _(It won’t change your name in other Discords)_. If you want a froggy nickname, just reach out to one of the **Mod Squad** (_purple names on the R sidebar)_ or **Frog Team** members _(pink names)_ and they can help. If you’re having trouble thinking of a name, check the pinned messages in **#unclaimed-names** for suggestions.
+The first thing you might want to do is get a froggy nickname if you’re a Froghodlr. This is just a fun, frog-themed name that many users adopt for this Discord. _(It won’t change your name in other Discords)_. If you want a froggy nickname, just reach out to one of the **Mod Squad** (_purple names on the R sidebar)_ or **Frog Team** members _(dark green names)_ and they can help. If you’re having trouble thinking of a name, check the pinned messages in **#unclaimed-names** for suggestions.
+
+### **Exploring the Discord**
+
+There are a lot of channels in the Discord. Some are more practical like the **#Lillypad-Lounge**, where town halls and other voice chats take place, but others are previews of the gameplay. The **#directory** channel should help!
+
+**#pillars-of-newpangea** is the channel where you can opt into roles and choose what parts of the discord you want to interact with. For instance, the :video\_game: emoji will give you the _GameFrogger_ role, and access to all the “in the metaverse” channels to interact with the bots and roleplay. The :art: emoji will give you the _Frollaborator_ role, which is where you’ll be able to talk to other creators and offer your contributions to the project!
 
 ### **Frogland Videos**
 
 Have you seen the video of the game? This is actual in-game footage from the released alpha. The setting is the Dragonfly Club, which will be one of the many buildings in the metaverse.
 
-{% embed url="https://youtu.be/FKql3XW1dGM" %}
-Recorded gameplay from the Dragonfly Social Club demo.
+{% embed url="https://youtu.be/Z3L9zW3IUW4" %}
+A trailer for the Dragonfly Social Club metaverse demo, made by one of our mods, Hazer. &#x20;
 {% endembed %}
 
-We also have demo video of the lilyPADs. These environments are not yet live for players, but give a good feel for what the personal land will look and feel like in the game, leading up to the land claim in June. The voiceover here is Shrimp and Snoop Frog chatting about the difference in style and rendering and how it impacts development.
+We also have several videos of the seven different types of land, called biomes, in Frogland. You can see them all in this trailer for our land/metaverse:
 
-{% embed url="https://youtu.be/od78PyAjNbA" %}
-Two art styles released to the community to get a feel for holder preference.
+{% embed url="https://youtu.be/s1E1kT3B5go" %}
+The Frogland 'Land Biomes' trailer.&#x20;
 {% endembed %}
 
 ### **Playable Demo**
 
-Now that you’ve seen the video, do you want to play the game? It’s just the alpha, and only a few rooms, but if you’d like to get an idea of how the game will look and play, check it out! The demo is _only for Frogholders_, so once you verify, go to **#message-board** and sign up. You’ll need to fill out a google form called **DEMO PLAYTHROUGH SIGN UP SHEET**.
+Now that you’ve seen the video, do you want to play the game? It’s just the alpha and only a few rooms, but if you’d like to get an idea of how the game will look and play, check it out! The demo is _only for Frogholders_, so once you verify, go to **#message-board** and sign up. You’ll need to fill out a google form called **DEMO PLAYTHROUGH SIGN UP SHEET**.
 
 You’ll receive an email with a registration code which will allow you to play the game. The game is available for both PC and Mac. After you’ve finished, feel free to leave some feedback on your experience.
 
@@ -57,12 +61,6 @@ Part of the gaming experience involves **FRPG** or “_Frog Role Playing Game_�
 ### **Levels and Boosts**
 
 If you’re looking to buy a frog (make sure collection is verified - check **#official-links**!), a lot of people want to know what the levels and boosts mean. Basically, these will be skills that your character will have when playing the game in the metaverse, so a +5 is more desirable than a +1 - however, it all depends on how YOU want to play the game and engage in the metaverse!
-
-### **Exploring the Discord**
-
-There are a lot of channels in the Discord. Some are more practical like the **#Lillypad-Lounge**, where town halls and other voice chats take place, but others are previews of the gameplay. Check out things like the **#casino** or **#Sapo-Studios** where live music happens on Scratch Track Saturdays. The **#directory** channel should help!
-
-**#pillars-of-newpangea** is the channel where you can opt into roles and choose what parts of the discord you want to interact with. For instance, the :video\_game: emoji will give you the _GameFrogger_ role, and access to all the “in the metaverse” channels to interact with the bots and roleplay. The :art: emoji will give you the _Frollaborator_ role, which is where you’ll be able to talk to other creators and offer your contributions to the project!
 
 ### **Contributing**
 

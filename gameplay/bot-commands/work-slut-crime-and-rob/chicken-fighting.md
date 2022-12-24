@@ -5,7 +5,7 @@ description: >-
   chicken for Webbed Pete's Taco Truck, and more.
 ---
 
-# Chicken Fighting
+# 🐔 Chicken Fighting
 
 <details>
 
@@ -13,7 +13,7 @@ description: >-
 
 Purchase a chicken for the notorious cock fighting rings in Frogland.
 
-#### Command Variations
+**Command Variations**
 
 * **$buy-chi** - shorthand
 
@@ -23,11 +23,13 @@ Purchase a chicken for the notorious cock fighting rings in Frogland.
 
 <summary><strong>$chicken-fight</strong></summary>
 
-As your cock wins matches, it increases in strength and win chance percentage, potentially getting to Legendary Cock status at 85% and then ready for a PPV style fight! Follow the command with the bet **amount.** Best done in #The-Gardens.&#x20;
+As your cock wins matches, it increases in strength and win chance percentage, potentially getting to Legendary Cock status at 85% and then ready for a PPV style fight! Follow the command with the bet **amount.** Best done in #The-Gardens.
 
-#### Command Variations
+**Command Variations**
 
 * **$cf -** shorthand
+
+__:warning: _ **Example**:_ $cf 50000
 
 </details>
 
