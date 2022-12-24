@@ -48,6 +48,6 @@ Notifications can be customized - from turning a server's notifications on (or o
 
 ## And, down in the [Gameplay](broken-reference) category...
 
-{% content-ref url="../../gameplay/bot-commands/" %}
-[bot-commands](../../gameplay/bot-commands/)
+{% content-ref url="bot-commands/" %}
+[bot-commands](bot-commands/)
 {% endcontent-ref %}

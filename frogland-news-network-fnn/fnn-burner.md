@@ -7,6 +7,26 @@ description: >-
 
 # 🐦 FNN Burner
 
+{% embed url="https://twitter.com/Frogland_io/status/1603804444105543680?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1603040068343848961?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1602482240231034882?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1602482238469406723?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/Frogland_io/status/1600834164835880960?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1600633909980676096?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1599051531256750080?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/wwwdidimx/status/1593940202954727425?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1589750365993697281?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
+{% embed url="https://twitter.com/FNNBurner/status/1587802530364497924?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
+
 {% embed url="https://twitter.com/Frogland_io/status/1585338896677994497?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}
 
 {% embed url="https://twitter.com/FNNBurner/status/1584228390382362624?s=20&t=qn-nV4jK_jCxAOIgXkelcA" %}

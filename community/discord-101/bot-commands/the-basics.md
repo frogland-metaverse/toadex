@@ -93,6 +93,6 @@ _Pro tip: If you keep cash on hand, you're way more likely to be robbed! Always 
 
 ## There are ways to earn more frog dollars, faster - but the risk is higher, too. Check out this page for more! :point\_down:
 
-{% content-ref url="work-slut-crime-and-rob/" %}
-[work-slut-crime-and-rob](work-slut-crime-and-rob/)
+{% content-ref url="work-slut-crime-and-rob.md" %}
+[work-slut-crime-and-rob.md](work-slut-crime-and-rob.md)
 {% endcontent-ref %}

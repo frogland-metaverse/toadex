@@ -10,8 +10,8 @@ Crypto is hard, and there's no one-size-fits-all solution. Security is a spectru
 [frog-team-safety-assurances.md](frog-team-safety-assurances.md)
 {% endcontent-ref %}
 
-{% content-ref url="crypto-wallet-safety.md" %}
-[crypto-wallet-safety.md](crypto-wallet-safety.md)
+{% content-ref url="wallet-safety.md" %}
+[wallet-safety.md](wallet-safety.md)
 {% endcontent-ref %}
 
 {% content-ref url="different-kinds-of-attacks.md" %}

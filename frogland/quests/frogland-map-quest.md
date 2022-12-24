@@ -13,7 +13,7 @@ The Frogland Map Quest was a scavenger hunt style quest in the discord where Fro
 The map pieces were torn asunder during the tumultuous events of that fateful evening, and the salamanders scurried off with them. As the Slimy Salamanders departed, there was a veritable stampede all the way through town leaving a trail of splooge behind them. One lucky frog caught sight of a bedraggled map piece nearly obscured in a puddle of sludge, giving them some kind of hint about what they should be looking for.
 
 {% hint style="info" %}
-Check out the [Map Commands](../../gameplay/bot-commands/quest-specific-commands/map-quest-commands/) page to see what commands will receive _some_ response, then try them out for yourself in the discord!
+Check out the [Map Commands](../../community/discord-101/bot-commands/map-quest-commands/) page to see what commands will receive _some_ response, then try them out for yourself in the discord!
 {% endhint %}
 
 Desperately, the more clever frogs began to query the Unkown Magicks (bot) of Frogland, trying to "$trap-salamander" and "$chase-salamander". After finally succeeding and acquiring another map piece, the hunt was on! All kinds of commands were flung like prayers skyward to Unkown Magicks, hoping that one (or 36) would work and bless them with another map piece.

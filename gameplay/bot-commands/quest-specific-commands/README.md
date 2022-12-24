@@ -6,8 +6,8 @@ description: >-
 
 # ⁉ Quest Specific Commands
 
-{% content-ref url="map-quest-commands/" %}
-[map-quest-commands](map-quest-commands/)
+{% content-ref url="../../../community/discord-101/bot-commands/map-quest-commands/" %}
+[map-quest-commands](../../../community/discord-101/bot-commands/map-quest-commands/)
 {% endcontent-ref %}
 
 {% content-ref url="the-nibbler.md" %}
@@ -20,6 +20,6 @@ description: >-
 
 ## Looking for a hint, or have a question about your quest? OK Froggle can help! :point\_down:
 
-{% content-ref url="../lore-specific-commands/ok-froggle-commands.md" %}
-[ok-froggle-commands.md](../lore-specific-commands/ok-froggle-commands.md)
+{% content-ref url="../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md" %}
+[ok-froggle-commands.md](../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md)
 {% endcontent-ref %}

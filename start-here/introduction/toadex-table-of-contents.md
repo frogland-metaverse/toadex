@@ -85,7 +85,7 @@ The opportunity to create and be involved in any capacity and see that reflected
 
 There is something for everyone in NewPangea - whether you are a creator or builder, a thinker or a player, anyone and everyone is welcome to play, explore, and contribute.
 
-### [a-new-froghodlrs-guide](../../community/a-new-froghodlrs-guide/ "mention")
+### [a-new-froghodlrs-guide.md](../../community/a-new-froghodlrs-guide.md "mention")
 
 So you bought a frog - now what? This guide will get you pointed in the right direction.
 
@@ -97,7 +97,7 @@ Everything you need to know for how to claim or mint your land, as well as how t
 
 The Frog Teams security recommendations, tips, tricks, and latest info on how to stay safe in the wild west.
 
-[crypto-wallet-safety.md](../../community/web3-blockchain-and-crypto-tips-and-safety/crypto-wallet-safety.md "mention")\
+[wallet-safety.md](../../community/web3-blockchain-and-crypto-tips-and-safety/wallet-safety.md "mention")\
 Crypto and blockchain safety and security.
 
 [different-kinds-of-attacks.md](../../community/web3-blockchain-and-crypto-tips-and-safety/different-kinds-of-attacks.md "mention")\
@@ -122,7 +122,7 @@ This directory will help you learn what role reveals what channel, and what goes
 [more-role-info.md](../../community/discord-101/more-role-info.md "mention")\
 Some of the roles are based on status or contribution, whereas others are for gameplay.
 
-[bot-commands](../../gameplay/bot-commands/ "mention")\
+[bot-commands](../../community/discord-101/bot-commands/ "mention")\
 AI will have a strong presence in our world in NPCs and in gameplay - this is the start.
 
 ### [frpg](../../community/frpg/ "mention")

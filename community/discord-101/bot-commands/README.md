@@ -18,20 +18,20 @@ When in doubt, ask a member of the Mod Squad for help!
 [the-basics.md](the-basics.md)
 {% endcontent-ref %}
 
-{% content-ref url="work-slut-crime-and-rob/" %}
-[work-slut-crime-and-rob](work-slut-crime-and-rob/)
+{% content-ref url="work-slut-crime-and-rob.md" %}
+[work-slut-crime-and-rob.md](work-slut-crime-and-rob.md)
 {% endcontent-ref %}
 
 {% content-ref url="the-store-and-items/" %}
 [the-store-and-items](the-store-and-items/)
 {% endcontent-ref %}
 
-{% content-ref url="quest-specific-commands/" %}
-[quest-specific-commands](quest-specific-commands/)
+{% content-ref url="../../../gameplay/bot-commands/quest-specific-commands/" %}
+[quest-specific-commands](../../../gameplay/bot-commands/quest-specific-commands/)
 {% endcontent-ref %}
 
-{% content-ref url="lore-specific-commands/" %}
-[lore-specific-commands](lore-specific-commands/)
+{% content-ref url="community-lore-commands.md" %}
+[community-lore-commands.md](community-lore-commands.md)
 {% endcontent-ref %}
 
 {% content-ref url="utility-commands.md" %}

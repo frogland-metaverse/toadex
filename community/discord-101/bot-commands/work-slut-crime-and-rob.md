@@ -63,6 +63,6 @@ _Pro tip: if you're broke with no cash OR banked money, you'll avoid fines as yo
 
 ## More interested in spending your hard earned frog dollars, or seeing what items you have? Check out the $store! :point\_down:
 
-{% content-ref url="../the-store-and-items/" %}
-[the-store-and-items](../the-store-and-items/)
+{% content-ref url="the-store-and-items/" %}
+[the-store-and-items](the-store-and-items/)
 {% endcontent-ref %}
