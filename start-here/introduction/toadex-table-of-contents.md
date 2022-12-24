@@ -87,15 +87,11 @@ There is something for everyone in NewPangea - whether you are a creator or buil
 
 ### [a-new-froghodlrs-guide.md](../../community/a-new-froghodlrs-guide.md "mention")
 
-So you bought a frog - now what? This guide will get you pointed in the right direction.
-
-### [how-to-claim-land-mint-land-or-check-claim-status.md](../../community/how-to-claim-land-mint-land-or-check-claim-status.md "mention")
-
-Everything you need to know for how to claim or mint your land, as well as how to check and see if a frog for sale on the secondary has already been claimed or not!
+So you bought a frog - now what? These short, targeted guides will get you pointed in the right direction for our discord, the Toadex, our Land/LSDs, and more.
 
 ### [web3-blockchain-and-crypto-tips-and-safety](../../community/web3-blockchain-and-crypto-tips-and-safety/ "mention")
 
-The Frog Teams security recommendations, tips, tricks, and latest info on how to stay safe in the wild west.
+The Frog Teams security recommendations, assurances, tips, tricks, and latest info on how to stay safe in the wild west.
 
 [wallet-safety.md](../../community/web3-blockchain-and-crypto-tips-and-safety/wallet-safety.md "mention")\
 Crypto and blockchain safety and security.
@@ -121,9 +117,6 @@ This directory will help you learn what role reveals what channel, and what goes
 
 [more-role-info.md](../../community/discord-101/more-role-info.md "mention")\
 Some of the roles are based on status or contribution, whereas others are for gameplay.
-
-[bot-commands](../../community/discord-101/bot-commands/ "mention")\
-AI will have a strong presence in our world in NPCs and in gameplay - this is the start.
 
 ### [frpg](../../community/frpg/ "mention")
 
@@ -180,6 +173,10 @@ Collaborate with our music studio and mint your own stems on our platform for sa
 
 Engage to grow future ancient forests and repay some of our collective carbon debt.
 
+### [horny-toads-usd2-thursdays](../../community-projects/horny-toads-usd2-thursdays/ "mention")
+
+Hosted by Horny the Toad, these are live masterclasses hosted by Frog Team members for community members in the team member's area of expertise.&#x20;
+
 </details>
 
 <details>
@@ -228,8 +225,36 @@ This is where all of the pieces and parts currently bridging the gap between dis
 
 How you can start to develop your own frog's lore and IP.
 
+[character-development-fillable-form.md](../../gameplay/character-development/character-development-fillable-form.md "mention")\
+Fill out this questionnaire to get started with your character.
+
+[hyype.md](../../gameplay/character-development/hyype.md "mention")\
+Mint your lore directly to your NFT and develop your character's profile.
+
 [notorious-frog-bios.md](../../gameplay/character-development/notorious-frog-bios.md "mention")\
 Some of the finished bios for individual frogs involved in the community.
+
+### [bot-commands](../../community/discord-101/bot-commands/ "mention")
+
+All of the ways to interface with our discord bots and start playing!
+
+[the-basics.md](../../community/discord-101/bot-commands/the-basics.md "mention")\
+Earn money, lose money, earn more money, and keep it safe.
+
+[work-slut-crime-and-rob.md](../../community/discord-101/bot-commands/work-slut-crime-and-rob.md "mention")\
+Ready for the next, more notorious steps for making frog dollars?
+
+[the-store-and-items](../../community/discord-101/bot-commands/the-store-and-items/ "mention")\
+All the items to purchase, things to have or use, and ways to spend your froggy bucks.
+
+[quest-specific-commands](../../gameplay/bot-commands/quest-specific-commands/ "mention")\
+Commands specific to certain quests, whether completed or still live!
+
+[community-lore-commands.md](../../community/discord-101/bot-commands/community-lore-commands.md "mention")\
+Commands relative to the community, their lore, or entertainment value.
+
+[utility-commands.md](../../community/discord-101/bot-commands/utility-commands.md "mention")\
+All of the boring but smart commands to make discord work harder, not you.
 
 ### [land](../../gameplay/land/ "mention")
 
@@ -292,7 +317,7 @@ Different formalized items within the game world.
 
 Wearables and clothes in the gameworld, like what the frogs are wearing.
 
-### [mini-games.md](../../gameplay/mini-games.md "mention")
+### [mini-games](../../gameplay/mini-games/ "mention")
 
 Mini-games and how (and if) they impact the larger gameplay.
 
@@ -304,15 +329,19 @@ Mini-games and how (and if) they impact the larger gameplay.
 
 Official Frogland news sources and documentation.
 
-#### [the-daily-splat.md](../../frogland-news-network-fnn/the-daily-splat.md "mention")
+### [the-daily-splat.md](../../frogland-news-network-fnn/the-daily-splat.md "mention")
 
 The official news source (in sensationalist tabloid style) of Frogland, fully written and produced by community members about IRL and in-game hoppenings in PNG form.
 
-#### [the-morning-reflections](../../frogland-news-network-fnn/the-morning-reflections/ "mention")
+### [the-morning-reflections](../../frogland-news-network-fnn/the-morning-reflections/ "mention")
 
 A now defunct broadsheet news source in Frogland, all articles archived here in PNGs.
 
-#### [khop-radio](../../frogland-news-network-fnn/khop-radio/ "mention")
+### [fnn-burner.md](../../frogland-news-network-fnn/fnn-burner.md "mention")
+
+The community run account for the Frogland News Network's breaking news.
+
+### [khop-radio](../../frogland-news-network-fnn/khop-radio/ "mention")
 
 All audio from the Frog Team or from the community.
 
@@ -325,7 +354,8 @@ Audio recordings from each FRPG session, dramatized and reproduced.
 [scratch-track-saturdays.md](../../frogland-news-network-fnn/khop-radio/scratch-track-saturdays.md "mention")\
 Sapo Studios community jam sesh where they interview artists and collaborate live.
 
-[frogland-glossary](../../multiverse/frogland-glossary/ "mention")\
+### [frogland-glossary](../../multiverse/frogland-glossary/ "mention")
+
 The official catalog of all jargon, slang, and terminology appropriate for 'Frog Noire'.
 
 [froxford-froglish-dictionary.md](../../multiverse/frogland-glossary/froxford-froglish-dictionary.md "mention")\
@@ -333,6 +363,10 @@ This community generated collection of froglish terminology.
 
 [hard-boiled-slang.md](../../multiverse/frogland-glossary/hard-boiled-slang.md "mention")\
 Common phrases and jargon for noire style film and writing.
+
+### [frogland-town-halls](../../frogland-news-network-fnn/frogland-town-halls/ "mention")
+
+All of the meetings broadcasted between the Frog Team and community.&#x20;
 
 </details>
 

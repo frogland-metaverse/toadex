@@ -29,8 +29,7 @@
 * [🐸 The Ultimate Guide](community/a-new-froghodlrs-guide.md)
   * [👾 New Froghodlrs' Guide: Discord Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-discord-edition.md)
   * [📚 New Froghodlr's Guide: Toadex Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-toadex-edition.md)
-  * [Untitled](community/a-new-froghodlrs-guide/untitled.md)
-* [🏝 How to Claim Land, Mint Land, or Check Claim Status](community/how-to-claim-land-mint-land-or-check-claim-status.md)
+  * [🏔 New Froghodlr's Guide: Land Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-land-edition.md)
 * [🔗 Web3, Blockchain, and Crypto: Tips & Safety](community/web3-blockchain-and-crypto-tips-and-safety/README.md)
   * [🐸 Frog Team Safety Assurances](community/web3-blockchain-and-crypto-tips-and-safety/frog-team-safety-assurances.md)
   * [🖥 Crypto Wallet Safety](community/web3-blockchain-and-crypto-tips-and-safety/wallet-safety.md)
@@ -130,7 +129,8 @@
 * [⚗ Alchemy & Magic](gameplay/alchemy-and-magic.md)
 * [📦 Items](gameplay/items.md)
 * [👕 Wearables](gameplay/wearables.md)
-* [♟ Mini Games](gameplay/mini-games.md)
+* [♟ Mini Games](gameplay/mini-games/README.md)
+  * [🐸 CODE NAME: Crossy Toad](gameplay/mini-games/code-name-crossy-toad.md)
 
 ## FROGLAND NEWS NETWORK (FNN)
 

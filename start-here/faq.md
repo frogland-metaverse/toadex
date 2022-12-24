@@ -32,7 +32,7 @@ Yes, for the price of one NFT! We will take a snapshot of wallet addresses when 
 
 ### _**How do I claim or mint my land?**_
 
-It's super easy!! We wrote up a medium article that you can reference [here](https://frogland.medium.com/the-promised-land-a8181e70dd08), or the same content is located in the Toadex here [how-to-claim-land-mint-land-or-check-claim-status.md](../community/how-to-claim-land-mint-land-or-check-claim-status.md "mention").&#x20;
+It's super easy!! We wrote up a medium article that you can reference [here](https://frogland.medium.com/the-promised-land-a8181e70dd08), or the same content is located in the Toadex here [Broken link](broken-reference "mention").&#x20;
 
 ### _What do with Notorious Frog after land drop?_
 

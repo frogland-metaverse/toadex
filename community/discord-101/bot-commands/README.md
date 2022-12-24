@@ -37,3 +37,9 @@ When in doubt, ask a member of the Mod Squad for help!
 {% content-ref url="utility-commands.md" %}
 [utility-commands.md](utility-commands.md)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+**HOT TIP:** check out the role progress map below - somefrog found it floating around the sewer system in Frogland, and it's been invaluable... :point\_down:
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/role progress map.png" alt=""><figcaption><p>I wonder who created this map?</p></figcaption></figure>
