@@ -1,6 +1,6 @@
-# Dark Magik Guild
+# Dark Magick Guild
 
-As the magical trials in the Magik Guild become more and more difficult, some frogs become extremely frustrated. A small portion of them walk away from their lessons, content with what they have learned, to pursue other endeavors. Others start to hear voices inside their heads…
+As the magical trials in the Magick Guild become more and more difficult, some frogs become extremely frustrated. A small portion of them walk away from their lessons, content with what they have learned, to pursue other endeavors. Others start to hear voices inside their heads…
 
 “This is not your destiny”&#x20;
 
@@ -72,4 +72,4 @@ A frog of pure heart walks through the door to see that he is once again standin
 
 A frog that has given selfish and self-serving answers enters the door to find himself standing in front of a group of frogs that he has never seen before. They are sitting upon thrones that seem to be made of the skeletons of creatures that he has never encountered. A pale, cold looking frog with a wicked grin upon his face, and a forked tongue, motions the frog to come forth and kneel. “I see that we have one that may have what it takes to know the true meaning of the word POWER,” he says.
 
-Welcome to the Dark Magik Guild… Your training has just begun….
+Welcome to the Dark Magick Guild… Your training has just begun….

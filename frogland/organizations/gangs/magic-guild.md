@@ -2,13 +2,13 @@
 description: The lore and frogs behind this gang.
 ---
 
-# Magik Guild
+# Magick Guild
 
-### Magik Guild Founding Story
+### Magick Guild Founding Story
 
 Coming soon...
 
-### ​​**The Eight** Schools of Magic
+### ​​**The Eight** Schools of Magick
 
 #### **The School of Abjuration**
 
