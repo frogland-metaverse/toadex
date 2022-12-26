@@ -211,6 +211,8 @@
       * [Froggy Fresh](frogland/lore/fbi-flyles/wanted-posters/froggy-fresh.md)
       * [Slimy Salamanders](frogland/lore/fbi-flyles/wanted-posters/slimy-salamanders.md)
       * [Grahampa Frog](frogland/lore/fbi-flyles/wanted-posters/grahampa-frog.md)
+      * [Snoop Frog](frogland/lore/fbi-flyles/wanted-posters/snoop-frog.md)
+      * [Santa Frog](frogland/lore/fbi-flyles/wanted-posters/santa-frog.md)
     * [Rap Sheets](frogland/lore/fbi-flyles/rap-sheets/README.md)
       * [Frog Team Rap Sheets](frogland/lore/fbi-flyles/rap-sheets/frog-team-rap-sheets/README.md)
         * [Lollihops](frogland/lore/fbi-flyles/rap-sheets/frog-team-rap-sheets/lollihops.md)
