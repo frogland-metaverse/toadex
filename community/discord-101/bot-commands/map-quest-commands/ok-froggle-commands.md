@@ -82,3 +82,5 @@ $ok-froggle-help
 $ok-froggle-what-is-a-nibbler
 
 $ok-froggle-why-does-the-message-disappear
+
+$ok-froggle-command-help
