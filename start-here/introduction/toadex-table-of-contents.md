@@ -177,10 +177,6 @@ Engage to grow future ancient forests and repay some of our collective carbon de
 
 Hosted by Horny the Toad, these are live masterclasses hosted by Frog Team members for community members in the team member's area of expertise.&#x20;
 
-### [ai-blocks.md](../../community-projects/ai-blocks.md "mention")
-
-An AI platform with custom trained Notorious Frog models and available to holders only. Use this tool to create your own visual content with the help of an AI to add to your lore!
-
 </details>
 
 <details>
