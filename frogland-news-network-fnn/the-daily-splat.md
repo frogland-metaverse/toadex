@@ -1,7 +1,7 @@
 ---
 description: The Daily Splat is Frogland's own sensationalist tabloid news source.
-cover: https://imgur.com/5JffNYz.jpg
-coverY: 503.15906562847607
+cover: ../.gitbook/assets/Logo.png
+coverY: 0
 ---
 
 # 📰 The Daily Splat
