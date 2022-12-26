@@ -59,6 +59,7 @@
   * [💻 Coding, Tech, and Dev Work](community-projects/horny-toads-usd2-thursdays/coding-tech-and-dev-work.md)
   * [🎮 Modeling, Rigging, and Animating Game Assets](community-projects/horny-toads-usd2-thursdays/modeling-rigging-and-animating-game-assets.md)
   * [🤖 AI and Machine Learning Techniques](community-projects/horny-toads-usd2-thursdays/ai-and-machine-learning-techniques.md)
+* [🤖 Ai Blocks](community-projects/ai-blocks.md)
 
 ## ARCHITECTURE
 
