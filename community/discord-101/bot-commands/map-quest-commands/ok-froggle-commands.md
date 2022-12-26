@@ -80,3 +80,5 @@ $ok-froggle-give-me-a-puzzle
 $ok-froggle-help
 
 $ok-froggle-what-is-a-nibbler
+
+$ok-froggle-why-does-the-message-disappear
