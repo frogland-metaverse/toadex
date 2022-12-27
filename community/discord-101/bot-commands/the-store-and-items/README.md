@@ -55,6 +55,20 @@ __:warning: _ **Example**:_ $use revolver
 
 </details>
 
+<details>
+
+<summary>$sell [item name]</summary>
+
+You can sell items in your inventory to other users to make some frog dollars. After you input the command with the item name, quantity, and who you're selling to, the bot will ask you for a price. These items can be from the Frog Team or $store inventory, or you can talk to Lollihops to create custom items for her to add to the store, or add to your inventory to sell. **Make sure the person you're intending to sell to is around - the sale deals expire in 5 minutes!!**&#x20;
+
+**Feeling generous?** You can also give someone an item for free using the same command! Just set the price to 0 when you sell.&#x20;
+
+__:warning: _ **Example**:_ $sell-item @Bullish Frog 5 Fish Scale
+
+<img src="../../../../.gitbook/assets/Screen Shot 2022-12-27 at 3.50.53 PM.png" alt="" data-size="original">****
+
+</details>
+
 {% hint style="warning" %}
 _**Be cautious - using an item can have a lasting effect!** Some items may award a role, but others may remove one. Some items may open up access to new channels, while other items may only be able to be used once. Others still may allow the user to give a different bot command, but for a short time period._
 {% endhint %}
