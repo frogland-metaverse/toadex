@@ -84,3 +84,13 @@ $ok-froggle-what-is-a-nibbler
 $ok-froggle-why-does-the-message-disappear
 
 $ok-froggle-command-help
+
+$ok-froggle-who-is-sbf
+
+$ok-froggle-who-is-croakaline
+
+$ok-froggle-what-is-the-prisoners-dilemma
+
+$ok-froggle-how-to-play-prisoners-dilemma
+
+$ok-froggle-how-to-play-bribe-or-bounty

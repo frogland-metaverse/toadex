@@ -14,8 +14,8 @@ description: >-
 [the-nibbler.md](the-nibbler.md)
 {% endcontent-ref %}
 
-{% content-ref url="santa-frogs.md" %}
-[santa-frogs.md](santa-frogs.md)
+{% content-ref url="santa-frogs/" %}
+[santa-frogs](santa-frogs/)
 {% endcontent-ref %}
 
 ## Looking for a hint, or have a question about your quest? OK Froggle can help! :point\_down:
