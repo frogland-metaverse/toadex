@@ -460,7 +460,7 @@ The magical neighborhood where all arcane endeavors have their storefronts.
 
 There are many characters in Frogland - some even legends in and of themselves.
 
-[suave-mudderfroggers.md](../../frogland/characters/suave-mudderfroggers.md "mention")\
+[suave-mudderfroggers](../../frogland/characters/suave-mudderfroggers/ "mention")\
 Maverick cops with a troubled past and nothing left to lose are essential in frog noire.
 
 [femme-fatales.md](../../frogland/characters/femme-fatales.md "mention")\
