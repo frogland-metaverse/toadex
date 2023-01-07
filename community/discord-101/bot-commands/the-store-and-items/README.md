@@ -82,3 +82,7 @@ _**Be cautious - using an item can have a lasting effect!** Some items may award
 {% content-ref url="../../../../gameplay/bot-commands/the-store-and-items/the-murky-waters-menu.md" %}
 [the-murky-waters-menu.md](../../../../gameplay/bot-commands/the-store-and-items/the-murky-waters-menu.md)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+Try the command $role-map, or $role-income list, or $item-info \[item name] in discord!
+{% endhint %}

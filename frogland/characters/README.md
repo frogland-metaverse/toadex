@@ -12,6 +12,6 @@ As with concept art, these are still very much works in progress and not final -
 [suave-mudderfroggers](suave-mudderfroggers/)
 {% endcontent-ref %}
 
-{% content-ref url="femme-fatales.md" %}
-[femme-fatales.md](femme-fatales.md)
+{% content-ref url="femme-fatales/" %}
+[femme-fatales](femme-fatales/)
 {% endcontent-ref %}

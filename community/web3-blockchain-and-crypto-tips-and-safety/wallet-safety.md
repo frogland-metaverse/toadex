@@ -14,6 +14,10 @@ MetaMask is code installed into the browser. It stores an encrypted copy of your
 _It is possible for a scam site to compromise your wallet in other ways though, even if you didn't sign a transaction. See_ [different-kinds-of-attacks.md](different-kinds-of-attacks.md "mention") for more.&#x20;
 {% endhint %}
 
+{% embed url="https://youtu.be/Af_lQ1zUnoM" %}
+How to set up MetaMask video for beginners.&#x20;
+{% endembed %}
+
 ## Best Practices
 
 {% hint style="success" %}

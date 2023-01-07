@@ -6,6 +6,10 @@ description: >-
 
 # 💸 Items For Sale
 
+{% hint style="success" %}
+Try the command $role-map, or $role-income list, or $item-info \[item name] in discord!
+{% endhint %}
+
 <details>
 
 <summary>The Daily Splat</summary>

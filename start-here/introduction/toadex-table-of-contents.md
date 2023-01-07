@@ -463,7 +463,7 @@ There are many characters in Frogland - some even legends in and of themselves.
 [suave-mudderfroggers](../../frogland/characters/suave-mudderfroggers/ "mention")\
 Maverick cops with a troubled past and nothing left to lose are essential in frog noire.
 
-[femme-fatales.md](../../frogland/characters/femme-fatales.md "mention")\
+[femme-fatales](../../frogland/characters/femme-fatales/ "mention")\
 Just when you think you've found the one...she pulls a gun.
 
 ### [quests](../../frogland/quests/ "mention")

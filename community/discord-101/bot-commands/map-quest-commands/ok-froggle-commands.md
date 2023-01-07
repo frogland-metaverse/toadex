@@ -94,3 +94,21 @@ $ok-froggle-what-is-the-prisoners-dilemma
 $ok-froggle-how-to-play-prisoners-dilemma
 
 $ok-froggle-how-to-play-bribe-or-bounty
+
+$ok-froggle-AAAAAAA
+
+$ok-froggle-why-aaaaaaa
+
+$ok-froggle-why-do-we-aaaaaaa
+
+$ok-froggle-how-many-a-is-the-right-amount-of-a
+
+$ok-froggle-how-much-a-is-the-right-a
+
+$ok-froggle-how-many-as
+
+$ok-froggle-how-many-A
+
+$ok-froggle-how-many-As
+
+$ok-froggle-how-many-a
