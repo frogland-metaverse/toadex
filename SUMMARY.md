@@ -108,6 +108,7 @@
     * [📚 Translator Bot](gameplay/bot-commands/utility-commands/translator-bot.md)
     * [🎶 Music Bots](gameplay/bot-commands/utility-commands/music-bots.md)
     * [🤖 OK Froggle...](gameplay/bot-commands/utility-commands/ok-froggle-commands.md)
+    * [ℹ Informational](gameplay/bot-commands/utility-commands/informational.md)
 * [🏝 Land](gameplay/land/README.md)
   * [Types of Land](gameplay/land/types-of-land.md)
   * [🏝 Biomes of Frogland](gameplay/land/ecological-zones-in-frogland.md)

@@ -17,3 +17,7 @@ There are some bots and bot commands that are purely utility driven and there to
 {% content-ref url="ok-froggle-commands.md" %}
 [ok-froggle-commands.md](ok-froggle-commands.md)
 {% endcontent-ref %}
+
+{% content-ref url="informational.md" %}
+[informational.md](informational.md)
+{% endcontent-ref %}
