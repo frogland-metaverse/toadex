@@ -20,6 +20,6 @@ description: >-
 
 ## Looking for a hint, or have a question about your quest? OK Froggle can help! :point\_down:
 
-{% content-ref url="../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md" %}
-[ok-froggle-commands.md](../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md)
+{% content-ref url="../utility-commands/ok-froggle-commands.md" %}
+[ok-froggle-commands.md](../utility-commands/ok-froggle-commands.md)
 {% endcontent-ref %}

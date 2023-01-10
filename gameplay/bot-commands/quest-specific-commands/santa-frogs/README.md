@@ -19,7 +19,7 @@ However, his favorite polywog, Croakaline, is cooperating with the FLPD and rece
 The FLPD has put out a request to the good citizens of Frogland asking for your help bringing in the imposter Santa Frogs for "questioning". After a week of unsuccessful investigation, they've even put out a bounty of 20 Fish Scales for frogs who bring in one of the Santa Frogs to the station. :eyes:
 
 {% hint style="info" %}
-**Looking for a** [**hint**](../../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md)**?** :eyes:****
+**Looking for a** [**hint**](../../utility-commands/ok-froggle-commands.md)**?** :eyes:****
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/Santa Frog bounty.png" alt=""><figcaption></figcaption></figure>

@@ -54,8 +54,8 @@ A brand spanking new ticket for the most popular pastime for flirtatious frogste
 
 ## Looking for a hint or some help? Ask OK Froggle! :point\_down:
 
-{% content-ref url="map-quest-commands/ok-froggle-commands.md" %}
-[ok-froggle-commands.md](map-quest-commands/ok-froggle-commands.md)
+{% content-ref url="../../../gameplay/bot-commands/utility-commands/ok-froggle-commands.md" %}
+[ok-froggle-commands.md](../../../gameplay/bot-commands/utility-commands/ok-froggle-commands.md)
 {% endcontent-ref %}
 
 ## And of course... :point\_down:

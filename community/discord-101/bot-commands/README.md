@@ -34,8 +34,8 @@ When in doubt, ask a member of the Mod Squad for help!
 [community-lore-commands.md](community-lore-commands.md)
 {% endcontent-ref %}
 
-{% content-ref url="utility-commands.md" %}
-[utility-commands.md](utility-commands.md)
+{% content-ref url="../../../gameplay/bot-commands/utility-commands/" %}
+[utility-commands](../../../gameplay/bot-commands/utility-commands/)
 {% endcontent-ref %}
 
 {% hint style="success" %}

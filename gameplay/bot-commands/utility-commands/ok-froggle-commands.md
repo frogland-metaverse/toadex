@@ -112,3 +112,23 @@ $ok-froggle-how-many-A
 $ok-froggle-how-many-As
 
 $ok-froggle-how-many-a
+
+$land-synthesis-device
+
+$syndicates
+
+$gangs
+
+$levels-and-affiliations
+
+$planning-commission
+
+$manifesto
+
+$boosts
+
+$essence
+
+$spoiler-alert
+
+$property-mechanics

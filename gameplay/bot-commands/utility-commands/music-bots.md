@@ -1,36 +1,8 @@
 ---
-description: Using the powers of the bots for notoriety, not nefariousness.
+description: Do you hear the sound of music...
 ---
 
-# 🛠 Utility Commands
-
-There are some bots and bot commands that are purely utility driven and there to help.
-
-## Translator Bot
-
-<details>
-
-<summary>/translate:</summary>
-
-This is a massively helpful tool for communicating with those outside of your native language. While we do have at least one mod that speaks at least one of the languages in our International Frogs section, this tool is massively helpful all the way around.
-
-**Example**
-
-**/translate:** \[What you want to say goes here] **to:** \[choice of language]
-
-</details>
-
-<details>
-
-<summary>Translate via Emoji Reactions</summary>
-
-If you would like to request a translation into a different language, react to the message with the flag of the country who's language you wold like the message translated into. The bot will translate and reply to you in the same channel for ease of communication.
-
-**Example**
-
-If there is a message written in English and I would like to see it in French, click on the :flag\_fr: emoji, which will prompt the bot to put out a translation of that message into that channel.
-
-</details>
+# 🎶 Music Bots
 
 ## Music Bots
 
@@ -44,7 +16,7 @@ This bot can be used in the **#Speakeasy**, **#Lilypad-Lounge**, or any other vo
 
 <details>
 
-<summary><strong>$play</strong></summary>
+<summary>$play</summary>
 
 Follow the command with a **song title**, **artist name**, **album**, or **UR**L. Plays a song if nothing is on, otherwise adds to the queue.
 
@@ -52,7 +24,7 @@ Follow the command with a **song title**, **artist name**, **album**, or **UR**L
 
 <details>
 
-<summary><strong>$radio</strong></summary>
+<summary>$radio</summary>
 
 Follow the command with the **radio station name.** Stream a radio station.
 
@@ -94,7 +66,7 @@ Adds the songs back to the queue when finished.
 
 <summary><strong>$queue</strong></summary>
 
-View songs in the queue\*\*.\*\*
+View songs in the queue.
 
 </details>
 

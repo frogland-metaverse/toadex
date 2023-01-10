@@ -257,7 +257,7 @@ Commands specific to certain quests, whether completed or still live!
 [community-lore-commands.md](../../community/discord-101/bot-commands/community-lore-commands.md "mention")\
 Commands relative to the community, their lore, or entertainment value.
 
-[utility-commands.md](../../community/discord-101/bot-commands/utility-commands.md "mention")\
+[utility-commands](../../gameplay/bot-commands/utility-commands/ "mention")\
 All of the boring but smart commands to make discord work harder, not you.
 
 ### [land](../../gameplay/land/ "mention")

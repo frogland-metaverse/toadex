@@ -31,5 +31,5 @@ You have 60 seconds to make your choice, once the game begins.&#x20;
 </details>
 
 {% hint style="info" %}
-**Looking for a** [**hint**](../../../../community/discord-101/bot-commands/map-quest-commands/ok-froggle-commands.md)**?** :eyes:****
+**Looking for a** [**hint**](../../utility-commands/ok-froggle-commands.md)**?** :eyes:****
 {% endhint %}
