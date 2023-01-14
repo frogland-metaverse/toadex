@@ -1,5 +1,5 @@
 ---
-description: Frogland; Beautiful, but Dangerous
+description: Frogland; Beautiful and Dangerous
 ---
 
 # 🔍 Aesthetics
