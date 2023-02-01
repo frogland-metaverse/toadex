@@ -6,6 +6,16 @@ description: >-
 
 # 👾 New Froghodlrs' Guide: Discord Edition
 
+### The _"I Bought a Frog! Now What?"_ Checklist
+
+* [ ] Join our [discord](https://discord.gg/frogland)
+* [ ] Learn about the [traits, affiliations, stats, and boosts](../../architecture/non-fungible-tokens/the-notorious-frogs/) of your frog
+* [ ] Claim your notoriously froggy nickname (ask for a mod in discord's gen chat!)
+* [ ] Request access to the Dragonfly Mac or PC installer via our #message-board channel
+* [ ] Write your frog's [backstory](../../gameplay/character-development/) and mint it on [Hyype](https://hyy.pe)
+* [ ] Learn about [gangs](../../frogland/organizations/gangs-guilds-and-groups.md) and [syndicates](../../frogland/organizations/syndicates.md) from their lore - then join one or create your own!
+* [ ] Follow the Frogland [social media accounts](new-froghodlrs-guide-discord-edition.md#timeline)
+
 ## :green\_heart: **Welcome to Frogland!** :green\_heart:
 
 If you’re brand new here, the Discord might be a little overwhelming, so this guide is here to help you get started.
@@ -24,14 +34,14 @@ There are a lot of channels in the Discord. Some are more practical like the **#
 
 Have you seen the video of the game? This is actual in-game footage from the released alpha. The setting is the Dragonfly Club, which will be one of the many buildings in the metaverse.
 
-{% embed url="https://youtu.be/Z3L9zW3IUW4" %}
-A trailer for the Dragonfly Social Club metaverse demo, made by one of our mods, Hazer. &#x20;
+{% embed url="https://youtu.be/Z3L9zW3IUW4?sub_confimation=1" %}
+The Dragonfly Social Club is a multiplayer experience available on Mac and PC.&#x20;
 {% endembed %}
 
-We also have several videos of the seven different types of land, called biomes, in Frogland. You can see them all in this trailer for our land/metaverse:
+We also have several videos of the seven different types of land, or biomes, in Frogland. You can see them all in this trailer for our land/metaverse:
 
-{% embed url="https://youtu.be/s1E1kT3B5go" %}
-The Frogland 'Land Biomes' trailer.&#x20;
+{% embed url="https://youtu.be/s1E1kT3B5go?sub_confimation=1" %}
+The Frogland trailer for the seven biomes. These will be accessible as private land instances during build out.
 {% endembed %}
 
 ### **Playable Demo**
@@ -82,11 +92,13 @@ If you have questions, probably a good place to ask is to ask your question **@M
 **@Don-Luv#1337** - coding, rarity, traits, and game design\
 **@Ajax93#4215** - community management, discord, and production
 
-**Make sure to not add more than five @’s in a single discord message or the security bot will ban you!**
+{% hint style="danger" %}
+**Do NOT use more than five @’s in a single discord message** or the security bot will ban you!
+{% endhint %}
 
 ### **Timeline**
 
-All the frogs have been minted, and for each frog you have, you will receive a piece of land in the metaverse (snapshot happening **soon**). The team is working on the land mechanics, the metaverse itself, and gaming. The best way to keep up with the progress is to attend or listen to the recorded town halls on #📻︱khop-radio or following Frogland on Twitter Frogland.io (@Frogland\_io) / Twitter
+All the frogs have been minted, and for each frog you have, you will receive a piece of land in the metaverse (snapshot happening **soon**). The team is working on the land mechanics, the metaverse itself, and gaming. The best way to keep up with the progress is to attend or listen to the recorded town halls on [KHOP radio](../../frogland-news-network-fnn/khop-radio/) or following Frogland on [Twitter](https://twitter.com/Frogland\_io), [Instagram](https://www.instagram.com/frogland.io/), [Tiktok](https://www.tiktok.com/@frogland\_io), [YouTube](https://www.youtube.com/@Frogland?sub\_confimation=1), [Twitch](https://www.twitch.tv/frogland\_io), [Facebook](https://www.facebook.com/profile.php?id=100088607566118), and [Medium](https://medium.com/@frogland).&#x20;
 
 ### **Other Districts in the NewPangea Metaverse**
 

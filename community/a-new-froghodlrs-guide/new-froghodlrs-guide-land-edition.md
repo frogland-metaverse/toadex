@@ -6,6 +6,13 @@ description: >-
 
 # 🏔 New Froghodlr's Guide: Land Edition
 
+### The "Wait - Buy Frog, Get Land?" Checklist
+
+* [ ] Check your frog's land claim status at [our website](https://frogland.io/mint) or using the [Rareboy](https://rareboy.com/) extension
+* [ ] If unclaimed, CLAIM!! Or don't - it's up to you! Claim will stay open until all frogs have claimed their land.&#x20;
+* [ ] Read up on the [lore of the Land Synthesis Devices](../../frogland/lore/canon/the-land-synthesis-device-and-our-forgotten-past.md)
+* [ ] Learn how your LSD represents [land ownership](../../gameplay/land/land-deeds.md) and [much](../../architecture/non-fungible-tokens/lilypads.md), much more
+
 We have a plethora of both narrative and tech based literature out about both the [Land Devices](https://medium.com/@frogland/the-land-synthesis-device-and-our-forgotten-past-88e74921dbe8), [Land Mechanics](https://frogland.medium.com/property-mechanics-in-newpangea-522e4c1b2e1e), and the value of [holding your Frogs](https://frogland.medium.com/notorious-frogs-the-essence-of-frogland-afbf7c64781f) after the land claim. There is also a significant amount of content worth going through in our white paper ([The Toadex](https://frogland.gitbook.io/toadex/)) including a section on gameplay interactions, on the current NFTs in the Frogland ecosystem, how they interact in game, and the blockchain integrations.
 
 Part of that reading includes the development of the ‘land deeds’ concept early this year, and how it has evolved to be more fitting with the narrative of the Notorious Frogs into its current state.

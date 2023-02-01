@@ -4,9 +4,7 @@ description: The 10k generative and genesis collection of the NewPangea metavers
 
 # 🐸 The Notorious Frogs
 
-{% embed url="https://opensea.io/collection/notorious-frogs" %}
-The Notorious Frogs of Frogland on OpenSea.&#x20;
-{% endembed %}
+**Official OpenSea page:** [https://opensea.io/collection/notorious-frogs](https://opensea.io/collection/notorious-frogs)
 
 ## What Does It All Mean?
 

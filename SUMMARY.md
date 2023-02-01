@@ -26,7 +26,7 @@
 
 ## COMMUNITY
 
-* [🐸 The Ultimate Guide](community/a-new-froghodlrs-guide.md)
+* [🐸 The Froghodlrs' Ultimate Guide](community/a-new-froghodlrs-guide.md)
   * [👾 New Froghodlrs' Guide: Discord Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-discord-edition.md)
   * [📚 New Froghodlr's Guide: Toadex Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-toadex-edition.md)
   * [🏔 New Froghodlr's Guide: Land Edition](community/a-new-froghodlrs-guide/new-froghodlrs-guide-land-edition.md)
