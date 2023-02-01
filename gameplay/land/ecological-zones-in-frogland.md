@@ -1,6 +1,14 @@
+---
+description: >-
+  Each of the seven biomes has it's own unique features, resources, dangers, and
+  challenges.
+---
+
 # 🏝 Biomes of Frogland
 
-## The Seven Different Biomes of Frogland
+{% embed url="https://youtu.be/s1E1kT3B5go?sub_confimation=1" %}
+The trailer for the seven biomes of Frogland.
+{% endembed %}
 
 Residential land is zoned according to different criteria, the most important of which are its ecological domain: the aggregate of its terrain, plant life, animal habitat, and any inorganic items available in that zone type. Each plot of land exists in an ecology that is important for the three pillars of the NewPangea experience: _‘Adventure in a Quirky World’, ‘Community and Socially Driven’, and ‘Tokenomics and Trading’_**.** Ensuring the balance of questing, resource acquisition, resource farming, and social interaction is cohesively and deeply interlinked is paramount for the success of the metaverse.
 

@@ -20,4 +20,4 @@ We discuss the origins, the philosophy, and the journey that brought these folks
 
 **Hazer:** https://twitter.com/HazerLive
 
-#### If you know someone who should be on the show, reach out to Hazer, Lollihops, or Ribbert301.
+#### If you know someone who should be on the show, reach out to Hazer or Lollihops.

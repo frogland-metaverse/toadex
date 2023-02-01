@@ -6,21 +6,21 @@ coverY: 365.09758897818597
 
 # 🎥 Frogs in the News
 
-Edge of NFT podcast - [https://www.youtube.com/watch?v=opVsqub3bx4](https://www.youtube.com/watch?v=opVsqub3bx4)
+Edge of NFT podcast - [https://www.youtube.com/watch?v=opVsqub3bx4?sub\_confimation=1](https://www.youtube.com/watch?v=opVsqub3bx4?sub\_confimation=1)
 
-UN Panel with Snoop Frog - [https://youtu.be/-2tXEaqSEu4?t=32700](https://youtu.be/-2tXEaqSEu4?t=32700)
+UN Panel with Snoop Frog - [https://youtu.be/-2tXEaqSEu4?t=32700?sub\_confimation=1](https://youtu.be/-2tXEaqSEu4?t=32700?sub\_confimation=1)
 
 Community made video of the origin of Frogland - [https://twitter.com/Frogland\_io/status/1442512946387566602?s=20](https://twitter.com/Frogland\_io/status/1442512946387566602?s=20)
 
-Mainnet NYC 2021 with Snoop Frog - [https://youtu.be/vq1bCYHibNs](https://youtu.be/vq1bCYHibNs)
+Mainnet NYC 2021 with Snoop Frog - [https://youtu.be/vq1bCYHibNs?sub\_confimation=1](https://youtu.be/vq1bCYHibNs?sub\_confimation=1)
 
-NFT NYC Interview with Snoop Frog - [https://youtu.be/70deVxcS\_Ic](https://youtu.be/70deVxcS\_Ic)
+NFT NYC Interview with Snoop Frog - [https://youtu.be/70deVxcS\_Ic?sub\_confimation=1](https://youtu.be/70deVxcS\_Ic?sub\_confimation=1)
 
-Crypto Miami 2021 with Snoop Frog - [https://youtu.be/WCscIMFGlH4](https://youtu.be/WCscIMFGlH4)
+Crypto Miami 2021 with Snoop Frog - [https://youtu.be/WCscIMFGlH4?sub\_confimation=1](https://youtu.be/WCscIMFGlH4?sub\_confimation=1)
 
-Metaverse Panel with Edge of NFT in Crypto Miami - [https://youtu.be/4U4pGhV5100](https://youtu.be/4U4pGhV5100)
+Metaverse Panel with Edge of NFT in Crypto Miami - [https://youtu.be/4U4pGhV5100?sub\_confimation=1](https://youtu.be/4U4pGhV5100?sub\_confimation=1)
 
-NewPangea Metaverse Demo - [https://youtu.be/FKql3XW1dGM](https://youtu.be/FKql3XW1dGM)
+NewPangea Metaverse Demo - [https://youtu.be/FKql3XW1dGM?sub\_confimation=1](https://youtu.be/FKql3XW1dGM?sub\_confimation=1)
 
 Twitch Stream of Demo - [https://www.twitch.tv/videos/1254299168](https://www.twitch.tv/videos/1254299168)
 
@@ -42,11 +42,11 @@ Office Hours with Metaverse HQ & Frogland - [https://www.youtube.com/watch?v=rWZ
 
 Thibault (@Thibault) YouTube Review - [https://youtu.be/EqWEJhkXp\_w](https://youtu.be/EqWEJhkXp\_w)&#x20;
 
-Frogland Biomes Teaser Playlist - [https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8](https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8)&#x20;
+Frogland Biomes Teaser Playlist - [https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8?sub\_confimation=1](https://youtube.com/playlist?list=PLRnjV7d-TjJSe9V9iqA7XdhXdh8si8wO8?sub\_confimation=1)
 
-Strange Signals YouTube Shorts Playlist - [https://youtube.com/playlist?list=PLRnjV7d-TjJQO7AahAPsZmGGOxdNgXMin](https://youtube.com/playlist?list=PLRnjV7d-TjJQO7AahAPsZmGGOxdNgXMin)&#x20;
+Serial Drama YouTube Playlist - [https://youtu.be/Th4TT4JVWuo?sub\_confimation=1](https://youtu.be/Th4TT4JVWuo?sub\_confimation=1)
 
-Frogland 'Biomes' Trailer - [https://youtu.be/s1E1kT3B5go](https://youtu.be/s1E1kT3B5go)&#x20;
+Frogland 'Biomes' Trailer - [https://youtu.be/s1E1kT3B5go?sub\_confimation=1](https://youtu.be/s1E1kT3B5go?sub\_confimation=1)
 
 Blockchain Gaming Alliance New Member Presentation (Snoop Frog begins around the 31 minute mark) - [https://www.youtube.com/watch?v=eLo294ltoO4](https://www.youtube.com/watch?v=eLo294ltoO4)
 

@@ -8,12 +8,12 @@ description: >-
 
 {% tabs %}
 {% tab title="Bugs" %}
-{% embed url="https://youtu.be/luyUAzRKcfY" %}
-Modeling a Character with Bugs. (What is a character? Anything with a soul!)
+{% embed url="https://youtube.com/live/luyUAzRKcfY?sub_confimation=1" %}
+Modeling a Character Asset with Bugs. (What is a character? Anything with a soul!)
 {% endembed %}
 
-{% embed url="https://youtu.be/F_O_FF1H0cU" %}
-Basic rigging and animating of a model in Blender with Bugs.&#x20;
+{% embed url="https://youtube.com/live/F_O_FF1H0cU?sub_confimation=1" %}
+Modeling, Rigging, and Animating a Character Asset with Bugs.
 {% endembed %}
 {% endtab %}
 

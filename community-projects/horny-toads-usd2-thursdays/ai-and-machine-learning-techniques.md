@@ -9,8 +9,8 @@ description: >-
 
 {% tabs %}
 {% tab title="Hazer" %}
-{% embed url="https://youtu.be/eEQPjV4jzJE" %}
-Utilizing AI for frog art with Hazer.&#x20;
+{% embed url="https://youtu.be/eEQPjV4jzJE?sub_confimation=1" %}
+AI image creation with Spot of the Nazar, a community mod.&#x20;
 {% endembed %}
 {% endtab %}
 

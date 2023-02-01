@@ -9,8 +9,6 @@ coverY: -78.53318331760383
 
 We ended up moving forward with a middle ground somewhere between photorealistic and toon shaded, landing on something close to this. Everything looks pretty photo-real until you zoom in - then you notice it’s more of a painterly style that gives it the depth and texture, without increasing the poly count that would make it a higher CPU and GPU strain to render out big spaces like this. Some of the flatter parts that have less texture naturally (like the flat side of the house), and there you’ll see the toon shading more clearly. In contrast, it’s not as noticeable and is nearly photorealistic in the sky and water.
 
-{% embed url="https://youtu.be/r7d_Tfg6cHU" %}
-The Coastal teaser.&#x20;
-{% endembed %}
+{% embed url="https://youtu.be/r7d_Tfg6cHU?sub_confimation=1" %}
 
 More info coming soon...
